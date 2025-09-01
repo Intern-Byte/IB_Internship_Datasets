@@ -1,0 +1,861 @@
+SquareFootage,Bedrooms,Bathrooms,YearBuilt,HouseType,Location,FurnishingStatus,GarageSpaces,LotSize,Price_Lakhs
+2195,5,5,1983,Row House,Moradabad,Semi-Furnished,2,4297.05,123.01
+1007,2,2,2017,Apartment,Dehradun,Unfurnished,2,2676.19,103.04
+2216,4,2,2015,Apartment,Nainital,Furnished,2,5516.48,172.96
+1165,2,1,2001,Villa,Lucknow,Semi-Furnished,0,1473.5,123.71
+3133,5,6,1986,Row House,Lucknow,Unfurnished,1,5004.97,163.63
+1386,3,2,1995,Apartment,Delhi,Unfurnished,1,2119.8,155.02
+2748,4,5,1983,Bungalow,Haldwani,Furnished,1,6438.35,166.49
+3282,5,3,1996,Villa,Haldwani,Semi-Furnished,0,6766.7,219.03
+1761,3,4,1999,Bungalow,Haldwani,Furnished,1,2930.5,152.09
+3246,5,3,1999,Apartment,Noida,Unfurnished,0,5170.83,235.95
+2847,5,4,2009,Villa,Haldwani,Furnished,1,6683.05,245.54
+2795,6,6,2008,Villa,Nainital,Unfurnished,2,3671.18,290.58
+1058,2,2,1985,Apartment,Haldwani,Unfurnished,3,2303.49,60.85
+1486,3,1,2015,Apartment,Noida,Furnished,0,3816.1,173.35
+1918,4,5,2007,Apartment,Haldwani,Semi-Furnished,3,5246.22,126.88
+1800,4,1,2000,Villa,Lucknow,Unfurnished,3,2518.23,190.5
+2019,4,2,1995,Bungalow,Bareilly,Semi-Furnished,3,3826.96,140.75
+1707,4,4,1987,Bungalow,Bareilly,Semi-Furnished,0,3230.13,118.06
+2585,5,1,1987,Apartment,Nainital,Unfurnished,2,4233.15,131.25
+1104,2,2,2008,Row House,Moradabad,Furnished,1,2343.83,92.61
+3687,6,6,2007,Row House,Noida,Furnished,2,7115.11,409.83
+1569,3,1,1987,Apartment,Moradabad,Semi-Furnished,3,2127.32,87.67
+3007,5,3,2003,Row House,Dehradun,Semi-Furnished,1,7803.95,243.34
+2210,5,3,1991,Row House,Lucknow,Semi-Furnished,3,4252.0,147.28
+3253,5,6,2022,Villa,Dehradun,Unfurnished,1,6642.47,402.04
+831,2,2,1987,Bungalow,Nainital,Semi-Furnished,2,1850.56,92.5
+2016,3,4,2001,Villa,Mussoorie,Semi-Furnished,0,5350.52,246.52
+3052,5,3,1982,Villa,Delhi,Unfurnished,1,4171.19,343.43
+3372,5,4,1998,Bungalow,Lucknow,Unfurnished,3,9126.43,199.11
+2441,4,2,1980,Row House,Haldwani,Furnished,3,5612.33,149.26
+3412,5,5,2022,Bungalow,Haldwani,Unfurnished,2,9179.67,222.19
+3896,6,5,1994,Villa,Gurgaon,Unfurnished,0,7403.2,467.24
+3028,6,2,2010,Villa,Lucknow,Furnished,0,4539.17,326.3
+2550,5,3,2007,Bungalow,Noida,Semi-Furnished,1,6341.25,274.07
+2252,5,3,2001,Bungalow,Noida,Unfurnished,2,5594.38,206.7
+2764,5,4,2009,Apartment,Delhi,Semi-Furnished,2,4101.42,357.29
+2413,4,4,2011,Villa,Dehradun,Semi-Furnished,2,4927.87,294.02
+3216,5,3,2017,Villa,Dehradun,Furnished,0,6760.33,439.42
+1386,2,3,2003,Bungalow,Dehradun,Furnished,1,3499.78,168.17
+2521,4,3,2010,Row House,Gurgaon,Semi-Furnished,1,6824.2,254.38
+2321,4,4,2000,Apartment,Dehradun,Furnished,3,6395.73,212.82
+2536,4,4,1989,Villa,Gurgaon,Semi-Furnished,1,3468.97,320.15
+3123,5,6,1989,Bungalow,Haldwani,Semi-Furnished,2,4592.51,189.9
+4151,6,3,1995,Villa,Noida,Unfurnished,2,9231.29,425.26
+1723,4,2,1991,Villa,Gurgaon,Furnished,0,2998.7,258.85
+2227,4,4,2003,Villa,Haldwani,Semi-Furnished,1,3530.01,185.04
+1724,4,2,2002,Villa,Bareilly,Semi-Furnished,3,3826.97,185.74
+2470,4,3,2012,Row House,Moradabad,Semi-Furnished,3,6370.24,147.23
+2802,5,3,2022,Bungalow,Nainital,Unfurnished,1,6598.67,235.91
+1345,2,1,2007,Villa,Gurgaon,Unfurnished,3,3468.18,200.73
+3085,5,5,1986,Row House,Bareilly,Furnished,3,5654.7,192.35
+759,1,2,1991,Row House,Lucknow,Furnished,1,1624.77,75.02
+2710,4,4,2020,Villa,Dehradun,Furnished,1,5575.46,389.87
+1496,3,3,2007,Apartment,Lucknow,Semi-Furnished,0,3230.13,109.52
+1007,2,2,1989,Villa,Haldwani,Semi-Furnished,3,1988.38,103.11
+1451,3,1,2006,Row House,Gurgaon,Unfurnished,3,4055.61,165.41
+1158,2,3,2009,Row House,Delhi,Furnished,2,1852.12,197.64
+2519,5,1,2001,Row House,Moradabad,Furnished,3,3865.41,160.03
+2014,5,4,1994,Row House,Haldwani,Furnished,2,3065.17,135.03
+3466,6,1,2004,Villa,Gurgaon,Unfurnished,3,5345.91,421.15
+1618,3,2,2020,Apartment,Noida,Furnished,2,2080.05,214.77
+2117,5,4,1997,Bungalow,Moradabad,Furnished,0,3967.63,161.42
+1388,2,2,2018,Apartment,Dehradun,Semi-Furnished,0,2291.56,128.52
+3522,6,5,2002,Bungalow,Haldwani,Unfurnished,3,6289.43,199.6
+3543,5,6,2020,Row House,Haldwani,Semi-Furnished,3,5247.64,195.05
+4000,6,5,2014,Apartment,Bareilly,Furnished,3,9910.87,243.08
+1592,3,4,2024,Row House,Gurgaon,Furnished,2,2674.79,228.05
+2227,4,4,2018,Apartment,Noida,Unfurnished,2,6378.1,234.33
+1909,3,1,2010,Villa,Lucknow,Furnished,2,5195.14,233.19
+3537,6,6,1988,Apartment,Lucknow,Unfurnished,2,5440.06,177.01
+1832,4,4,2004,Row House,Lucknow,Unfurnished,3,4175.76,127.12
+3594,6,6,2023,Row House,Noida,Unfurnished,2,9993.41,365.14
+1554,4,5,2021,Apartment,Bareilly,Unfurnished,3,4187.23,115.39
+3067,5,2,2003,Row House,Haldwani,Furnished,3,7670.36,183.19
+3597,6,7,2016,Bungalow,Bareilly,Semi-Furnished,3,5510.99,233.45
+2005,5,4,2017,Row House,Mussoorie,Furnished,2,4237.95,198.81
+3005,5,5,1988,Bungalow,Haldwani,Semi-Furnished,0,8993.53,178.58
+1747,3,3,2009,Apartment,Mussoorie,Semi-Furnished,0,3787.89,144.18
+2978,5,2,2004,Apartment,Delhi,Unfurnished,3,8127.16,339.69
+1186,2,3,1992,Bungalow,Delhi,Unfurnished,2,2984.7,163.78
+2449,4,3,2016,Apartment,Bareilly,Unfurnished,2,4343.34,131.78
+2372,4,4,2004,Bungalow,Delhi,Furnished,3,3382.4,364.67
+3236,5,3,1999,Row House,Haldwani,Furnished,3,6343.43,195.91
+2037,4,2,2013,Row House,Mussoorie,Furnished,0,5136.26,189.78
+3674,6,3,1986,Row House,Moradabad,Semi-Furnished,3,9126.96,196.44
+2470,5,3,2011,Bungalow,Nainital,Furnished,0,5036.93,227.42
+1025,2,1,2002,Villa,Moradabad,Semi-Furnished,1,2491.56,110.15
+3122,5,2,2010,Bungalow,Delhi,Unfurnished,2,5519.88,382.16
+4018,6,3,2007,Bungalow,Moradabad,Unfurnished,3,9579.51,244.37
+1488,4,3,2010,Apartment,Gurgaon,Furnished,1,2626.54,204.09
+3282,5,3,2012,Row House,Noida,Unfurnished,0,7619.56,278.48
+2062,5,1,1994,Bungalow,Nainital,Semi-Furnished,2,5048.4,166.41
+1260,3,1,1998,Bungalow,Bareilly,Unfurnished,0,2960.9,101.44
+1675,3,4,2017,Villa,Dehradun,Furnished,1,3489.15,225.04
+3759,6,4,2011,Row House,Dehradun,Furnished,2,6195.03,322.84
+2132,4,4,1989,Villa,Haldwani,Furnished,3,3350.59,203.04
+4043,6,4,2004,Apartment,Moradabad,Furnished,3,5652.88,197.8
+1457,3,2,1984,Bungalow,Bareilly,Furnished,1,2233.15,115.15
+3877,6,6,1989,Bungalow,Nainital,Furnished,0,7959.08,284.15
+1240,2,3,2004,Row House,Dehradun,Semi-Furnished,1,3329.13,118.9
+2500,4,2,2012,Row House,Gurgaon,Furnished,1,4385.95,291.68
+1155,2,1,2019,Apartment,Nainital,Furnished,3,3177.72,126.54
+1249,2,3,1982,Villa,Gurgaon,Furnished,3,1724.89,195.36
+3742,6,7,2018,Apartment,Nainital,Unfurnished,0,9433.87,222.18
+2429,5,2,1991,Villa,Delhi,Unfurnished,3,4156.41,327.99
+2099,5,4,2005,Villa,Nainital,Semi-Furnished,3,4398.81,223.14
+2611,4,1,1982,Villa,Bareilly,Semi-Furnished,0,6766.19,204.31
+1282,2,1,1987,Bungalow,Haldwani,Furnished,3,1716.48,103.18
+2252,4,1,2000,Row House,Haldwani,Unfurnished,3,3717.39,114.28
+2428,5,2,2017,Villa,Noida,Unfurnished,1,5863.63,285.4
+2232,4,5,1988,Bungalow,Noida,Unfurnished,2,3336.56,204.28
+1435,2,1,1990,Apartment,Moradabad,Unfurnished,1,3044.29,66.17
+3294,5,5,1994,Bungalow,Noida,Unfurnished,0,6298.11,262.24
+2519,4,3,2008,Villa,Nainital,Unfurnished,2,4252.01,215.15
+382,1,1,1989,Villa,Bareilly,Furnished,3,865.25,83.98
+3419,5,6,1990,Apartment,Noida,Semi-Furnished,0,5934.34,268.08
+1213,2,1,2017,Apartment,Haldwani,Unfurnished,2,2844.75,81.44
+2550,5,3,2008,Villa,Mussoorie,Semi-Furnished,2,3341.6,263.14
+1129,2,2,1995,Row House,Moradabad,Semi-Furnished,1,2888.75,84.13
+2723,5,6,2022,Row House,Moradabad,Furnished,1,3874.1,192.83
+1569,4,3,1991,Bungalow,Mussoorie,Unfurnished,2,3082.93,153.29
+1777,3,2,2000,Bungalow,Mussoorie,Semi-Furnished,0,4575.42,187.9
+1212,3,3,2019,Apartment,Moradabad,Furnished,1,2910.8,104.9
+1087,2,2,2011,Villa,Dehradun,Semi-Furnished,3,2930.29,141.02
+2255,4,4,1989,Apartment,Bareilly,Semi-Furnished,3,4034.33,121.78
+2334,4,3,2006,Row House,Mussoorie,Semi-Furnished,2,6426.77,178.65
+3644,6,6,1992,Villa,Bareilly,Semi-Furnished,0,9426.54,289.87
+1088,2,2,1983,Bungalow,Bareilly,Unfurnished,1,2186.29,82.46
+3211,5,4,2006,Apartment,Delhi,Unfurnished,0,7242.45,361.64
+1033,2,3,1988,Bungalow,Bareilly,Furnished,2,1438.31,99.31
+1588,3,4,1996,Row House,Haldwani,Unfurnished,0,4101.48,89.59
+3734,6,2,2010,Bungalow,Noida,Furnished,1,7200.73,425.99
+2014,3,4,2006,Villa,Gurgaon,Unfurnished,3,4261.27,242.06
+2592,4,4,1997,Row House,Moradabad,Semi-Furnished,1,6438.74,142.12
+1871,4,3,2014,Row House,Dehradun,Furnished,1,3044.8,185.01
+1832,4,4,1996,Row House,Moradabad,Unfurnished,3,4923.68,106.88
+1802,3,4,2003,Row House,Noida,Unfurnished,3,2674.34,168.17
+4057,6,6,2016,Bungalow,Moradabad,Furnished,2,6388.94,272.82
+2873,5,6,2007,Apartment,Mussoorie,Furnished,3,5697.59,252.09
+3291,5,4,2009,Row House,Lucknow,Semi-Furnished,1,4196.2,197.66
+1443,2,1,2003,Row House,Gurgaon,Semi-Furnished,3,2484.7,159.98
+3210,5,2,2013,Bungalow,Lucknow,Unfurnished,3,5565.41,208.57
+2118,5,1,1990,Apartment,Dehradun,Unfurnished,2,4763.5,148.82
+1186,2,3,2001,Row House,Mussoorie,Semi-Furnished,1,3325.79,114.71
+3904,6,4,2018,Bungalow,Gurgaon,Semi-Furnished,2,7168.03,450.48
+3753,6,7,2016,Bungalow,Mussoorie,Furnished,2,9125.86,432.22
+1457,3,3,2009,Bungalow,Gurgaon,Furnished,2,3670.36,231.28
+3211,5,3,2014,Villa,Gurgaon,Unfurnished,1,7069.94,383.74
+1375,2,2,1987,Villa,Moradabad,Semi-Furnished,1,2112.52,111.45
+2099,4,3,1986,Row House,Noida,Unfurnished,2,3335.78,170.83
+3480,6,2,2011,Villa,Nainital,Semi-Furnished,1,5983.52,364.71
+3829,6,3,2001,Row House,Noida,Semi-Furnished,3,7635.84,339.5
+4109,6,5,2001,Row House,Noida,Semi-Furnished,0,6709.68,348.82
+2902,5,3,2016,Row House,Haldwani,Furnished,2,5443.08,197.35
+3560,5,2,2003,Row House,Bareilly,Semi-Furnished,2,7080.31,180.24
+2358,4,4,2003,Row House,Haldwani,Furnished,2,4109.43,149.33
+1393,3,1,2024,Apartment,Bareilly,Furnished,2,2237.95,115.35
+3425,5,5,1993,Bungalow,Moradabad,Unfurnished,2,5257.07,185.73
+1158,2,2,2010,Bungalow,Dehradun,Semi-Furnished,3,2462.63,141.22
+3560,6,6,2023,Row House,Nainital,Furnished,1,9021.28,294.75
+3687,6,6,2017,Villa,Bareilly,Unfurnished,2,9712.98,310.45
+2353,4,4,1983,Villa,Gurgaon,Furnished,3,6396.95,317.07
+3728,6,7,2010,Bungalow,Mussoorie,Furnished,3,8120.4,411.51
+2176,4,2,2004,Row House,Dehradun,Unfurnished,2,6001.07,157.06
+2521,4,3,2021,Apartment,Lucknow,Furnished,2,5109.91,173.91
+3896,6,7,1997,Row House,Haldwani,Semi-Furnished,3,5262.24,190.9
+2252,4,4,1983,Apartment,Dehradun,Unfurnished,1,4171.39,139.63
+1697,4,4,2011,Apartment,Moradabad,Furnished,3,2385.9,114.39
+3345,5,3,2017,Villa,Bareilly,Semi-Furnished,3,8735.63,303.88
+389,1,1,2003,Row House,Gurgaon,Unfurnished,1,699.98,66.3
+3466,5,3,2001,Bungalow,Dehradun,Unfurnished,3,9916.14,272.48
+3412,5,3,2017,Bungalow,Haldwani,Furnished,2,9686.99,268.02
+1994,3,3,2006,Apartment,Dehradun,Semi-Furnished,2,3670.36,151.04
+3759,6,6,1986,Apartment,Moradabad,Semi-Furnished,0,5110.05,170.83
+1569,3,1,2003,Villa,Nainital,Semi-Furnished,1,2573.49,171.21
+2019,4,2,2019,Bungalow,Nainital,Furnished,1,4821.57,215.11
+2978,5,6,1987,Apartment,Moradabad,Unfurnished,1,4025.75,134.13
+3132,5,4,2003,Row House,Gurgaon,Furnished,2,4086.9,328.71
+3133,5,3,1991,Villa,Delhi,Semi-Furnished,1,8739.02,402.04
+1747,4,4,2009,Apartment,Noida,Unfurnished,0,3826.96,178.68
+1457,3,3,1985,Apartment,Bareilly,Semi-Furnished,1,2739.07,88.74
+1375,2,2,2016,Bungalow,Haldwani,Furnished,0,3044.8,131.79
+1317,2,3,2001,Apartment,Moradabad,Furnished,3,3044.8,92.5
+2014,3,2,1982,Row House,Moradabad,Semi-Furnished,2,2674.79,103.55
+3877,6,3,1996,Bungalow,Mussoorie,Unfurnished,2,8120.4,321.05
+3689,6,6,2022,Bungalow,Bareilly,Semi-Furnished,1,8584.23,251.24
+1345,3,2,2004,Apartment,Gurgaon,Unfurnished,3,1695.53,160.71
+2227,5,4,1992,Bungalow,Noida,Unfurnished,2,3044.8,189.9
+3753,6,3,1980,Row House,Mussoorie,Semi-Furnished,2,8120.4,249.49
+3291,5,3,1989,Row House,Lucknow,Unfurnished,1,9020.35,168.04
+1871,4,1,1995,Row House,Gurgaon,Unfurnished,1,5195.14,190.89
+1375,2,3,1988,Bungalow,Moradabad,Furnished,3,2771.69,114.71
+1800,3,1,1985,Bungalow,Nainital,Furnished,3,3044.8,162.77
+2438,4,3,2015,Bungalow,Bareilly,Furnished,0,5170.83,186.11
+2611,4,2,2002,Villa,Gurgaon,Furnished,3,6916.14,357.54
+1761,4,5,2002,Villa,Haldwani,Semi-Furnished,3,4086.9,173.07
+2099,4,3,1992,Villa,Delhi,Unfurnished,0,3912.8,284.05
+3560,6,5,2000,Bungalow,Delhi,Semi-Furnished,1,7200.73,439.5
+3759,6,3,1992,Apartment,Delhi,Semi-Furnished,2,9125.86,464.22
+1713,3,1,2024,Row House,Lucknow,Unfurnished,3,4101.48,124.64
+3216,5,6,1985,Villa,Nainital,Furnished,0,8120.4,312.65
+3326,5,4,2002,Bungalow,Bareilly,Semi-Furnished,0,4579.52,197.66
+1463,3,2,1982,Villa,Delhi,Unfurnished,2,2237.95,217.43
+2470,4,2,2017,Villa,Dehradun,Furnished,3,4562.33,313.33
+1909,3,1,1982,Villa,Bareilly,Unfurnished,2,4086.9,178.65
+1317,3,2,2001,Apartment,Lucknow,Furnished,3,3483.9,113.84
+2037,4,2,2000,Apartment,Bareilly,Furnished,3,5246.22,139.75
+3253,5,6,1993,Row House,Bareilly,Furnished,2,7168.03,205.15
+1240,2,2,2024,Apartment,Bareilly,Semi-Furnished,0,3329.13,99.28
+2429,5,1,2010,Villa,Noida,Semi-Furnished,1,3483.9,294.75
+1723,4,4,1980,Bungalow,Bareilly,Furnished,2,3044.8,136.19
+3559,6,4,2001,Row House,Gurgaon,Furnished,0,7635.84,383.91
+3829,6,4,2009,Row House,Mussoorie,Furnished,1,5048.4,286.04
+4018,6,2,1986,Row House,Nainital,Furnished,1,9020.35,274.31
+1174,2,1,1997,Bungalow,Nainital,Furnished,0,2080.05,116.16
+1486,3,2,1984,Row House,Lucknow,Furnished,2,3230.12,118.8
+3597,6,6,1990,Villa,Noida,Unfurnished,0,8120.4,383.09
+3294,5,2,2019,Apartment,Noida,Furnished,1,7200.73,363.3
+3674,6,6,2013,Row House,Moradabad,Furnished,2,7803.95,236.46
+3211,5,4,2010,Apartment,Bareilly,Furnished,3,8120.4,203.01
+1839,3,3,2013,Villa,Nainital,Furnished,3,4562.33,230.19
+3537,6,6,1999,Apartment,Mussoorie,Unfurnished,2,5510.99,228.09
+1386,3,4,2003,Row House,Moradabad,Furnished,0,2771.69,111.9
+1257,3,3,2009,Bungalow,Lucknow,Semi-Furnished,3,3499.19,139.76
+1435,2,2,1992,Villa,Nainital,Semi-Furnished,1,2080.05,152.09
+1212,2,2,2000,Apartment,Gurgaon,Furnished,3,3044.8,197.66
+3282,5,3,2010,Bungalow,Lucknow,Furnished,3,6396.95,249.49
+3347,5,4,2005,Villa,Nainital,Semi-Furnished,1,8584.23,317.07
+2764,5,4,2009,Row House,Nainital,Unfurnished,3,3483.9,158.33
+2216,4,2,2001,Apartment,Haldwani,Furnished,3,3329.13,119.98
+3210,5,5,2009,Row House,Haldwani,Furnished,1,6438.74,192.83
+1569,3,4,1990,Bungalow,Lucknow,Furnished,3,2343.83,142.12
+1892,4,4,2005,Villa,Lucknow,Semi-Furnished,0,4579.52,217.43
+2550,4,3,1986,Row House,Nainital,Unfurnished,2,4237.9,134.19
+2255,4,4,2015,Apartment,Delhi,Unfurnished,3,5109.91,286.04
+3759,6,6,1986,Row House,Gurgaon,Semi-Furnished,1,6709.68,367.4
+2232,4,4,2005,Row House,Mussoorie,Unfurnished,2,3044.8,142.12
+1129,2,3,2011,Bungalow,Dehradun,Furnished,1,2888.75,153.29
+2203,4,4,2024,Row House,Nainital,Unfurnished,2,6304.7,163.78
+2536,4,4,1999,Villa,Gurgaon,Unfurnished,2,6195.03,322.84
+3419,5,3,2007,Bungalow,Dehradun,Furnished,1,5109.91,294.75
+3543,5,6,1992,Bungalow,Haldwani,Furnished,0,4562.33,197.66
+1451,3,2,1983,Bungalow,Bareilly,Semi-Furnished,1,3438.74,111.9
+1277,3,1,1991,Villa,Nainital,Furnished,3,3230.12,185.01
+2585,4,3,2002,Row House,Noida,Unfurnished,3,4343.34,206.5
+1555,4,2,1989,Row House,Moradabad,Furnished,1,2962.82,118.8
+3246,5,2,2010,Row House,Delhi,Unfurnished,3,9125.86,375.31
+1260,2,3,2023,Apartment,Gurgaon,Unfurnished,0,1652.79,166.39
+3644,6,3,1983,Apartment,Bareilly,Semi-Furnished,0,5109.91,170.83
+4043,6,6,2015,Bungalow,Gurgaon,Semi-Furnished,2,7168.03,450.48
+3594,6,3,2018,Apartment,Delhi,Unfurnished,3,7635.84,425.99
+2016,3,2,2016,Bungalow,Haldwani,Furnished,3,3483.9,166.41
+3005,5,2,1997,Apartment,Lucknow,Semi-Furnished,1,4101.48,159.98
+3480,5,3,2012,Villa,Bareilly,Furnished,2,8361.35,277.29
+1777,3,1,2018,Bungalow,Mussoorie,Furnished,0,3483.9,197.66
+1087,2,2,1987,Villa,Dehradun,Unfurnished,3,2631.39,139.75
+1025,2,1,2005,Apartment,Haldwani,Furnished,1,2112.52,86.74
+1592,3,3,1986,Row House,Noida,Unfurnished,1,4086.9,152.09
+3291,5,4,1988,Apartment,Nainital,Semi-Furnished,3,5109.91,177.01
+2481,5,5,2001,Apartment,Bareilly,Semi-Furnished,2,6396.95,152.09
+1165,2,3,2001,Bungalow,Gurgaon,Semi-Furnished,2,1473.5,159.98
+3044,5,5,1999,Bungalow,Nainital,Unfurnished,2,8735.63,222.18
+2428,5,2,1992,Row House,Nainital,Unfurnished,2,4237.9,142.12
+1832,4,4,2000,Apartment,Moradabad,Furnished,3,2518.23,109.52
+1499,3,1,1985,Bungalow,Haldwani,Unfurnished,1,2546.01,98.39
+1213,2,2,2018,Bungalow,Haldwani,Unfurnished,3,1852.12,98.39
+4000,6,7,2017,Villa,Haldwani,Unfurnished,3,7403.2,306.96
+1171,2,3,1980,Apartment,Moradabad,Semi-Furnished,0,2984.7,71.04
+1712,4,1,1989,Row House,Moradabad,Semi-Furnished,1,3483.9,106.88
+1282,2,1,1982,Row House,Noida,Furnished,2,2237.95,178.65
+3028,6,6,2004,Villa,Gurgaon,Semi-Furnished,2,7168.03,425.26
+3372,5,3,1996,Row House,Noida,Unfurnished,3,5109.91,263.14
+2605,4,2,2012,Row House,Moradabad,Semi-Furnished,0,5246.22,139.76
+1155,2,1,2003,Apartment,Delhi,Unfurnished,2,2112.52,159.98
+3742,6,6,2011,Villa,Dehradun,Furnished,2,6438.74,451.35
+1480,4,3,2007,Bungalow,Mussoorie,Semi-Furnished,3,2674.79,181.67
+2252,5,3,1987,Apartment,Bareilly,Furnished,3,6396.95,160.71
+1233,2,1,2002,Villa,Gurgaon,Unfurnished,3,2771.69,190.9
+2500,4,3,2005,Villa,Nainital,Semi-Furnished,0,4579.52,228.09
+3466,5,3,2002,Bungalow,Delhi,Semi-Furnished,3,8120.4,432.22
+1944,3,2,1985,Apartment,Delhi,Unfurnished,2,3329.13,181.67
+3122,5,3,2002,Row House,Dehradun,Furnished,0,6709.68,252.09
+3085,5,3,2010,Bungalow,Noida,Unfurnished,3,6709.68,294.75
+3067,5,4,2002,Villa,Dehradun,Semi-Furnished,1,8735.63,338.2
+1007,2,1,1986,Row House,Haldwani,Semi-Furnished,1,2626.54,68.01
+4109,6,6,1989,Villa,Bareilly,Semi-Furnished,3,7635.84,310.45
+3877,6,4,2002,Apartment,Lucknow,Unfurnished,1,7200.73,203.01
+3425,5,2,2007,Row House,Gurgaon,Furnished,1,4579.52,328.71
+2521,4,3,2014,Bungalow,Lucknow,Furnished,2,6916.14,217.43
+3728,6,3,1998,Bungalow,Noida,Semi-Furnished,1,9020.35,392.51
+2249,4,3,2003,Row House,Delhi,Semi-Furnished,3,3912.8,258.85
+2441,4,2,1996,Row House,Haldwani,Unfurnished,2,6396.95,123.01
+3062,5,4,2010,Villa,Nainital,Unfurnished,0,8584.23,286.04
+1724,4,2,2010,Row House,Mussoorie,Unfurnished,2,4101.48,131.62
+2176,4,2,2009,Bungalow,Haldwani,Furnished,2,3044.8,150.93
+2723,5,6,1989,Villa,Lucknow,Unfurnished,2,5863.63,241.2
+3123,5,4,1987,Apartment,Noida,Unfurnished,2,6195.03,241.2
+3412,5,6,2009,Bungalow,Dehradun,Semi-Furnished,0,9426.54,294.75
+2902,5,4,1992,Apartment,Gurgaon,Semi-Furnished,3,7200.73,322.84
+1802,3,2,1999,Bungalow,Nainital,Furnished,1,2888.75,166.41
+3040,5,3,2001,Row House,Bareilly,Semi-Furnished,0,6709.68,171.9
+1457,3,3,2005,Row House,Lucknow,Semi-Furnished,1,3483.9,114.71
+3236,5,4,2009,Row House,Haldwani,Furnished,2,7635.84,197.66
+3007,5,4,2011,Villa,Delhi,Unfurnished,1,5863.63,375.31
+1299,2,3,1985,Apartment,Noida,Semi-Furnished,2,1852.12,130.49
+3246,5,5,1995,Apartment,Dehradun,Semi-Furnished,1,6916.14,241.2
+4151,6,5,1985,Bungalow,Mussoorie,Unfurnished,0,7403.2,342.17
+1277,3,3,1983,Bungalow,Gurgaon,Semi-Furnished,1,3499.19,206.5
+1599,3,3,2018,Apartment,Lucknow,Unfurnished,2,3329.13,111.9
+2519,5,2,1983,Apartment,Noida,Semi-Furnished,2,3865.41,208.53
+2195,5,4,2019,Apartment,Moradabad,Furnished,3,6373.1,162.77
+2664,5,2,2018,Apartment,Bareilly,Unfurnished,3,6438.74,152.09
+3734,6,6,1991,Bungalow,Delhi,Unfurnished,3,5109.91,425.26
+653,1,1,2022,Bungalow,Nainital,Unfurnished,0,1184.82,86.74
+2795,6,4,2024,Row House,Noida,Furnished,2,6373.1,392.51
+2030,3,1,2005,Bungalow,Lucknow,Unfurnished,0,3912.8,150.93
+2210,5,3,2002,Villa,Gurgaon,Furnished,0,3329.13,294.75
+3687,6,4,2003,Row House,Bareilly,Semi-Furnished,3,7635.84,211.77
+1688,3,2,1987,Bungalow,Nainital,Semi-Furnished,1,3329.13,139.76
+710,1,1,1996,Bungalow,Lucknow,Unfurnished,1,1624.77,81.44
+1697,4,3,2005,Villa,Moradabad,Semi-Furnished,2,3826.96,163.78
+2334,4,4,2019,Row House,Lucknow,Unfurnished,2,3483.9,142.12
+3522,6,6,2009,Row House,Bareilly,Furnished,1,5510.99,228.09
+1751,3,1,2001,Apartment,Mussoorie,Unfurnished,0,3329.13,123.01
+1249,2,3,1980,Apartment,Moradabad,Semi-Furnished,2,2112.52,71.04
+4057,6,3,1990,Row House,Moradabad,Semi-Furnished,3,8120.4,208.53
+2372,4,4,2011,Villa,Dehradun,Unfurnished,3,5612.33,269.91
+2315,5,4,2002,Apartment,Mussoorie,Unfurnished,3,4562.33,186.11
+1443,2,1,2019,Row House,Delhi,Furnished,1,3329.13,230.19
+3345,5,4,2015,Villa,Mussoorie,Unfurnished,1,5697.59,321.05
+2005,5,3,2016,Villa,Haldwani,Furnished,2,5109.91,228.09
+3291,5,4,1997,Bungalow,Moradabad,Unfurnished,2,9125.86,186.11
+1104,2,3,2000,Apartment,Mussoorie,Furnished,3,2674.79,127.12
+1186,2,3,2016,Villa,Delhi,Semi-Furnished,3,3329.13,246.52
+1588,3,3,1992,Apartment,Bareilly,Unfurnished,1,3329.13,92.5
+2039,4,3,2011,Apartment,Delhi,Unfurnished,3,2984.7,246.52
+2779,5,4,2000,Bungalow,Gurgaon,Furnished,2,6373.1,349.8
+2203,4,3,1990,Row House,Bareilly,Unfurnished,3,4101.48,121.78
+3132,5,3,1985,Villa,Gurgaon,Unfurnished,1,5109.91,338.2
+1755,3,3,2017,Villa,Dehradun,Semi-Furnished,3,3826.96,225.04
+2847,5,4,1999,Apartment,Lucknow,Semi-Furnished,2,4237.9,165.2
+1228,2,2,2014,Apartment,Bareilly,Semi-Furnished,2,2289.44,91.87
+831,2,2,1980,Row House,Delhi,Semi-Furnished,1,2112.52,143.74
+1599,3,2,2015,Bungalow,Haldwani,Furnished,1,2962.82,148.82
+2873,5,6,1986,Row House,Mussoorie,Furnished,1,4101.48,228.09
+2449,4,3,1996,Villa,Dehradun,Furnished,2,3336.56,269.91
+3412,5,4,2012,Villa,Gurgaon,Unfurnished,3,5697.59,402.04
+653,1,1,2007,Bungalow,Nainital,Unfurnished,1,1473.5,86.74
+1940,3,1,1987,Bungalow,Delhi,Unfurnished,1,3044.8,217.43
+3597,6,6,1985,Bungalow,Lucknow,Semi-Furnished,2,7168.03,222.18
+2227,5,1,2002,Villa,Moradabad,Semi-Furnished,2,4237.9,186.11
+2132,4,4,1992,Bungalow,Haldwani,Furnished,2,3912.8,160.71
+1375,2,2,2011,Villa,Delhi,Unfurnished,3,3044.8,225.04
+2978,5,2,1987,Villa,Noida,Unfurnished,0,7403.2,312.65
+3253,5,6,1980,Row House,Bareilly,Furnished,0,6709.68,181.67
+3052,5,3,1985,Villa,Noida,Semi-Furnished,3,6916.14,363.3
+3753,6,7,2012,Row House,Gurgaon,Furnished,2,6373.1,417.81
+382,1,1,2024,Bungalow,Nainital,Furnished,2,999.35,118.8
+3560,6,5,2002,Bungalow,Nainital,Semi-Furnished,3,8120.4,286.04
+2719,5,6,1986,Row House,Haldwani,Furnished,3,6373.1,181.67
+389,1,1,2005,Row House,Nainital,Unfurnished,1,865.25,58.05
+2099,5,2,1987,Row House,Gurgaon,Furnished,2,3483.9,252.33
+1033,2,3,1980,Bungalow,Gurgaon,Unfurnished,2,1438.31,139.75
+1488,4,3,2005,Bungalow,Mussoorie,Furnished,3,2984.7,192.83
+1158,2,2,2017,Villa,Noida,Semi-Furnished,2,3329.13,208.53
+2249,5,1,1983,Apartment,Dehradun,Unfurnished,3,5612.33,160.71
+1212,3,3,1982,Row House,Mussoorie,Furnished,2,3230.12,148.82
+1405,3,3,1992,Apartment,Nainital,Semi-Furnished,3,3483.9,114.71
+2500,4,2,2015,Apartment,Nainital,Unfurnished,1,3912.8,142.12
+1054,2,2,1986,Bungalow,Dehradun,Furnished,0,2962.82,130.49
+2235,4,2,2001,Bungalow,Noida,Furnished,3,3329.13,252.33
+1277,3,2,1987,Row House,Bareilly,Semi-Furnished,3,3329.13,109.52
+1832,4,4,1986,Row House,Nainital,Unfurnished,2,3483.9,118.8
+1171,2,2,1992,Villa,Nainital,Unfurnished,2,3329.13,150.93
+2019,4,2,2017,Villa,Dehradun,Furnished,2,3329.13,269.91
+2711,6,5,2002,Bungalow,Delhi,Semi-Furnished,3,7168.03,425.26
+2321,4,4,2002,Apartment,Mussoorie,Unfurnished,1,5109.91,173.91
+1761,3,4,2002,Villa,Delhi,Semi-Furnished,3,2984.7,286.04
+4151,6,3,1987,Apartment,Delhi,Semi-Furnished,3,9020.35,486.01
+1712,4,1,1987,Row House,Noida,Unfurnished,3,3329.13,178.65
+3133,5,6,1987,Apartment,Delhi,Semi-Furnished,0,5109.91,375.31
+1282,2,1,1982,Apartment,Gurgaon,Unfurnished,1,2237.95,148.82
+2611,4,2,2010,Bungalow,Haldwani,Furnished,3,4237.9,178.65
+1707,4,4,1982,Bungalow,Lucknow,Unfurnished,1,4101.48,131.62
+3211,5,4,2012,Row House,Nainital,Semi-Furnished,0,6709.68,206.5
+1554,4,5,1982,Villa,Bareilly,Semi-Furnished,2,3912.8,171.9
+1457,3,2,1982,Villa,Mussoorie,Semi-Furnished,1,3329.13,190.9
+2592,4,4,1992,Apartment,Delhi,Semi-Furnished,3,6373.1,328.71
+3246,5,2,2012,Bungalow,Haldwani,Semi-Furnished,1,7168.03,203.01
+2413,4,4,2012,Apartment,Noida,Furnished,3,5109.91,286.04
+2216,4,2,2012,Villa,Delhi,Unfurnished,0,3329.13,294.75
+3216,5,3,2012,Row House,Noida,Unfurnished,2,7168.03,306.96
+3326,5,4,2012,Bungalow,Gurgaon,Unfurnished,1,5109.91,349.8
+2470,4,2,2012,Villa,Dehradun,Unfurnished,2,4237.9,252.33
+2184,4,5,2012,Apartment,Mussoorie,Unfurnished,1,5109.91,197.66
+1463,3,1,2012,Bungalow,Lucknow,Unfurnished,0,3329.13,123.01
+2764,6,1,2012,Villa,Bareilly,Unfurnished,1,5109.91,206.5
+2358,4,4,2012,Row House,Moradabad,Unfurnished,2,4237.9,127.12
+1299,2,3,2012,Apartment,Nainital,Unfurnished,0,3329.13,103.55
+1007,2,2,2012,Bungalow,Haldwani,Unfurnished,1,2112.52,86.74
+2195,5,5,1982,Row House,Noida,Semi-Furnished,3,4237.9,203.01
+1007,2,2,2012,Apartment,Lucknow,Unfurnished,0,2289.44,81.44
+2216,4,2,2012,Apartment,Bareilly,Unfurnished,1,3329.13,114.71
+1165,2,1,2012,Villa,Moradabad,Unfurnished,2,2289.44,111.9
+3133,5,6,1982,Row House,Nainital,Unfurnished,0,6709.68,197.66
+1386,3,2,1992,Apartment,Haldwani,Unfurnished,1,2962.82,86.74
+2748,4,5,1982,Bungalow,Dehradun,Unfurnished,2,6373.1,206.5
+3282,5,3,1992,Villa,Mussoorie,Unfurnished,0,6709.68,269.91
+1761,3,4,1992,Bungalow,Lucknow,Unfurnished,1,3329.13,118.8
+3246,5,3,1992,Apartment,Bareilly,Unfurnished,2,6709.68,162.77
+2847,5,4,1992,Villa,Moradabad,Unfurnished,0,5109.91,178.65
+2795,6,6,1992,Villa,Nainital,Unfurnished,1,5109.91,241.2
+1058,2,2,1982,Apartment,Haldwani,Unfurnished,2,2289.44,60.85
+1486,3,1,1992,Apartment,Dehradun,Unfurnished,0,3329.13,118.8
+1918,4,5,1992,Apartment,Mussoorie,Unfurnished,1,4237.9,142.12
+1800,4,1,1992,Villa,Lucknow,Unfurnished,2,3329.13,166.41
+2019,4,2,1992,Bungalow,Bareilly,Unfurnished,0,3329.13,118.8
+1707,4,4,1982,Bungalow,Moradabad,Unfurnished,1,3329.13,103.55
+2585,5,1,1982,Apartment,Nainital,Unfurnished,2,4237.9,134.19
+1104,2,2,1992,Row House,Haldwani,Unfurnished,0,2289.44,71.04
+3687,6,6,1992,Row House,Dehradun,Unfurnished,1,6709.68,228.09
+1569,3,1,1982,Apartment,Mussoorie,Unfurnished,2,2962.82,98.39
+3007,5,3,1992,Row House,Lucknow,Unfurnished,0,5109.91,159.98
+2210,5,3,1992,Row House,Bareilly,Unfurnished,1,4237.9,131.62
+3253,5,6,1992,Villa,Moradabad,Unfurnished,2,6373.1,208.53
+831,2,2,1982,Bungalow,Nainital,Unfurnished,0,1852.12,81.44
+2016,3,4,1992,Villa,Haldwani,Unfurnished,1,3329.13,142.12
+3052,5,3,1982,Villa,Dehradun,Unfurnished,2,5109.91,217.43
+3372,5,4,1992,Bungalow,Mussoorie,Unfurnished,0,6709.68,277.29
+2441,4,2,1982,Row House,Lucknow,Unfurnished,1,4237.9,127.12
+3412,5,5,1992,Bungalow,Bareilly,Unfurnished,2,6709.68,177.01
+3896,6,5,1992,Villa,Moradabad,Unfurnished,0,7168.03,241.2
+3028,6,2,1992,Villa,Nainital,Unfurnished,1,5109.91,241.2
+2550,5,3,1992,Bungalow,Haldwani,Unfurnished,2,5109.91,159.98
+2252,5,3,1992,Bungalow,Dehradun,Unfurnished,0,4237.9,171.9
+2764,5,4,1992,Apartment,Mussoorie,Unfurnished,1,5109.91,190.9
+2413,4,4,1992,Villa,Lucknow,Unfurnished,2,4237.9,190.9
+3216,5,3,1992,Villa,Bareilly,Unfurnished,0,5109.91,217.43
+3326,5,4,1992,Bungalow,Moradabad,Unfurnished,1,5109.91,171.9
+2470,4,2,1992,Villa,Nainital,Unfurnished,2,4237.9,190.9
+2184,4,5,1992,Apartment,Haldwani,Unfurnished,0,4237.9,127.12
+1463,3,1,1992,Bungalow,Dehradun,Unfurnished,1,2962.82,109.52
+2764,6,1,1992,Villa,Mussoorie,Unfurnished,2,5109.91,252.33
+2358,4,4,1992,Row House,Lucknow,Unfurnished,0,4237.9,127.12
+1299,2,3,1992,Apartment,Bareilly,Unfurnished,1,2289.44,71.04
+1007,2,2,1992,Bungalow,Moradabad,Unfurnished,2,2112.52,71.04
+2195,5,5,1982,Row House,Nainital,Unfurnished,0,4237.9,150.93
+1007,2,2,1992,Apartment,Haldwani,Unfurnished,1,2289.44,60.85
+2216,4,2,1992,Apartment,Dehradun,Unfurnished,2,3329.13,118.8
+1165,2,1,1992,Villa,Mussoorie,Unfurnished,0,2289.44,111.9
+3133,5,6,1982,Row House,Lucknow,Unfurnished,1,6709.68,197.66
+1386,3,2,1992,Apartment,Bareilly,Unfurnished,2,2962.82,86.74
+2748,4,5,1982,Bungalow,Moradabad,Unfurnished,0,6373.1,206.5
+3282,5,3,1992,Villa,Nainital,Unfurnished,1,6709.68,269.91
+1761,3,4,1992,Bungalow,Haldwani,Unfurnished,2,3329.13,118.8
+3246,5,3,1992,Apartment,Dehradun,Unfurnished,0,6709.68,228.09
+2847,5,4,1992,Villa,Mussoorie,Unfurnished,1,5109.91,241.2
+2795,6,6,1992,Villa,Lucknow,Unfurnished,2,5109.91,241.2
+1058,2,2,1982,Apartment,Bareilly,Unfurnished,0,2289.44,60.85
+1486,3,1,1992,Apartment,Moradabad,Unfurnished,1,3329.13,118.8
+1918,4,5,1992,Apartment,Nainital,Unfurnished,2,4237.9,142.12
+1800,4,1,1992,Villa,Haldwani,Unfurnished,0,3329.13,166.41
+2019,4,2,1992,Bungalow,Dehradun,Unfurnished,1,3329.13,118.8
+1707,4,4,1982,Bungalow,Mussoorie,Unfurnished,2,3329.13,103.55
+2585,5,1,1982,Apartment,Lucknow,Unfurnished,0,4237.9,134.19
+1104,2,2,1992,Row House,Bareilly,Unfurnished,1,2289.44,71.04
+3687,6,6,1992,Row House,Moradabad,Unfurnished,2,6709.68,228.09
+1569,3,1,1982,Apartment,Nainital,Unfurnished,0,2962.82,98.39
+3007,5,3,1992,Row House,Haldwani,Unfurnished,1,5109.91,159.98
+2210,5,3,1992,Row House,Dehradun,Unfurnished,2,4237.9,131.62
+3253,5,6,1992,Villa,Mussoorie,Unfurnished,0,6373.1,208.53
+831,2,2,1982,Bungalow,Lucknow,Unfurnished,1,1852.12,81.44
+2016,3,4,1992,Villa,Bareilly,Unfurnished,2,3329.13,142.12
+3052,5,3,1982,Villa,Moradabad,Unfurnished,0,5109.91,217.43
+3372,5,4,1992,Bungalow,Nainital,Unfurnished,1,6709.68,277.29
+2441,4,2,1982,Row House,Haldwani,Unfurnished,2,4237.9,127.12
+3412,5,5,1992,Bungalow,Dehradun,Unfurnished,0,6709.68,228.09
+3896,6,5,1992,Villa,Mussoorie,Unfurnished,1,7168.03,241.2
+3028,6,2,1992,Villa,Lucknow,Unfurnished,2,5109.91,241.2
+2550,5,3,1992,Bungalow,Bareilly,Unfurnished,0,5109.91,159.98
+2252,5,3,1992,Bungalow,Moradabad,Unfurnished,1,4237.9,171.9
+2764,5,4,1992,Apartment,Nainital,Unfurnished,2,5109.91,190.9
+2413,4,4,1992,Villa,Haldwani,Unfurnished,0,4237.9,190.9
+3216,5,3,1992,Villa,Dehradun,Unfurnished,1,5109.91,217.43
+3326,5,4,1992,Bungalow,Mussoorie,Unfurnished,2,5109.91,197.66
+2470,4,2,1992,Villa,Lucknow,Unfurnished,0,4237.9,190.9
+2184,4,5,1992,Apartment,Bareilly,Unfurnished,1,4237.9,127.12
+1463,3,1,1992,Bungalow,Moradabad,Unfurnished,2,2962.82,109.52
+2764,6,1,1992,Villa,Nainital,Unfurnished,0,5109.91,252.33
+2358,4,4,1992,Row House,Haldwani,Unfurnished,1,4237.9,127.12
+1299,2,3,1992,Apartment,Dehradun,Unfurnished,2,2289.44,71.04
+1007,2,2,1992,Bungalow,Mussoorie,Unfurnished,0,2112.52,71.04
+2195,5,5,1982,Row House,Lucknow,Unfurnished,1,4237.9,150.93
+1007,2,2,1992,Apartment,Bareilly,Unfurnished,2,2289.44,60.85
+2216,4,2,1992,Apartment,Moradabad,Unfurnished,0,3329.13,118.8
+1165,2,1,1992,Villa,Nainital,Unfurnished,1,2289.44,111.9
+3133,5,6,1982,Row House,Haldwani,Unfurnished,2,6709.68,197.66
+1386,3,2,1992,Apartment,Dehradun,Unfurnished,0,2962.82,86.74
+2748,4,5,1982,Bungalow,Mussoorie,Unfurnished,1,6373.1,206.5
+3282,5,3,1992,Villa,Lucknow,Unfurnished,2,6709.68,269.91
+1761,3,4,1992,Bungalow,Bareilly,Unfurnished,0,3329.13,118.8
+3246,5,3,1992,Apartment,Moradabad,Unfurnished,1,6709.68,228.09
+2847,5,4,1992,Villa,Nainital,Unfurnished,2,5109.91,241.2
+2795,6,6,1992,Villa,Haldwani,Unfurnished,0,5109.91,241.2
+1058,2,2,1982,Apartment,Dehradun,Unfurnished,1,2289.44,60.85
+1486,3,1,1992,Apartment,Mussoorie,Unfurnished,2,3329.13,118.8
+1918,4,5,1992,Apartment,Lucknow,Unfurnished,0,4237.9,142.12
+1800,4,1,1992,Villa,Bareilly,Unfurnished,1,3329.13,166.41
+2019,4,2,1992,Bungalow,Moradabad,Unfurnished,2,3329.13,118.8
+1707,4,4,1982,Bungalow,Nainital,Unfurnished,0,3329.13,103.55
+2585,5,1,1982,Apartment,Haldwani,Unfurnished,1,4237.9,134.19
+1104,2,2,1992,Row House,Dehradun,Unfurnished,2,2289.44,71.04
+3687,6,6,1992,Row House,Mussoorie,Unfurnished,0,6709.68,228.09
+1569,3,1,1982,Apartment,Lucknow,Unfurnished,1,2962.82,98.39
+3007,5,3,1992,Row House,Bareilly,Unfurnished,2,5109.91,159.98
+2210,5,3,1992,Row House,Moradabad,Unfurnished,0,4237.9,131.62
+3253,5,6,1992,Villa,Nainital,Unfurnished,1,6373.1,208.53
+831,2,2,1982,Bungalow,Haldwani,Unfurnished,2,1852.12,81.44
+2016,3,4,1992,Villa,Dehradun,Unfurnished,0,3329.13,142.12
+3052,5,3,1982,Villa,Mussoorie,Unfurnished,1,5109.91,217.43
+3372,5,4,1992,Bungalow,Lucknow,Unfurnished,2,6709.68,277.29
+2441,4,2,1982,Row House,Bareilly,Unfurnished,0,4237.9,127.12
+3412,5,5,1992,Bungalow,Moradabad,Unfurnished,1,6709.68,228.09
+3896,6,5,1992,Villa,Nainital,Unfurnished,2,7168.03,241.2
+3028,6,2,1992,Villa,Haldwani,Unfurnished,0,5109.91,241.2
+2550,5,3,1992,Bungalow,Dehradun,Unfurnished,1,5109.91,159.98
+2252,5,3,1992,Bungalow,Mussoorie,Unfurnished,2,4237.9,171.9
+2764,5,4,1992,Apartment,Lucknow,Unfurnished,0,5109.91,190.9
+2413,4,4,1992,Villa,Bareilly,Unfurnished,1,4237.9,190.9
+3216,5,3,1992,Villa,Moradabad,Unfurnished,2,5109.91,217.43
+3326,5,4,1992,Bungalow,Nainital,Unfurnished,0,5109.91,197.66
+2470,4,2,1992,Villa,Haldwani,Unfurnished,1,4237.9,190.9
+2184,4,5,1992,Apartment,Dehradun,Unfurnished,2,4237.9,127.12
+1463,3,1,1992,Bungalow,Mussoorie,Unfurnished,0,2962.82,109.52
+2764,6,1,1992,Villa,Lucknow,Unfurnished,1,5109.91,252.33
+2358,4,4,1992,Row House,Bareilly,Unfurnished,2,4237.9,127.12
+1299,2,3,1992,Apartment,Moradabad,Unfurnished,0,2289.44,71.04
+1007,2,2,1992,Bungalow,Nainital,Unfurnished,1,2112.52,71.04
+2195,5,5,1982,Row House,Haldwani,Unfurnished,2,4237.9,150.93
+1007,2,2,1992,Apartment,Dehradun,Unfurnished,0,2289.44,60.85
+2216,4,2,1992,Apartment,Mussoorie,Unfurnished,1,3329.13,118.8
+1165,2,1,1992,Villa,Lucknow,Unfurnished,2,2289.44,111.9
+3133,5,6,1982,Row House,Bareilly,Unfurnished,0,6709.68,197.66
+1386,3,2,1992,Apartment,Moradabad,Unfurnished,1,2962.82,86.74
+2748,4,5,1982,Bungalow,Nainital,Unfurnished,2,6373.1,206.5
+3282,5,3,1992,Villa,Haldwani,Unfurnished,0,6709.68,269.91
+1761,3,4,1992,Bungalow,Dehradun,Unfurnished,1,3329.13,118.8
+3246,5,3,1992,Apartment,Mussoorie,Unfurnished,2,6709.68,228.09
+2847,5,4,1992,Villa,Lucknow,Unfurnished,0,5109.91,241.2
+2795,6,6,1992,Villa,Bareilly,Unfurnished,1,5109.91,241.2
+1058,2,2,1982,Apartment,Moradabad,Unfurnished,2,2289.44,60.85
+1486,3,1,1992,Apartment,Nainital,Unfurnished,0,3329.13,118.8
+1918,4,5,1992,Apartment,Haldwani,Unfurnished,1,4237.9,142.12
+1800,4,1,1992,Villa,Dehradun,Unfurnished,2,3329.13,166.41
+2019,4,2,1992,Bungalow,Mussoorie,Unfurnished,0,3329.13,118.8
+1707,4,4,1982,Bungalow,Lucknow,Unfurnished,1,3329.13,103.55
+2585,5,1,1982,Apartment,Bareilly,Unfurnished,2,4237.9,134.19
+1104,2,2,1992,Row House,Moradabad,Unfurnished,0,2289.44,71.04
+3687,6,6,1992,Row House,Nainital,Unfurnished,1,6709.68,228.09
+1569,3,1,1982,Apartment,Haldwani,Unfurnished,2,2962.82,98.39
+3007,5,3,1992,Row House,Dehradun,Unfurnished,0,5109.91,159.98
+2210,5,3,1992,Row House,Mussoorie,Unfurnished,1,4237.9,131.62
+3253,5,6,1992,Villa,Lucknow,Unfurnished,2,6373.1,208.53
+831,2,2,1982,Bungalow,Bareilly,Unfurnished,0,1852.12,81.44
+2016,3,4,1992,Villa,Moradabad,Unfurnished,1,3329.13,142.12
+3052,5,3,1982,Villa,Nainital,Unfurnished,2,5109.91,217.43
+3372,5,4,1992,Bungalow,Haldwani,Unfurnished,0,6709.68,277.29
+2441,4,2,1982,Row House,Dehradun,Unfurnished,1,4237.9,127.12
+3412,5,5,1992,Bungalow,Mussoorie,Unfurnished,2,6709.68,228.09
+3896,6,5,1992,Villa,Lucknow,Unfurnished,0,7168.03,241.2
+3028,6,2,1992,Villa,Bareilly,Unfurnished,1,5109.91,241.2
+2550,5,3,1992,Bungalow,Moradabad,Unfurnished,2,5109.91,159.98
+2252,5,3,1992,Bungalow,Nainital,Unfurnished,0,4237.9,171.9
+2764,5,4,1992,Apartment,Haldwani,Unfurnished,1,5109.91,190.9
+2413,4,4,1992,Villa,Dehradun,Unfurnished,2,4237.9,190.9
+3216,5,3,1992,Villa,Mussoorie,Unfurnished,0,5109.91,217.43
+3326,5,4,1992,Bungalow,Lucknow,Unfurnished,1,5109.91,197.66
+2470,4,2,1992,Villa,Bareilly,Unfurnished,2,4237.9,190.9
+2184,4,5,1992,Apartment,Moradabad,Unfurnished,0,4237.9,127.12
+1463,3,1,1992,Bungalow,Nainital,Unfurnished,1,2962.82,109.52
+2764,6,1,1992,Villa,Haldwani,Unfurnished,2,5109.91,252.33
+2358,4,4,1992,Row House,Dehradun,Unfurnished,0,4237.9,127.12
+1299,2,3,1992,Apartment,Mussoorie,Unfurnished,1,2289.44,71.04
+1007,2,2,1992,Bungalow,Lucknow,Unfurnished,2,2112.52,71.04
+2195,5,5,1982,Row House,Bareilly,Unfurnished,0,4237.9,150.93
+1007,2,2,1992,Apartment,Moradabad,Unfurnished,1,2289.44,60.85
+2216,4,2,1992,Apartment,Nainital,Unfurnished,2,3329.13,118.8
+1165,2,1,1992,Villa,Haldwani,Unfurnished,0,2289.44,111.9
+3133,5,6,1982,Row House,Dehradun,Unfurnished,1,6709.68,197.66
+1386,3,2,1992,Apartment,Mussoorie,Unfurnished,2,2962.82,86.74
+2748,4,5,1982,Bungalow,Lucknow,Unfurnished,0,6373.1,206.5
+3282,5,3,1992,Villa,Bareilly,Unfurnished,1,6709.68,269.91
+1761,3,4,1992,Bungalow,Moradabad,Unfurnished,2,3329.13,118.8
+3246,5,3,1992,Apartment,Nainital,Unfurnished,0,6709.68,228.09
+2847,5,4,1992,Villa,Haldwani,Unfurnished,1,5109.91,241.2
+2795,6,6,1992,Villa,Dehradun,Unfurnished,2,5109.91,241.2
+1058,2,2,1982,Apartment,Mussoorie,Unfurnished,0,2289.44,60.85
+1486,3,1,1992,Apartment,Lucknow,Unfurnished,1,3329.13,118.8
+1918,4,5,1992,Apartment,Bareilly,Unfurnished,2,4237.9,142.12
+1800,4,1,1992,Villa,Moradabad,Unfurnished,0,3329.13,166.41
+2019,4,2,1992,Bungalow,Nainital,Unfurnished,1,3329.13,118.8
+1707,4,4,1982,Bungalow,Haldwani,Unfurnished,2,3329.13,103.55
+2585,5,1,1982,Apartment,Dehradun,Unfurnished,0,4237.9,134.19
+1104,2,2,1992,Row House,Mussoorie,Unfurnished,1,2289.44,71.04
+3687,6,6,1992,Row House,Lucknow,Unfurnished,2,6709.68,228.09
+1569,3,1,1982,Apartment,Bareilly,Unfurnished,0,2962.82,98.39
+3007,5,3,1992,Row House,Moradabad,Unfurnished,1,5109.91,159.98
+2210,5,3,1992,Row House,Nainital,Unfurnished,2,4237.9,131.62
+3253,5,6,1992,Villa,Haldwani,Unfurnished,0,6373.1,208.53
+831,2,2,1982,Bungalow,Dehradun,Unfurnished,1,1852.12,81.44
+2016,3,4,1992,Villa,Mussoorie,Unfurnished,2,3329.13,142.12
+3052,5,3,1982,Villa,Lucknow,Unfurnished,0,5109.91,217.43
+3372,5,4,1992,Bungalow,Bareilly,Unfurnished,1,6709.68,277.29
+2441,4,2,1982,Row House,Moradabad,Unfurnished,2,4237.9,127.12
+3412,5,5,1992,Bungalow,Nainital,Unfurnished,0,6709.68,228.09
+3896,6,5,1992,Villa,Haldwani,Unfurnished,1,7168.03,241.2
+3028,6,2,1992,Villa,Dehradun,Unfurnished,2,5109.91,241.2
+2550,5,3,1992,Bungalow,Mussoorie,Unfurnished,0,5109.91,159.98
+2252,5,3,1992,Bungalow,Lucknow,Unfurnished,1,4237.9,171.9
+2764,5,4,1992,Apartment,Bareilly,Unfurnished,2,5109.91,190.9
+2413,4,4,1992,Villa,Moradabad,Unfurnished,0,4237.9,190.9
+3216,5,3,1992,Villa,Nainital,Unfurnished,1,5109.91,217.43
+3326,5,4,1992,Bungalow,Haldwani,Unfurnished,2,5109.91,197.66
+2470,4,2,1992,Villa,Dehradun,Unfurnished,0,4237.9,190.9
+2184,4,5,1992,Apartment,Mussoorie,Unfurnished,1,4237.9,127.12
+1463,3,1,1992,Bungalow,Lucknow,Unfurnished,2,2962.82,109.52
+2764,6,1,1992,Villa,Bareilly,Unfurnished,0,5109.91,252.33
+2358,4,4,1992,Row House,Moradabad,Unfurnished,1,4237.9,127.12
+1299,2,3,1992,Apartment,Nainital,Unfurnished,2,2289.44,71.04
+1007,2,2,1992,Bungalow,Haldwani,Unfurnished,0,2112.52,71.04
+2195,5,5,1982,Row House,Dehradun,Unfurnished,1,4237.9,150.93
+1007,2,2,1992,Apartment,Mussoorie,Unfurnished,2,2289.44,60.85
+2216,4,2,1992,Apartment,Lucknow,Unfurnished,0,3329.13,118.8
+1165,2,1,1992,Villa,Bareilly,Unfurnished,1,2289.44,111.9
+3133,5,6,1982,Row House,Moradabad,Unfurnished,2,6709.68,197.66
+1386,3,2,1992,Apartment,Nainital,Unfurnished,0,2962.82,86.74
+2748,4,5,1982,Bungalow,Haldwani,Unfurnished,1,6373.1,206.5
+3282,5,3,1992,Villa,Dehradun,Unfurnished,2,6709.68,269.91
+1761,3,4,1992,Bungalow,Mussoorie,Unfurnished,0,3329.13,118.8
+3246,5,3,1992,Apartment,Lucknow,Unfurnished,1,6709.68,228.09
+2847,5,4,1992,Villa,Bareilly,Unfurnished,2,5109.91,241.2
+2795,6,6,1992,Villa,Moradabad,Unfurnished,0,5109.91,241.2
+1058,2,2,1982,Apartment,Nainital,Unfurnished,1,2289.44,60.85
+1486,3,1,1992,Apartment,Haldwani,Unfurnished,2,3329.13,118.8
+1918,4,5,1992,Apartment,Dehradun,Unfurnished,0,4237.9,142.12
+1800,4,1,1992,Villa,Mussoorie,Unfurnished,1,3329.13,166.41
+2019,4,2,1992,Bungalow,Lucknow,Unfurnished,2,3329.13,118.8
+1707,4,4,1982,Bungalow,Bareilly,Unfurnished,0,3329.13,103.55
+2585,5,1,1982,Apartment,Moradabad,Unfurnished,1,4237.9,134.19
+1104,2,2,1992,Row House,Nainital,Unfurnished,2,2289.44,71.04
+3687,6,6,1992,Row House,Haldwani,Unfurnished,0,6709.68,228.09
+1569,3,1,1982,Apartment,Dehradun,Unfurnished,1,2962.82,98.39
+3007,5,3,1992,Row House,Mussoorie,Unfurnished,2,5109.91,159.98
+2210,5,3,1992,Row House,Lucknow,Unfurnished,0,4237.9,131.62
+3253,5,6,1992,Villa,Bareilly,Unfurnished,1,6373.1,208.53
+831,2,2,1982,Bungalow,Moradabad,Unfurnished,2,1852.12,81.44
+2016,3,4,1992,Villa,Nainital,Unfurnished,0,3329.13,142.12
+3052,5,3,1982,Villa,Haldwani,Unfurnished,1,5109.91,217.43
+3372,5,4,1992,Bungalow,Dehradun,Unfurnished,2,6709.68,277.29
+2441,4,2,1982,Row House,Mussoorie,Unfurnished,0,4237.9,127.12
+3412,5,5,1992,Bungalow,Lucknow,Unfurnished,1,6709.68,228.09
+3896,6,5,1992,Villa,Bareilly,Unfurnished,2,7168.03,241.2
+3028,6,2,1992,Villa,Moradabad,Unfurnished,0,5109.91,241.2
+2550,5,3,1992,Bungalow,Nainital,Unfurnished,1,5109.91,159.98
+2252,5,3,1992,Bungalow,Haldwani,Unfurnished,2,4237.9,171.9
+2764,5,4,1992,Apartment,Dehradun,Unfurnished,0,5109.91,190.9
+2413,4,4,1992,Villa,Mussoorie,Unfurnished,1,4237.9,190.9
+3216,5,3,1992,Villa,Lucknow,Unfurnished,2,5109.91,217.43
+3326,5,4,1992,Bungalow,Bareilly,Unfurnished,0,5109.91,197.66
+2470,4,2,1992,Villa,Moradabad,Unfurnished,1,4237.9,190.9
+2184,4,5,1992,Apartment,Nainital,Unfurnished,2,4237.9,127.12
+1463,3,1,1992,Bungalow,Haldwani,Unfurnished,0,2962.82,109.52
+2764,6,1,1992,Villa,Dehradun,Unfurnished,1,5109.91,252.33
+2358,4,4,1992,Row House,Mussoorie,Unfurnished,2,4237.9,127.12
+1299,2,3,1992,Apartment,Lucknow,Unfurnished,0,2289.44,71.04
+1007,2,2,1992,Bungalow,Bareilly,Unfurnished,1,2112.52,71.04
+2195,5,5,1982,Row House,Moradabad,Unfurnished,2,4237.9,150.93
+1007,2,2,1992,Apartment,Nainital,Unfurnished,0,2289.44,60.85
+2216,4,2,1992,Apartment,Haldwani,Unfurnished,1,3329.13,118.8
+1165,2,1,1992,Villa,Dehradun,Unfurnished,2,2289.44,111.9
+3133,5,6,1982,Row House,Mussoorie,Unfurnished,0,6709.68,197.66
+1386,3,2,1992,Apartment,Lucknow,Unfurnished,1,2962.82,86.74
+2748,4,5,1982,Bungalow,Bareilly,Unfurnished,2,6373.1,206.5
+3282,5,3,1992,Villa,Moradabad,Unfurnished,0,6709.68,269.91
+1761,3,4,1992,Bungalow,Nainital,Unfurnished,1,3329.13,118.8
+3246,5,3,1992,Apartment,Haldwani,Unfurnished,2,6709.68,228.09
+2847,5,4,1992,Villa,Dehradun,Unfurnished,0,5109.91,241.2
+2795,6,6,1992,Villa,Mussoorie,Unfurnished,1,5109.91,241.2
+1058,2,2,1982,Apartment,Lucknow,Unfurnished,2,2289.44,60.85
+1486,3,1,1992,Apartment,Bareilly,Unfurnished,0,3329.13,118.8
+1918,4,5,1992,Apartment,Moradabad,Unfurnished,1,4237.9,142.12
+1800,4,1,1992,Villa,Nainital,Unfurnished,2,3329.13,166.41
+2019,4,2,1992,Bungalow,Haldwani,Unfurnished,0,3329.13,118.8
+1707,4,4,1982,Bungalow,Dehradun,Unfurnished,1,3329.13,103.55
+2585,5,1,1982,Apartment,Mussoorie,Unfurnished,2,4237.9,134.19
+1104,2,2,1992,Row House,Lucknow,Unfurnished,0,2289.44,71.04
+3687,6,6,1992,Row House,Bareilly,Unfurnished,1,6709.68,228.09
+1569,3,1,1982,Apartment,Moradabad,Unfurnished,2,2962.82,98.39
+3007,5,3,1992,Row House,Nainital,Unfurnished,0,5109.91,159.98
+2210,5,3,1992,Row House,Haldwani,Unfurnished,1,4237.9,131.62
+3253,5,6,1992,Villa,Dehradun,Unfurnished,2,6373.1,208.53
+831,2,2,1982,Bungalow,Mussoorie,Unfurnished,0,1852.12,81.44
+2016,3,4,1992,Villa,Lucknow,Unfurnished,1,3329.13,142.12
+3052,5,3,1982,Villa,Bareilly,Unfurnished,2,5109.91,217.43
+3372,5,4,1992,Bungalow,Moradabad,Unfurnished,0,6709.68,277.29
+2441,4,2,1982,Row House,Nainital,Unfurnished,1,4237.9,127.12
+3412,5,5,1992,Bungalow,Haldwani,Unfurnished,2,6709.68,228.09
+3896,6,5,1992,Villa,Dehradun,Unfurnished,0,7168.03,241.2
+3028,6,2,1992,Villa,Mussoorie,Unfurnished,1,5109.91,241.2
+2550,5,3,1992,Bungalow,Lucknow,Unfurnished,2,5109.91,159.98
+2252,5,3,1992,Bungalow,Bareilly,Unfurnished,0,4237.9,171.9
+2764,5,4,1992,Apartment,Moradabad,Unfurnished,1,5109.91,190.9
+2413,4,4,1992,Villa,Nainital,Unfurnished,2,4237.9,190.9
+3216,5,3,1992,Villa,Haldwani,Unfurnished,0,5109.91,217.43
+3326,5,4,1992,Bungalow,Dehradun,Unfurnished,1,5109.91,197.66
+2470,4,2,1992,Villa,Mussoorie,Unfurnished,2,4237.9,190.9
+2184,4,5,1992,Apartment,Lucknow,Unfurnished,0,4237.9,127.12
+1463,3,1,1992,Bungalow,Bareilly,Unfurnished,1,2962.82,109.52
+2764,6,1,1992,Villa,Moradabad,Unfurnished,2,5109.91,252.33
+2358,4,4,1992,Row House,Nainital,Unfurnished,0,4237.9,127.12
+1299,2,3,1992,Apartment,Haldwani,Unfurnished,1,2289.44,71.04
+1007,2,2,1992,Bungalow,Dehradun,Unfurnished,2,2112.52,71.04
+2195,5,5,1982,Row House,Mussoorie,Unfurnished,0,4237.9,150.93
+1007,2,2,1992,Apartment,Lucknow,Unfurnished,1,2289.44,60.85
+2216,4,2,1992,Apartment,Bareilly,Unfurnished,2,3329.13,118.8
+1165,2,1,1992,Villa,Moradabad,Unfurnished,0,2289.44,111.9
+3133,5,6,1982,Row House,Nainital,Unfurnished,1,6709.68,197.66
+1386,3,2,1992,Apartment,Haldwani,Unfurnished,2,2962.82,86.74
+2748,4,5,1982,Bungalow,Dehradun,Unfurnished,0,6373.1,206.5
+3282,5,3,1992,Villa,Mussoorie,Unfurnished,1,6709.68,269.91
+1761,3,4,1992,Bungalow,Lucknow,Unfurnished,2,3329.13,118.8
+3246,5,3,1992,Apartment,Bareilly,Unfurnished,0,6709.68,228.09
+2847,5,4,1992,Villa,Moradabad,Unfurnished,1,5109.91,241.2
+2795,6,6,1992,Villa,Nainital,Unfurnished,2,5109.91,241.2
+1058,2,2,1982,Apartment,Haldwani,Unfurnished,0,2289.44,60.85
+1486,3,1,1992,Apartment,Dehradun,Unfurnished,1,3329.13,118.8
+1918,4,5,1992,Apartment,Mussoorie,Unfurnished,2,4237.9,142.12
+1800,4,1,1992,Villa,Lucknow,Unfurnished,0,3329.13,166.41
+2019,4,2,1992,Bungalow,Bareilly,Unfurnished,1,3329.13,118.8
+1707,4,4,1982,Bungalow,Moradabad,Unfurnished,2,3329.13,103.55
+2585,5,1,1982,Apartment,Nainital,Unfurnished,0,4237.9,134.19
+1104,2,2,1992,Row House,Haldwani,Unfurnished,1,2289.44,71.04
+3687,6,6,1992,Row House,Dehradun,Unfurnished,2,6709.68,228.09
+1569,3,1,1982,Apartment,Mussoorie,Unfurnished,0,2962.82,98.39
+3007,5,3,1992,Row House,Lucknow,Unfurnished,1,5109.91,159.98
+2210,5,3,1992,Row House,Bareilly,Unfurnished,2,4237.9,131.62
+3253,5,6,1992,Villa,Moradabad,Unfurnished,0,6373.1,208.53
+831,2,2,1982,Bungalow,Nainital,Unfurnished,1,1852.12,81.44
+2016,3,4,1992,Villa,Haldwani,Unfurnished,2,3329.13,142.12
+3052,5,3,1982,Villa,Dehradun,Unfurnished,0,5109.91,217.43
+3372,5,4,1992,Bungalow,Mussoorie,Unfurnished,1,6709.68,277.29
+2441,4,2,1982,Row House,Lucknow,Unfurnished,2,4237.9,127.12
+3412,5,5,1992,Bungalow,Bareilly,Unfurnished,0,6709.68,228.09
+3896,6,5,1992,Villa,Moradabad,Unfurnished,1,7168.03,241.2
+3028,6,2,1992,Villa,Nainital,Unfurnished,2,5109.91,241.2
+2550,5,3,1992,Bungalow,Haldwani,Unfurnished,0,5109.91,159.98
+2252,5,3,1992,Bungalow,Dehradun,Unfurnished,1,4237.9,171.9
+2764,5,4,1992,Apartment,Mussoorie,Unfurnished,2,5109.91,190.9
+2413,4,4,1992,Villa,Lucknow,Unfurnished,0,4237.9,190.9
+3216,5,3,1992,Villa,Bareilly,Unfurnished,1,5109.91,217.43
+3326,5,4,1992,Bungalow,Moradabad,Unfurnished,2,5109.91,197.66
+2470,4,2,1992,Villa,Nainital,Unfurnished,0,4237.9,190.9
+2184,4,5,1992,Apartment,Haldwani,Unfurnished,1,4237.9,127.12
+1463,3,1,1992,Bungalow,Dehradun,Unfurnished,2,2962.82,109.52
+2764,6,1,1992,Villa,Mussoorie,Unfurnished,0,5109.91,252.33
+2358,4,4,1992,Row House,Lucknow,Unfurnished,1,4237.9,127.12
+1299,2,3,1992,Apartment,Bareilly,Unfurnished,2,2289.44,71.04
+1007,2,2,1992,Bungalow,Moradabad,Unfurnished,0,2112.52,71.04
+2195,5,5,1982,Row House,Nainital,Unfurnished,1,4237.9,150.93
+1007,2,2,1992,Apartment,Haldwani,Unfurnished,2,2289.44,60.85
+2216,4,2,1992,Apartment,Dehradun,Unfurnished,0,3329.13,118.8
+1165,2,1,1992,Villa,Mussoorie,Unfurnished,1,2289.44,111.9
+3133,5,6,1982,Row House,Lucknow,Unfurnished,2,6709.68,197.66
+1386,3,2,1992,Apartment,Bareilly,Unfurnished,0,2962.82,86.74
+2748,4,5,1982,Bungalow,Moradabad,Unfurnished,1,6373.1,206.5
+3282,5,3,1992,Villa,Nainital,Unfurnished,2,6709.68,269.91
+1761,3,4,1992,Bungalow,Haldwani,Unfurnished,0,3329.13,118.8
+3246,5,3,1992,Apartment,Dehradun,Unfurnished,1,6709.68,228.09
+2847,5,4,1992,Villa,Mussoorie,Unfurnished,2,5109.91,241.2
+2795,6,6,1992,Villa,Lucknow,Unfurnished,0,5109.91,241.2
+1058,2,2,1982,Apartment,Bareilly,Unfurnished,1,2289.44,60.85
+1486,3,1,1992,Apartment,Moradabad,Unfurnished,2,3329.13,118.8
+1918,4,5,1992,Apartment,Nainital,Unfurnished,0,4237.9,142.12
+1800,4,1,1992,Villa,Haldwani,Unfurnished,1,3329.13,166.41
+2019,4,2,1992,Bungalow,Dehradun,Unfurnished,2,3329.13,118.8
+1707,4,4,1982,Bungalow,Mussoorie,Unfurnished,0,3329.13,103.55
+2585,5,1,1982,Apartment,Lucknow,Unfurnished,1,4237.9,134.19
+1104,2,2,1992,Row House,Bareilly,Unfurnished,2,2289.44,71.04
+3687,6,6,1992,Row House,Moradabad,Unfurnished,0,6709.68,228.09
+1569,3,1,1982,Apartment,Nainital,Unfurnished,1,2962.82,98.39
+3007,5,3,1992,Row House,Haldwani,Unfurnished,2,5109.91,159.98
+2210,5,3,1992,Row House,Dehradun,Unfurnished,0,4237.9,131.62
+3253,5,6,1992,Villa,Mussoorie,Unfurnished,1,6373.1,208.53
+831,2,2,1982,Bungalow,Lucknow,Unfurnished,2,1852.12,81.44
+2016,3,4,1992,Villa,Bareilly,Unfurnished,0,3329.13,142.12
+3052,5,3,1982,Villa,Moradabad,Unfurnished,1,5109.91,217.43
+3372,5,4,1992,Bungalow,Nainital,Unfurnished,2,6709.68,277.29
+2441,4,2,1982,Row House,Haldwani,Unfurnished,0,4237.9,127.12
+3412,5,5,1992,Bungalow,Dehradun,Unfurnished,1,6709.68,228.09
+3896,6,5,1992,Villa,Mussoorie,Unfurnished,2,7168.03,241.2
+3028,6,2,1992,Villa,Lucknow,Unfurnished,0,5109.91,241.2
+2550,5,3,1992,Bungalow,Bareilly,Unfurnished,1,5109.91,159.98
+2252,5,3,1992,Bungalow,Moradabad,Unfurnished,2,4237.9,171.9
+2764,5,4,1992,Apartment,Nainital,Unfurnished,0,5109.91,190.9
+2413,4,4,1992,Villa,Haldwani,Unfurnished,1,4237.9,190.9
+3216,5,3,1992,Villa,Dehradun,Unfurnished,2,5109.91,217.43
+3326,5,4,1992,Bungalow,Mussoorie,Unfurnished,0,5109.91,197.66
+2470,4,2,1992,Villa,Lucknow,Unfurnished,1,4237.9,190.9
+2184,4,5,1992,Apartment,Bareilly,Unfurnished,2,4237.9,127.12
+1463,3,1,1992,Bungalow,Moradabad,Unfurnished,0,2962.82,109.52
+2764,6,1,1992,Villa,Nainital,Unfurnished,1,5109.91,252.33
+2358,4,4,1992,Row House,Haldwani,Unfurnished,2,4237.9,127.12
+1299,2,3,1992,Apartment,Dehradun,Unfurnished,0,2289.44,71.04
+1007,2,2,1992,Bungalow,Mussoorie,Unfurnished,1,2112.52,71.04
+2195,5,5,1982,Row House,Lucknow,Unfurnished,2,4237.9,150.93
+1007,2,2,1992,Apartment,Bareilly,Unfurnished,0,2289.44,60.85
+2216,4,2,1992,Apartment,Moradabad,Unfurnished,1,3329.13,118.8
+1165,2,1,1992,Villa,Nainital,Unfurnished,2,2289.44,111.9
+3133,5,6,1982,Row House,Haldwani,Unfurnished,0,6709.68,197.66
+1386,3,2,1992,Apartment,Dehradun,Unfurnished,1,2962.82,86.74
+2748,4,5,1982,Bungalow,Mussoorie,Unfurnished,2,6373.1,206.5
+3282,5,3,1992,Villa,Lucknow,Unfurnished,0,6709.68,269.91
+1761,3,4,1992,Bungalow,Bareilly,Unfurnished,1,3329.13,118.8
+3246,5,3,1992,Apartment,Moradabad,Unfurnished,2,6709.68,228.09
+2847,5,4,1992,Villa,Nainital,Unfurnished,0,5109.91,241.2
+2795,6,6,1992,Villa,Haldwani,Unfurnished,1,5109.91,241.2
+1058,2,2,1982,Apartment,Dehradun,Unfurnished,2,2289.44,60.85
+1486,3,1,1992,Apartment,Mussoorie,Unfurnished,0,3329.13,118.8
+1918,4,5,1992,Apartment,Lucknow,Unfurnished,1,4237.9,142.12
+1800,4,1,1992,Villa,Bareilly,Unfurnished,2,3329.13,166.41
+2019,4,2,1992,Bungalow,Moradabad,Unfurnished,0,3329.13,118.8
+1707,4,4,1982,Bungalow,Nainital,Unfurnished,1,3329.13,103.55
+2585,5,1,1982,Apartment,Haldwani,Unfurnished,2,4237.9,134.19
+1104,2,2,1992,Row House,Dehradun,Unfurnished,0,2289.44,71.04
+3687,6,6,1992,Row House,Mussoorie,Unfurnished,1,6709.68,228.09
+1569,3,1,1982,Apartment,Lucknow,Unfurnished,2,2962.82,98.39
+3007,5,3,1992,Row House,Bareilly,Unfurnished,0,5109.91,159.98
+2210,5,3,1992,Row House,Moradabad,Unfurnished,1,4237.9,131.62
+3253,5,6,1992,Villa,Nainital,Unfurnished,2,6373.1,208.53
+831,2,2,1982,Bungalow,Haldwani,Unfurnished,0,1852.12,81.44
+2016,3,4,1992,Villa,Dehradun,Unfurnished,1,3329.13,142.12
+3052,5,3,1982,Villa,Mussoorie,Unfurnished,2,5109.91,217.43
+3372,5,4,1992,Bungalow,Lucknow,Unfurnished,0,6709.68,277.29
+2441,4,2,1982,Row House,Bareilly,Unfurnished,1,4237.9,127.12
+3412,5,5,1992,Bungalow,Moradabad,Unfurnished,2,6709.68,228.09
+3896,6,5,1992,Villa,Nainital,Unfurnished,0,7168.03,241.2
+3028,6,2,1992,Villa,Haldwani,Unfurnished,1,5109.91,241.2
+2550,5,3,1992,Bungalow,Dehradun,Unfurnished,2,5109.91,159.98
+2252,5,3,1992,Bungalow,Mussoorie,Unfurnished,0,4237.9,171.9
+2764,5,4,1992,Apartment,Lucknow,Unfurnished,1,5109.91,190.9
+2413,4,4,1992,Villa,Bareilly,Unfurnished,2,4237.9,190.9
+3216,5,3,1992,Villa,Moradabad,Unfurnished,0,5109.91,217.43
+3326,5,4,1992,Bungalow,Nainital,Unfurnished,1,5109.91,197.66
+2470,4,2,1992,Villa,Haldwani,Unfurnished,2,4237.9,190.9
+2184,4,5,1992,Apartment,Dehradun,Unfurnished,0,4237.9,127.12
+1463,3,1,1992,Bungalow,Mussoorie,Unfurnished,1,2962.82,109.52
+2764,6,1,1992,Villa,Lucknow,Unfurnished,2,5109.91,252.33
+2358,4,4,1992,Row House,Bareilly,Unfurnished,0,4237.9,127.12
+1299,2,3,1992,Apartment,Moradabad,Unfurnished,1,2289.44,71.04
+1007,2,2,1992,Bungalow,Nainital,Unfurnished,2,2112.52,71.04
