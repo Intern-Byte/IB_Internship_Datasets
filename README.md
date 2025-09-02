@@ -41,19 +41,19 @@ All datasets are intended for **hands-on practice, projects, and ML assignments*
 **CSV Example:**
 ```python
 import pandas as pd
-df = pd.read_csv("datasets/<domain>/<dataset_name>/data.csv")
+df = pd.read_csv("datasets/<dataset_name>/data.csv")
 print(df.head())
 ```
 
 **Excel Example:**
 ```python
-df_x = pd.read_excel("datasets/<domain>/<dataset_name>/data.xlsx")
+df_x = pd.read_excel("datasets/<dataset_name>/data.xlsx")
 ```
 
 **JSON Example:**
 ```python
 import json
-with open("datasets/<domain>/<dataset_name>/data.json", "r", encoding="utf-8") as f:
+with open("datasets/<dataset_name>/data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 ```
 
