@@ -106,7 +106,6 @@ userID,userName,artist,song,genre,rating
 1045,user_1045,Bad Bunny,DÁKITI,Latin,4
 1046,user_1046,Florence + The Machine,Dog Days Are Over,Alternative,5
 1047,user_1047,Shankar-Ehsaan-Loy,Mitwa,Bollywood,5
-1048,user_1048,Red Hot Chili Peppers,Californication,Rock,4
 1049,user_1049,Ariana Grande,thank u, next,Pop,3
 1050,user_1050,Karan Aujla,Chitta Kurta,Punjabi,4
 1001,user_1001,The Weeknd,Blinding Lights,Pop,4
@@ -610,4 +609,5 @@ userID,userName,artist,song,genre,rating
 1058,user_1058,2Pac,Dear Mama,Hip Hop,5
 1059,user_1059,Vampire Weekend,Cousins,Indie,4
 1060,user_1060,Arijit Singh,Bekhayali,Bollywood,5
+
 
