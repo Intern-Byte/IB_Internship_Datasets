@@ -1010,11 +1010,9 @@ BookID,Title,Author,Genre,Publisher,PublicationYear,ISBN,CopiesAvailable,TotalCo
 1011,Anxious People,Fredrik Backman,Fiction,Atria Books,2020,978-1-5011-6083-7,9,11
 1012,The Guest List,Lucy Fokley,Thriller,William Morrow,2020,978-0-06-286893-0,5,13
 1013,Educated,Tara Westover,Biography,Random House,2018,978-0-399-59050-4,11,15
-1014,Sapiens: A Brief History of Humankind,Yuval Noah Harari,Non-Fiction,Harper,2015,978-0-06-231609-7,13,16
 1015,Circe,Madeline Miller,Fantasy,Little, Brown and Company,2018,978-0-316-55634-7,8,10
 1016,The Song of Achilles,Madeline Miller,Fantasy,Ecco,2012,978-0-06-206062-4,7,12
 1017,Dune,Frank Herbert,Science Fiction,Chilton Books,1965,978-0-441-17271-9,14,20
-1018,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Romance,Atria Books,2017,978-1-5011-6193-3,6,15
 1019,Becoming,Michelle Obama,Biography,Crown,2018,978-1-5247-6313-8,12,18
 1020,The Four Winds,Kristin Hannah,History,St. Martin's Press,2021,978-1-250-17860-2,3,10
 1021,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,Tor Books,2020,978-0-7653-8756-1,9,14
@@ -1111,91 +1109,4 @@ BookID,Title,Author,Genre,Publisher,PublicationYear,ISBN,CopiesAvailable,TotalCo
 1112,The Tipping Point,Malcolm Gladwell,Business,Little, Brown and Company,2000,978-0-316-31696-5,13,18
 1113,Outliers,Malcolm Gladwell,Business,Little, Brown and Company,2008,978-0-316-01792-3,14,19
 1114,Blink,Malcolm Gladwell,Business,Little, Brown and Company,2005,978-0-316-17232-5,12,17
-1115,The Black Swan,Nassim Nicholas Taleb,Science,Random House,2007,978-1-4000-6351-2,8,11
-1116,A People's History of the United States,Howard Zinn,History,Harper & Row,1980,978-0-06-083865-2,10,14
-1117,The Selfish Gene,Richard Dawkins,Science,Oxford University Press,1976,978-0-19-929115-1,9,13
-1118,A Wrinkle in Time,Madeleine L'Engle,Fantasy,Farrar, Straus and Giroux,1962,978-0-374-38613-3,15,20
-1119,The Phantom Tollbooth,Norton Juster,Fantasy,Random House,1961,978-0-394-81500-8,13,18
-1120,Charlotte's Web,E.B. White,Classic,Harper & Brothers,1952,978-0-06-440055-8,17,20
-1121,The Very Hungry Caterpillar,Eric Carle,Classic,World Publishing Company,1969,978-0-399-22690-8,19,20
-1122,Where the Wild Things Are,Maurice Sendak,Classic,Harper & Row,1963,978-0-06-025492-6,18,20
-1123,The Giving Tree,Shel Silverstein,Classic,Harper & Row,1964,978-0-06-025665-4,20,20
-1124,Goodnight Moon,Margaret Wise Brown,Classic,Harper & Brothers,1947,978-0-06-443014-7,19,20
-1125,The Snowy Day,Ezra Jack Keats,Classic,Viking Press,1962,978-0-670-65421-2,16,20
-1126,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,Bloomsbury,1997,978-0-7475-3269-9,20,20
-1127,The Lion, the Witch and the Wardrobe,C.S. Lewis,Fantasy,Geoffrey Bles,1950,978-0-06-447104-6,18,20
-1128,Charlie and the Chocolate Factory,Roald Dahl,Fantasy,Alfred A. Knopf,1964,978-0-394-81011-9,17,20
-1129,Matilda,Roald Dahl,Fantasy,Jonathan Cape,1988,978-0-14-241037-0,16,20
-1130,The BFG,Roald Dahl,Fantasy,Farrar, Straus and Giroux,1982,978-0-374-30467-0,15,20
-1131,James and the Giant Peach,Roald Dahl,Fantasy,Alfred A. Knopf,1961,978-0-14-241036-3,14,20
-1132,The Secret Garden,Frances Hodgson Burnett,Classic,Frederick A. Stokes Company,1911,978-0-06-440188-3,12,18
-1133,Anne of Green Gables,L.M. Montgomery,Classic,L.C. Page & Co.,1908,978-0-553-21311-2,13,19
-1134,Little Women,Louisa May Alcott,Classic,Roberts Brothers,1868,978-0-14-751401-1,11,17
-1135,The Adventures of Tom Sawyer,Mark Twain,Adventure,American Publishing Company,1876,978-0-486-40077-8,10,16
-1136,Treasure Island,Robert Louis Stevenson,Adventure,Cassell & Co.,1883,978-0-486-27559-8,12,18
-1137,The Call of the Wild,Jack London,Adventure,Macmillan,1903,978-0-486-26472-1,14,20
-1138,White Fang,Jack London,Adventure,Macmillan,1906,978-0-486-41459-1,13,19
-1139,The Old Man and the Sea,Ernest Hemingway,Classic,Charles Scribner's Sons,1952,978-0-684-80122-3,11,17
-1140,For Whom the Bell Tolls,Ernest Hemingway,History,Charles Scribner's Sons,1940,978-0-684-80335-4,9,15
-1141,The Sun Also Rises,Ernest Hemingway,Classic,Charles Scribner's Sons,1926,978-0-7432-9733-2,8,14
-1142,East of Eden,John Steinbeck,Classic,Viking Press,1952,978-0-14-018639-0,10,16
-1143,Of Mice and Men,John Steinbeck,Classic,Covici Friede,1937,978-0-14-017737-4,13,19
-1144,The Pearl,John Steinbeck,Classic,Viking Press,1947,978-0-14-017737-4,12,18
-1145,Catch-22,Joseph Heller,Classic,Simon & Schuster,1961,978-1-4516-2665-0,11,17
-1146,On the Road,Jack Kerouac,Classic,Viking Press,1957,978-0-14-004259-7,10,16
-1147,Fear and Loathing in Las Vegas,Hunter S. Thompson,Non-Fiction,Random House,1972,978-0-679-78589-7,8,14
-1148,Into the Wild,Jon Krakauer,Biography,Villard,1996,978-0-679-76182-1,12,18
-1149,Into Thin Air,Jon Krakauer,Adventure,Villard,1997,978-0-679-76182-1,11,17
-1150,The Perfect Storm,Sebastian Junger,Non-Fiction,W. W. Norton & Company,1997,978-0-393-31755-8,10,16
-1151,A Walk in the Woods,Bill Bryson,Biography,Broadway Books,1998,978-0-7679-0252-6,13,19
-1152,I Know Why the Caged Bird Sings,Maya Angelou,Biography,Random House,1969,978-0-375-50789-2,14,20
-1153,The Autobiography of Malcolm X,Malcolm X and Alex Haley,Biography,Grove Press,1965,978-0-345-37671-8,12,18
-1154,The Diary of a Young Girl,Anne Frank,Biography,Contact Publishing,1947,978-0-553-29698-3,15,20
-1155,Man's Search for Meaning,Viktor E. Frankl,Biography,Beacon Press,1959,978-0-8070-1427-1,13,19
-1156,Night,Elie Wiesel,Biography,Hill and Wang,1960,978-0-374-50001-6,14,20
-1157,Angela's Ashes,Frank McCourt,Biography,Scribner,1996,978-0-684-84267-4,11,17
-1158,The Glass Castle,Jeannette Walls,Biography,Scribner,2005,978-0-7432-4754-2,12,18
-1159,Wild,Cheryl Strayed,Biography,Knopf,2012,978-0-307-59273-6,10,16
-1160,Bossypants,Tina Fey,Biography,Reagan Arthur Books,2011,978-0-316-05686-1,13,19
-1161,Born a Crime,Trevor Noah,Biography,Spiegel & Grau,2016,978-0-399-58818-1,14,20
-1162,Greenlights,Matthew McConaughey,Biography,Crown,2020,978-0-593-13913-4,12,18
-1163,Untamed,Glennon Doyle,Biography,The Dial Press,2020,978-1-9848-0125-8,11,17
-1164,The Color of Law,Richard Rothstein,History,Liveright,2017,978-1-63149-285-3,8,12
-1165,How to Be an Antiracist,Ibram X. Kendi,Non-Fiction,One World,2019,978-0-525-50928-8,10,15
-1166,White Fragility,Robin DiAngelo,Non-Fiction,Beacon Press,2018,978-0-8070-4741-5,9,14
-1167,Caste,Isabel Wilkerson,Non-Fiction,Random House,2020,978-0-593-23025-1,7,11
-1168,Stamped from the Beginning,Ibram X. Kendi,History,Nation Books,2016,978-1-56858-463-8,6,10
-1169,The Sum of Us,Heather McGhee,Non-Fiction,One World,2021,978-0-525-50956-1,5,9
-1170,Braiding Sweetgrass,Robin Wall Kimmerer,Science,Milkweed Editions,2013,978-1-57131-356-0,8,12
-1171,Entangled Life,Merlin Sheldrake,Science,Random House,2020,978-0-525-51031-4,7,11
-1172,The Gene: An Intimate History,Siddhartha Mukherjee,Science,Scribner,2016,978-1-4767-3350-0,9,13
-1173,The Code Breaker,Walter Isaacson,Biography,Simon & Schuster,2021,978-1-9821-1585-2,10,14
-1174,Leonardo da Vinci,Walter Isaacson,Biography,Simon & Schuster,2017,978-1-5011-3916-1,8,12
-1175,Steve Jobs,Walter Isaacson,Biography,Simon & Schuster,2011,978-1-4516-4853-9,12,16
-1176,Einstein: His Life and Universe,Walter Isaacson,Biography,Simon & Schuster,2007,978-0-7432-6473-0,11,15
-1177,Benjamin Franklin: An American Life,Walter Isaacson,Biography,Simon & Schuster,2003,978-0-684-80761-4,10,14
-1178,John Adams,David McCullough,Biography,Simon & Schuster,2001,978-0-684-81363-9,9,13
-1179,1776,David McCullough,History,Simon & Schuster,2005,978-0-7432-2671-4,12,16
-1180,The Wright Brothers,David McCullough,Biography,Simon & Schuster,2015,978-1-4767-2874-2,11,15
-1181,Truman,David McCullough,Biography,Simon & Schuster,1992,978-0-671-86920-5,8,12
-1182,Alexander Hamilton,Ron Chernow,Biography,Penguin Press,2004,978-1-59420-009-0,10,14
-1183,Washington: A Life,Ron Chernow,Biography,Penguin Press,2010,978-1-59420-266-7,9,13
-1184,Grant,Ron Chernow,Biography,Penguin Press,2017,978-1-59420-562-0,7,11
-1185,Team of Rivals,Doris Kearns Goodwin,History,Simon & Schuster,2005,978-0-684-82490-1,11,15
-1186,No Ordinary Time,Doris Kearns Goodwin,History,Simon & Schuster,1994,978-0-671-64246-3,9,13
-1187,The Bully Pulpit,Doris Kearns Goodwin,History,Simon & Schuster,2013,978-1-4165-4786-0,8,12
-1188,Leadership: In Turbulent Times,Doris Kearns Goodwin,History,Simon & Schuster,2018,978-1-4767-9592-8,10,14
-1189,The Splendid and the Vile,Erik Larson,History,Crown,2020,978-0-385-34871-3,9,13
-1190,The Devil in the White City,Erik Larson,History,Crown,2003,978-0-609-60844-9,12,16
-1191,Dead Wake,Erik Larson,History,Crown,2015,978-0-307-40886-0,10,14
-1192,In the Garden of Beasts,Erik Larson,History,Crown,2011,978-0-307-40884-6,8,12
-1193,Isaac's Storm,Erik Larson,History,Crown,1999,978-0-609-60233-1,7,11
-1194,Thunderstruck,Erik Larson,History,Crown,2006,978-1-4000-8067-2,6,10
-1195,Unbroken,Laura Hillenbrand,Biography,Random House,2010,978-1-4000-6416-8,13,17
-1196,Seabiscuit: An American Legend,Laura Hillenbrand,Biography,Random House,2001,978-0-449-00561-3,11,15
-1197,The Boys in the Boat,Daniel James Brown,History,Viking,2013,978-0-670-02581-7,12,16
-1198,Hidden Figures,Margot Lee Shetterly,History,William Morrow,2016,978-0-06-236359-6,10,14
-1199,Moneyball: The Art of Winning an Unfair Game,Michael Lewis,Business,W. W. Norton & Company,2003,978-0-393-32481-5,9,13
-
-1200,The Big Short,Michael Lewis,Business,W. W. Norton & Company,2010,978-0-393-33882-9,8,12
 
