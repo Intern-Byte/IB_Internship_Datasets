@@ -213,7 +213,6 @@ BookID,Title,Author,Genre,Publisher,PublicationYear,ISBN,CopiesAvailable,TotalCo
 212,Site Real,John Jones,Science Fiction,Penguin Random House,1983,978-0-3855042-0-1,4,13
 213,Thank Message,Robert Gonzalez,Fantasy,Simon & Schuster,1975,978-0-6797833-3-8,2,9
 214,Talk Message,Robert Gonzalez,Fantasy,Scribner,1970,978-0-5532817-1-6,1,15
-2İ have a diverse skill set that spans across frontend development, data analysis, UI/UX design, and information architecture. I thrive on transforming complex data into intuitive, engaging, and visually appealing interactive experiences. My expertise lies in creating single-page applications that make data not just accessible, but also easy to understand and explore. With a keen eye for detail and a passion for user-centered design, I specialize in building dashboards and data visualization tools that empower users to gain insights and make informed decisions.
 216,Message Talk,Jennifer Miller,Fantasy,Penguin Random House,1987,978-0-1404491-3-6,1,9
 217,Thank Message,Jennifer Miller,Fantasy,Simon & Schuster,1971,978-0-3757577-4-6,1,10
 218,Message Talk,John Jones,Fantasy,Scribner,1981,978-0-7432735-6-5,1,1
@@ -1198,4 +1197,5 @@ BookID,Title,Author,Genre,Publisher,PublicationYear,ISBN,CopiesAvailable,TotalCo
 1197,The Boys in the Boat,Daniel James Brown,History,Viking,2013,978-0-670-02581-7,12,16
 1198,Hidden Figures,Margot Lee Shetterly,History,William Morrow,2016,978-0-06-236359-6,10,14
 1199,Moneyball: The Art of Winning an Unfair Game,Michael Lewis,Business,W. W. Norton & Company,2003,978-0-393-32481-5,9,13
+
 1200,The Big Short,Michael Lewis,Business,W. W. Norton & Company,2010,978-0-393-33882-9,8,12
