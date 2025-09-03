@@ -1,0 +1,613 @@
+userID,userName,artist,song,genre,rating
+1001,user_1001,Arijit Singh,Tum Hi Ho,Bollywood,5
+1002,user_1002,Ed Sheeran,Shape of You,Pop,4
+1003,user_1003,Queen,Bohemian Rhapsody,Rock,5
+1004,user_1004,Sidhu Moose Wala,295,Punjabi,5
+1005,user_1005,The Weeknd,Blinding Lights,Pop,4
+1006,user_1006,Led Zeppelin,Stairway to Heaven,Rock,5
+1007,user_1007,A.R. Rahman,Jai Ho,Bollywood,4
+1008,user_1008,Dua Lipa,Don't Start Now,Pop,3
+1009,user_1009,Nirvana,Smells Like Teen Spirit,Rock,5
+1010,user_1010,AP Dhillon,"Brown Munde",Punjabi,4
+1011,user_1011,Taylor Swift,Blank Space,Pop,5
+1012,user_1012,Pritam,Kesariya,Bollywood,4
+1013,user_1013,Arctic Monkeys,Do I Wanna Know?,Rock,5
+1014,user_1014,Drake,God's Plan,Hip Hop,3
+1015,user_1015,Shreya Ghoshal,Ghoomar,Bollywood,5
+1016,user_1016,Coldplay,Yellow,Alternative,4
+1017,user_1017,Justin Bieber,Sorry,Pop,2
+1018,user_1018,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
+1019,user_1019,Eminem,Lose Yourself,Hip Hop,5
+1020,user_1020,Guru Randhawa,Lahore,Punjabi,3
+1001,user_1001,Ed Sheeran,Perfect,Pop,5
+1002,user_1002,Arijit Singh,Channa Mereya,Bollywood,5
+1003,user_1003,The Beatles,Hey Jude,Rock,4
+1004,user_1004,Dua Lipa,Levitating,Pop,4
+1005,user_1005,AP Dhillon,Excuses,Punjabi,5
+1006,user_1006,Nirvana,Come As You Are,Rock,4
+1007,user_1007,Pritam,Gerua,Bollywood,5
+1008,user_1008,The Weeknd,Save Your Tears,Pop,4
+1009,user_1009,Led Zeppelin,Black Dog,Rock,5
+1010,user_1010,Sidhu Moose Wala,So High,Punjabi,4
+1011,user_1011,A.R. Rahman,Maa Tujhe Salaam,Bollywood,5
+1012,user_1012,Queen,Another One Bites the Dust,Rock,4
+1013,user_1013,Taylor Swift,Love Story,Pop,4
+1014,user_1014,Shreya Ghoshal,Deewani Mastani,Bollywood,5
+1015,user_1015,Drake,In My Feelings,Hip Hop,2
+1016,user_1016,Arctic Monkeys,R U Mine?,Rock,5
+1017,user_1017,Guru Randhawa,High Rated Gabru,Punjabi,3
+1018,user_1018,Eminem,Not Afraid,Hip Hop,4
+1019,user_1019,Coldplay,Viva La Vida,Alternative,5
+1020,user_1020,Justin Bieber,Peaches,Pop,4
+1021,user_1021,Lata Mangeshkar,Lag Ja Gale,Bollywood,5
+1022,user_1022,Imagine Dragons,Believer,Rock,4
+1023,user_1023,Billie Eilish,bad guy,Pop,3
+1024,user_1024,Diljit Dosanjh,Lover,Punjabi,5
+1025,user_1025,Kendrick Lamar,HUMBLE.,Hip Hop,5
+1026,user_1026,Sunidhi Chauhan,Sheila Ki Jawani,Bollywood,3
+1027,user_1027,Pink Floyd,"Comfortably Numb",Rock,5
+1028,user_1028,Harry Styles,As It Was,Pop,4
+1029,user_1029,Kanye West,Stronger,Hip Hop,4
+1030,user_1030,Vishal-Shekhar,Swag Se Swagat,Bollywood,3
+1031,user_1031,Post Malone,Circles,Pop,4
+1032,user_1032,Guns N' Roses,"Sweet Child O' Mine",Rock,5
+1033,user_1033,Neha Kakkar,Kala Chashma,Bollywood,2
+1034,user_1034,J. Cole,No Role Modelz,Hip Hop,5
+1035,user_1035,Tame Impala,The Less I Know The Better,Alternative,5
+1036,user_1036,Harrdy Sandhu,Bijlee Bijlee,Punjabi,4
+1037,user_1037,AC/DC,Back In Black,Rock,5
+1038,user_1038,Badshah,DJ Waley Babu,Bollywood,2
+1039,user_1039,Adele,Rolling in the Deep,Pop,5
+1040,user_1040,The Strokes,Last Nite,Alternative,4
+1001,user_1001,Nirvana,Lithium,Rock,4
+1002,user_1002,Taylor Swift,Style,Pop,5
+1003,user_1003,A.R. Rahman,Chaiyya Chaiyya,Bollywood,5
+1004,user_1004,The Weeknd,Starboy,Pop,4
+1005,user_1005,Pritam,Ae Dil Hai Mushkil,Bollywood,5
+1006,user_1006,Arctic Monkeys,Why'd You Only Call Me When You're High?,Rock,4
+1007,user_1007,Sidhu Moose Wala,Legend,Punjabi,5
+1008,user_1008,Drake,Hotline Bling,Hip Hop,3
+1009,user_1009,Arijit Singh,Kabira,Bollywood,5
+1010,user_1010,Queen,"Don't Stop Me Now",Rock,5
+1011,user_1011,Dua Lipa,New Rules,Pop,4
+1012,user_1012,Led Zeppelin,Whole Lotta Love,Rock,5
+1013,user_1013,AP Dhillon,Insane,Punjabi,4
+1014,user_1014,Ed Sheeran,Thinking Out Loud,Pop,5
+1015,user_1015,Shreya Ghoshal,Sunn Raha Hai,Bollywood,5
+1016,user_1016,Eminem,The Real Slim Shady,Hip Hop,4
+1017,user_1017,The Beatles,Let It Be,Rock,5
+1018,user_1018,Justin Bieber,Love Yourself,Pop,3
+1019,user_1019,Guru Randhawa,Suit Suit,Punjabi,3
+1020,user_1020,Coldplay,The Scientist,Alternative,5
+1021,user_1021,Pink Floyd,Another Brick in the Wall,Rock,5
+1022,user_1022,Diljit Dosanjh,G.O.A.T.,Punjabi,5
+1023,user_1023,Vishal-Shekhar,Balam Pichkari,Bollywood,4
+1024,user_1024,Imagine Dragons,Radioactive,Rock,4
+1025,user_1025,Harry Styles,Watermelon Sugar,Pop,4
+1026,user_1026,J. Cole,MIDDLE CHILD,Hip Hop,5
+1027,user_1027,Sunidhi Chauhan,Kamli,Bollywood,4
+1028,user_1028,Billie Eilish,ocean eyes,Pop,4
+1029,user_1029,Kendrick Lamar,Alright,Hip Hop,5
+1030,user_1030,Lata Mangeshkar,Ajeeb Dastan Hai Yeh,Bollywood,5
+1031,user_1031,Guns N' Roses,"November Rain",Rock,5
+1032,user_1032,Post Malone,Sunflower,Pop,4
+1033,user_1033,Kanye West,Gold Digger,Hip Hop,4
+1034,user_1034,Neha Kakkar,Dilbar,Bollywood,2
+1035,user_1035,AC/DC,Highway to Hell,Rock,5
+1036,user_1036,Tame Impala,Feels Like We Only Go Backwards,Alternative,5
+1037,user_1037,Harrdy Sandhu,Kya Baat Ay,Punjabi,4
+1038,user_1038,Adele,Someone Like You,Pop,5
+1039,user_1039,Badshah,Kar Gayi Chull,Bollywood,3
+1040,user_1040,The Strokes,Someday,Alternative,4
+1041,user_1041,Rihanna,Umbrella,Pop,4
+1042,user_1042,Metallica,Enter Sandman,Rock,5
+1043,user_1043,Sonu Nigam,Kal Ho Naa Ho,Bollywood,5
+1044,user_1044,Cardi B,Bodak Yellow,Hip Hop,4
+1045,user_1045,Bad Bunny,DÁKITI,Latin,4
+1046,user_1046,Florence + The Machine,Dog Days Are Over,Alternative,5
+1047,user_1047,Shankar-Ehsaan-Loy,Mitwa,Bollywood,5
+1048,user_1048,Red Hot Chili Peppers,Californication,Rock,4
+1049,user_1049,Ariana Grande,thank u, next,Pop,3
+1050,user_1050,Karan Aujla,Chitta Kurta,Punjabi,4
+1001,user_1001,The Weeknd,Blinding Lights,Pop,4
+1002,user_1002,Led Zeppelin,Stairway to Heaven,Rock,5
+1003,user_1003,AP Dhillon,"Brown Munde",Punjabi,4
+1004,user_1004,Taylor Swift,Blank Space,Pop,5
+1005,user_1005,Arijit Singh,Tum Hi Ho,Bollywood,5
+1006,user_1006,Arctic Monkeys,Do I Wanna Know?,Rock,5
+1007,user_1007,Dua Lipa,Don't Start Now,Pop,3
+1008,user_1008,Pritam,Kesariya,Bollywood,4
+1009,user_1009,Drake,God's Plan,Hip Hop,3
+1010,user_1010,Nirvana,Smells Like Teen Spirit,Rock,5
+1011,user_1011,Ed Sheeran,Shape of You,Pop,4
+1012,user_1012,Shreya Ghoshal,Ghoomar,Bollywood,5
+1013,user_1013,Sidhu Moose Wala,295,Punjabi,5
+1014,user_1014,Queen,Bohemian Rhapsody,Rock,5
+1015,user_1015,Coldplay,Yellow,Alternative,4
+1016,user_1016,A.R. Rahman,Jai Ho,Bollywood,4
+1017,user_1017,Eminem,Lose Yourself,Hip Hop,5
+1018,user_1018,Guru Randhawa,Lahore,Punjabi,3
+1019,user_1019,Justin Bieber,Sorry,Pop,2
+1020,user_1020,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
+1021,user_1021,Imagine Dragons,Believer,Rock,4
+1022,user_1022,Sunidhi Chauhan,Sheila Ki Jawani,Bollywood,3
+1023,user_1023,Diljit Dosanjh,Lover,Punjabi,5
+1024,user_1024,Pink Floyd,"Comfortably Numb",Rock,5
+1025,user_1025,Billie Eilish,bad guy,Pop,3
+1026,user_1026,Kendrick Lamar,HUMBLE.,Hip Hop,5
+1027,user_1027,Harry Styles,As It Was,Pop,4
+1028,user_1028,Lata Mangeshkar,Lag Ja Gale,Bollywood,5
+1029,user_1029,Vishal-Shekhar,Swag Se Swagat,Bollywood,3
+1030,user_1030,Kanye West,Stronger,Hip Hop,4
+1031,user_1031,Guns N' Roses,"Sweet Child O' Mine",Rock,5
+1032,user_1032,Neha Kakkar,Kala Chashma,Bollywood,2
+1033,user_1033,Post Malone,Circles,Pop,4
+1034,user_1034,Tame Impala,The Less I Know The Better,Alternative,5
+1035,user_1035,J. Cole,No Role Modelz,Hip Hop,5
+1036,user_1036,AC/DC,Back In Black,Rock,5
+1037,user_1037,Harrdy Sandhu,Bijlee Bijlee,Punjabi,4
+1038,user_1038,The Strokes,Last Nite,Alternative,4
+1039,user_1039,Badshah,DJ Waley Babu,Bollywood,2
+1040,user_1040,Adele,Rolling in the Deep,Pop,5
+1041,user_1041,Metallica,Enter Sandman,Rock,5
+1042,user_1042,Sonu Nigam,Kal Ho Naa Ho,Bollywood,5
+1043,user_1043,Rihanna,Umbrella,Pop,4
+1044,user_1044,Bad Bunny,DÁKITI,Latin,4
+1045,user_1045,Cardi B,Bodak Yellow,Hip Hop,4
+1046,user_1046,Shankar-Ehsaan-Loy,Mitwa,Bollywood,5
+1047,user_1047,Florence + The Machine,Dog Days Are Over,Alternative,5
+1048,user_1048,Ariana Grande,thank u, next,Pop,3
+1049,user_1049,Red Hot Chili Peppers,Californication,Rock,4
+1050,user_1050,Karan Aujla,Chitta Kurta,Punjabi,4
+1005,user_1005,Taylor Swift,Style,Pop,5
+1006,user_1006,Arijit Singh,Channa Mereya,Bollywood,5
+1007,user_1007,The Beatles,Hey Jude,Rock,4
+1008,user_1008,Dua Lipa,Levitating,Pop,4
+1009,user_1009,AP Dhillon,Excuses,Punjabi,5
+1010,user_1010,Nirvana,Come As You Are,Rock,4
+1011,user_1011,Pritam,Gerua,Bollywood,5
+1012,user_1012,The Weeknd,Save Your Tears,Pop,4
+1013,user_1013,Led Zeppelin,Black Dog,Rock,5
+1014,user_1014,Sidhu Moose Wala,So High,Punjabi,4
+1015,user_1015,A.R. Rahman,Maa Tujhe Salaam,Bollywood,5
+1016,user_1016,Queen,Another One Bites the Dust,Rock,4
+1017,user_1017,Taylor Swift,Love Story,Pop,4
+1018,user_1018,Shreya Ghoshal,Deewani Mastani,Bollywood,5
+1019,user_1019,Drake,In My Feelings,Hip Hop,2
+1020,user_1020,Arctic Monkeys,R U Mine?,Rock,5
+1021,user_1021,Guru Randhawa,High Rated Gabru,Punjabi,3
+1022,user_1022,Eminem,Not Afraid,Hip Hop,4
+1023,user_1023,Coldplay,Viva La Vida,Alternative,5
+1024,user_1024,Justin Bieber,Peaches,Pop,4
+1025,user_1025,Lata Mangeshkar,Ajeeb Dastan Hai Yeh,Bollywood,5
+1026,user_1026,Imagine Dragons,Radioactive,Rock,4
+1027,user_1027,Billie Eilish,ocean eyes,Pop,4
+1028,user_1028,Diljit Dosanjh,G.O.A.T.,Punjabi,5
+1029,user_1029,Kendrick Lamar,Alright,Hip Hop,5
+1030,user_1030,Sunidhi Chauhan,Kamli,Bollywood,4
+1031,user_1031,Pink Floyd,Another Brick in the Wall,Rock,5
+1032,user_1032,Harry Styles,Watermelon Sugar,Pop,4
+1033,user_1033,Kanye West,Gold Digger,Hip Hop,4
+1034,user_1034,Vishal-Shekhar,Balam Pichkari,Bollywood,4
+1035,user_1035,Post Malone,Sunflower,Pop,4
+1036,user_1036,J. Cole,MIDDLE CHILD,Hip Hop,5
+1037,user_1037,Guns N' Roses,"November Rain",Rock,5
+1038,user_1038,Neha Kakkar,Dilbar,Bollywood,2
+1039,user_1039,AC/DC,Highway to Hell,Rock,5
+1040,user_1040,Tame Impala,Feels Like We Only Go Backwards,Alternative,5
+1041,user_1041,Harrdy Sandhu,Kya Baat Ay,Punjabi,4
+1042,user_1042,Adele,Someone Like You,Pop,5
+1043,user_1043,Badshah,Kar Gayi Chull,Bollywood,3
+1044,user_1044,The Strokes,Someday,Alternative,4
+1045,user_1045,Rihanna,Disturbia,Pop,4
+1046,user_1046,Metallica,"Master of Puppets",Rock,5
+1047,user_1047,Sonu Nigam,Abhi Mujh Mein Kahin,Bollywood,5
+1048,user_1048,Cardi B,I Like It,Hip Hop,4
+1049,user_1049,Bad Bunny,Yo Perreo Sola,Latin,4
+1050,user_1050,Florence + The Machine,Shake It Out,Alternative,5
+1051,user_1051,Shankar-Ehsaan-Loy,Kajra Re,Bollywood,4
+1052,user_1052,Red Hot Chili Peppers,Under the Bridge,Rock,5
+1053,user_1053,Ariana Grande,7 rings,Pop,3
+1054,user_1054,Karan Aujla,Don't Look,Punjabi,4
+1055,user_1055,Linkin Park,In the End,Rock,5
+1056,user_1056,Udit Narayan,Pehla Nasha,Bollywood,5
+1057,user_1057,Olivia Rodrigo,good 4 u,Pop,4
+1058,user_1058,Travis Scott,SICKO MODE,Hip Hop,4
+1059,user_1059,Jubin Nautiyal,Raataan Lambiyan,Bollywood,4
+1060,user_1060,Foo Fighters,Everlong,Rock,5
+1001,user_1001,Arctic Monkeys,Why'd You Only Call Me When You're High?,Rock,4
+1002,user_1002,Dua Lipa,New Rules,Pop,4
+1003,user_1003,Pritam,Ae Dil Hai Mushkil,Bollywood,5
+1004,user_1004,Sidhu Moose Wala,Legend,Punjabi,5
+1005,user_1005,The Beatles,Let It Be,Rock,5
+1006,user_1006,A.R. Rahman,Chaiyya Chaiyya,Bollywood,5
+1007,user_1007,Ed Sheeran,Thinking Out Loud,Pop,5
+1008,user_1008,Nirvana,Lithium,Rock,4
+1009,user_1009,Taylor Swift,Style,Pop,5
+1010,user_1010,AP Dhillon,Insane,Punjabi,4
+1011,user_1011,Queen,"Don't Stop Me Now",Rock,5
+1012,user_1012,The Weeknd,Starboy,Pop,4
+1013,user_1013,Arijit Singh,Kabira,Bollywood,5
+1014,user_1014,Led Zeppelin,Whole Lotta Love,Rock,5
+1015,user_1015,Guru Randhawa,Suit Suit,Punjabi,3
+1016,user_1016,Justin Bieber,Love Yourself,Pop,3
+1017,user_1017,Drake,Hotline Bling,Hip Hop,3
+1018,user_1018,Shreya Ghoshal,Sunn Raha Hai,Bollywood,5
+1019,user_1019,Eminem,The Real Slim Shady,Hip Hop,4
+1020,user_1020,Coldplay,The Scientist,Alternative,5
+1021,user_1021,J. Cole,MIDDLE CHILD,Hip Hop,5
+1022,user_1022,Guns N' Roses,"November Rain",Rock,5
+1023,user_1023,Harry Styles,Watermelon Sugar,Pop,4
+1024,user_1024,Sunidhi Chauhan,Kamli,Bollywood,4
+1025,user_1025,Diljit Dosanjh,G.O.A.T.,Punjabi,5
+1026,user_1026,Vishal-Shekhar,Balam Pichkari,Bollywood,4
+1027,user_1027,Imagine Dragons,Radioactive,Rock,4
+1028,user_1028,Lata Mangeshkar,Ajeeb Dastan Hai Yeh,Bollywood,5
+1029,user_1029,Kendrick Lamar,Alright,Hip Hop,5
+1030,user_1030,Pink Floyd,Another Brick in the Wall,Rock,5
+1031,user_1031,Billie Eilish,ocean eyes,Pop,4
+1032,user_1032,Kanye West,Gold Digger,Hip Hop,4
+1033,user_1033,Post Malone,Sunflower,Pop,4
+1034,user_1034,Neha Kakkar,Dilbar,Bollywood,2
+1035,user_1035,AC/DC,Highway to Hell,Rock,5
+1036,user_1036,Harrdy Sandhu,Kya Baat Ay,Punjabi,4
+1037,user_1037,Tame Impala,Feels Like We Only Go Backwards,Alternative,5
+1038,user_1038,Badshah,Kar Gayi Chull,Bollywood,3
+1039,user_1039,Adele,Someone Like You,Pop,5
+1040,user_1040,The Strokes,Someday,Alternative,4
+1041,user_1041,Sonu Nigam,Abhi Mujh Mein Kahin,Bollywood,5
+1042,user_1042,Rihanna,Disturbia,Pop,4
+1043,user_1043,Bad Bunny,Yo Perreo Sola,Latin,4
+1044,user_1044,Metallica,"Master of Puppets",Rock,5
+1045,user_1045,Florence + The Machine,Shake It Out,Alternative,5
+1046,user_1046,Cardi B,I Like It,Hip Hop,4
+1047,user_1047,Karan Aujla,Don't Look,Punjabi,4
+1048,user_1048,Red Hot Chili Peppers,Under the Bridge,Rock,5
+1049,user_1049,Shankar-Ehsaan-Loy,Kajra Re,Bollywood,4
+1050,user_1050,Ariana Grande,7 rings,Pop,3
+1051,user_1051,Udit Narayan,Pehla Nasha,Bollywood,5
+1052,user_1052,Linkin Park,In the End,Rock,5
+1053,user_1053,Jubin Nautiyal,Raataan Lambiyan,Bollywood,4
+1054,user_1054,Travis Scott,SICKO MODE,Hip Hop,4
+1055,user_1055,Olivia Rodrigo,good 4 u,Pop,4
+1056,user_1056,Foo Fighters,Everlong,Rock,5
+1057,user_1057,Mohammed Rafi,Kya Hua Tera Wada,Bollywood,5
+1058,user_1058,The Killers,Mr. Brightside,Rock,5
+1059,user_1059,Beyoncé,Crazy in Love,R&B,4
+1060,user_1060,Honey Singh,Lungi Dance,Bollywood,2
+1061,user_1061,Michael Jackson,Billie Jean,Pop,5
+1062,user_1062,Radiohead,Creep,Alternative,5
+1063,user_1063,Kumar Sanu,Tujhe Dekha To,Bollywood,5
+1064,user_1064,Jay-Z,99 Problems,Hip Hop,4
+1065,user_1065,Britney Spears,Toxic,Pop,3
+1066,user_1066,Mohit Chauhan,Tum Se Hi,Bollywood,5
+1067,user_1067,Oasis,Wonderwall,Rock,5
+1068,user_1068,Shubh,We Rollin,Punjabi,4
+1069,user_1069,Frank Ocean,Thinkin Bout You,R&B,5
+1070,user_1070,KK,Pal,Bollywood,5
+1071,user_1071,Fleetwood Mac,Dreams,Rock,5
+1072,user_1072,Lady Gaga,Bad Romance,Pop,4
+1073,user_1073,Atif Aslam,Tera Hone Laga Hoon,Bollywood,4
+1074,user_1074,2Pac,Changes,Hip Hop,5
+1075,user_1075,Vampire Weekend,A-Punk,Indie,4
+1001,user_1001,Queen,Bohemian Rhapsody,Rock,5
+1002,user_1002,Pritam,Kesariya,Bollywood,4
+1003,user_1003,Dua Lipa,Don't Start Now,Pop,3
+1004,user_1004,Arijit Singh,Tum Hi Ho,Bollywood,5
+1005,user_1005,Nirvana,Smells Like Teen Spirit,Rock,5
+1006,user_1006,The Weeknd,Blinding Lights,Pop,4
+1007,user_1007,AP Dhillon,"Brown Munde",Punjabi,4
+1008,user_1008,Led Zeppelin,Stairway to Heaven,Rock,5
+1009,user_1009,Ed Sheeran,Shape of You,Pop,4
+1010,user_1010,Shreya Ghoshal,Ghoomar,Bollywood,5
+1011,user_1011,Arctic Monkeys,Do I Wanna Know?,Rock,5
+1012,user_1012,Sidhu Moose Wala,295,Punjabi,5
+1013,user_1013,Taylor Swift,Blank Space,Pop,5
+1014,user_1014,A.R. Rahman,Jai Ho,Bollywood,4
+1015,user_1015,Drake,God's Plan,Hip Hop,3
+1016,user_1016,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
+1017,user_1017,Coldplay,Yellow,Alternative,4
+1018,user_1018,Guru Randhawa,Lahore,Punjabi,3
+1019,user_1019,Eminem,Lose Yourself,Hip Hop,5
+1020,user_1020,Justin Bieber,Sorry,Pop,2
+1021,user_1021,Diljit Dosanjh,Lover,Punjabi,5
+1022,user_1022,Lata Mangeshkar,Lag Ja Gale,Bollywood,5
+1023,user_1023,Imagine Dragons,Believer,Rock,4
+1024,user_1024,Kendrick Lamar,HUMBLE.,Hip Hop,5
+1025,user_1025,Sunidhi Chauhan,Sheila Ki Jawani,Bollywood,3
+1026,user_1026,Pink Floyd,"Comfortably Numb",Rock,5
+1027,user_1027,Billie Eilish,bad guy,Pop,3
+1028,user_1028,Vishal-Shekhar,Swag Se Swagat,Bollywood,3
+1029,user_1029,Harry Styles,As It Was,Pop,4
+1030,user_1030,J. Cole,No Role Modelz,Hip Hop,5
+1031,user_1031,Neha Kakkar,Kala Chashma,Bollywood,2
+1032,user_1032,Guns N' Roses,"Sweet Child O' Mine",Rock,5
+1033,user_1033,Tame Impala,The Less I Know The Better,Alternative,5
+1034,user_1034,Post Malone,Circles,Pop,4
+1035,user_1035,Kanye West,Stronger,Hip Hop,4
+1036,user_1036,Badshah,DJ Waley Babu,Bollywood,2
+1037,user_1037,The Strokes,Last Nite,Alternative,4
+1038,user_1038,AC/DC,Back In Black,Rock,5
+1039,user_1039,Harrdy Sandhu,Bijlee Bijlee,Punjabi,4
+1040,user_1040,Adele,Rolling in the Deep,Pop,5
+1041,user_1041,Cardi B,Bodak Yellow,Hip Hop,4
+1042,user_1042,Florence + The Machine,Dog Days Are Over,Alternative,5
+1043,user_1043,Shankar-Ehsaan-Loy,Mitwa,Bollywood,5
+1044,user_1044,Red Hot Chili Peppers,Californication,Rock,4
+1045,user_1045,Ariana Grande,thank u, next,Pop,3
+1046,user_1046,Karan Aujla,Chitta Kurta,Punjabi,4
+1047,user_1047,Rihanna,Umbrella,Pop,4
+1048,user_1048,Metallica,Enter Sandman,Rock,5
+1049,user_1049,Sonu Nigam,Kal Ho Naa Ho,Bollywood,5
+1050,user_1050,Bad Bunny,DÁKITI,Latin,4
+1051,user_1051,Linkin Park,In the End,Rock,5
+1052,user_1052,Jubin Nautiyal,Raataan Lambiyan,Bollywood,4
+1053,user_1053,Olivia Rodrigo,good 4 u,Pop,4
+1054,user_1054,Foo Fighters,Everlong,Rock,5
+1055,user_1055,Udit Narayan,Pehla Nasha,Bollywood,5
+1056,user_1056,Travis Scott,SICKO MODE,Hip Hop,4
+1057,user_1057,The Killers,Mr. Brightside,Rock,5
+1058,user_1058,Honey Singh,Lungi Dance,Bollywood,2
+1059,user_1059,Mohammed Rafi,Kya Hua Tera Wada,Bollywood,5
+1060,user_1060,Beyoncé,Crazy in Love,R&B,4
+1061,user_1061,Radiohead,Creep,Alternative,5
+1062,user_1062,Jay-Z,99 Problems,Hip Hop,4
+1063,user_1063,Michael Jackson,Billie Jean,Pop,5
+1064,user_1064,Mohit Chauhan,Tum Se Hi,Bollywood,5
+1065,user_1065,Kumar Sanu,Tujhe Dekha To,Bollywood,5
+1066,user_1066,Oasis,Wonderwall,Rock,5
+1067,user_1067,Britney Spears,Toxic,Pop,3
+1068,user_1068,Frank Ocean,Thinkin Bout You,R&B,5
+1069,user_1069,Shubh,We Rollin,Punjabi,4
+1070,user_1070,Fleetwood Mac,Dreams,Rock,5
+1071,user_1071,KK,Pal,Bollywood,5
+1072,user_1072,Atif Aslam,Tera Hone Laga Hoon,Bollywood,4
+1073,user_1073,Lady Gaga,Bad Romance,Pop,4
+1074,user_1074,Vampire Weekend,A-Punk,Indie,4
+1075,user_1075,2Pac,Changes,Hip Hop,5
+1076,user_1076,Arijit Singh,Phir Le Aya Dil,Bollywood,5
+1077,user_1077,Ed Sheeran,Castle on the Hill,Pop,4
+1078,user_1078,The Doors,Light My Fire,Rock,5
+1079,user_1079,Diljit Dosanjh,Sauda Khara Khara,Punjabi,4
+1080,user_1080,The Weeknd,Can't Feel My Face,Pop,4
+1001,user_1001,Coldplay,The Scientist,Alternative,5
+1002,user_1002,Arctic Monkeys,R U Mine?,Rock,5
+1003,user_1003,Eminem,Not Afraid,Hip Hop,4
+1004,user_1004,Guru Randhawa,High Rated Gabru,Punjabi,3
+1005,user_1005,Justin Bieber,Peaches,Pop,4
+1006,user_1006,Lata Mangeshkar,Ajeeb Dastan Hai Yeh,Bollywood,5
+1007,user_1007,Imagine Dragons,Radioactive,Rock,4
+1008,user_1008,Billie Eilish,ocean eyes,Pop,4
+1009,user_1009,Diljit Dosanjh,G.O.A.T.,Punjabi,5
+1010,user_1010,Kendrick Lamar,Alright,Hip Hop,5
+1011,user_1011,Sunidhi Chauhan,Kamli,Bollywood,4
+1012,user_1012,Pink Floyd,Another Brick in the Wall,Rock,5
+1013,user_1013,Harry Styles,Watermelon Sugar,Pop,4
+1014,user_1014,Kanye West,Gold Digger,Hip Hop,4
+1015,user_1015,Vishal-Shekhar,Balam Pichkari,Bollywood,4
+1016,user_1016,Post Malone,Sunflower,Pop,4
+1017,user_1017,J. Cole,MIDDLE CHILD,Hip Hop,5
+1018,user_1018,Guns N' Roses,"November Rain",Rock,5
+1019,user_1019,Neha Kakkar,Dilbar,Bollywood,2
+1020,user_1020,AC/DC,Highway to Hell,Rock,5
+1021,user_1021,Tame Impala,Feels Like We Only Go Backwards,Alternative,5
+1022,user_1022,Harrdy Sandhu,Kya Baat Ay,Punjabi,4
+1023,user_1023,Adele,Someone Like You,Pop,5
+1024,user_1024,Badshah,Kar Gayi Chull,Bollywood,3
+1025,user_1025,The Strokes,Someday,Alternative,4
+1026,user_1026,Rihanna,Disturbia,Pop,4
+1027,user_1027,Metallica,"Master of Puppets",Rock,5
+1028,user_1028,Sonu Nigam,Abhi Mujh Mein Kahin,Bollywood,5
+1029,user_1029,Cardi B,I Like It,Hip Hop,4
+1030,user_1030,Bad Bunny,Yo Perreo Sola,Latin,4
+1031,user_1031,Florence + The Machine,Shake It Out,Alternative,5
+1032,user_1032,Shankar-Ehsaan-Loy,Kajra Re,Bollywood,4
+1033,user_1033,Red Hot Chili Peppers,Under the Bridge,Rock,5
+1034,user_1034,Ariana Grande,7 rings,Pop,3
+1035,user_1035,Karan Aujla,Don't Look,Punjabi,4
+1036,user_1036,Linkin Park,In the End,Rock,5
+1037,user_1037,Udit Narayan,Pehla Nasha,Bollywood,5
+1038,user_1038,Olivia Rodrigo,good 4 u,Pop,4
+1039,user_1039,Travis Scott,SICKO MODE,Hip Hop,4
+1040,user_1040,Jubin Nautiyal,Raataan Lambiyan,Bollywood,4
+1041,user_1041,Foo Fighters,Everlong,Rock,5
+1042,user_1042,Mohammed Rafi,Kya Hua Tera Wada,Bollywood,5
+1043,user_1043,The Killers,Mr. Brightside,Rock,5
+1044,user_1044,Beyoncé,Crazy in Love,R&B,4
+1045,user_1045,Honey Singh,Lungi Dance,Bollywood,2
+1046,user_1046,Michael Jackson,Billie Jean,Pop,5
+1047,user_1047,Radiohead,Creep,Alternative,5
+1048,user_1048,Kumar Sanu,Tujhe Dekha To,Bollywood,5
+1049,user_1049,Jay-Z,99 Problems,Hip Hop,4
+1050,user_1050,Britney Spears,Toxic,Pop,3
+1051,user_1051,Mohit Chauhan,Tum Se Hi,Bollywood,5
+1052,user_1052,Oasis,Wonderwall,Rock,5
+1053,user_1053,Shubh,We Rollin,Punjabi,4
+1054,user_1054,Frank Ocean,Thinkin Bout You,R&B,5
+1055,user_1055,KK,Pal,Bollywood,5
+1056,user_1056,Fleetwood Mac,Dreams,Rock,5
+1057,user_1057,Lady Gaga,Bad Romance,Pop,4
+1058,user_1058,Atif Aslam,Tera Hone Laga Hoon,Bollywood,4
+1059,user_1059,2Pac,Changes,Hip Hop,5
+1060,user_1060,Vampire Weekend,A-Punk,Indie,4
+1081,user_1081,Arijit Singh,Tum Hi Ho,Bollywood,4
+1082,user_1082,Ed Sheeran,Shape of You,Pop,5
+1083,user_1083,Queen,Bohemian Rhapsody,Rock,5
+1084,user_1084,Sidhu Moose Wala,295,Punjabi,4
+1085,user_1085,The Weeknd,Blinding Lights,Pop,5
+1086,user_1086,Led Zeppelin,Stairway to Heaven,Rock,5
+1087,user_1087,A.R. Rahman,Jai Ho,Bollywood,3
+1088,user_1088,Dua Lipa,Don't Start Now,Pop,4
+1089,user_1089,Nirvana,Smells Like Teen Spirit,Rock,5
+1090,user_1090,AP Dhillon,"Brown Munde",Punjabi,5
+1091,user_1091,Taylor Swift,Blank Space,Pop,4
+1092,user_1092,Pritam,Kesariya,Bollywood,5
+1093,user_1093,Arctic Monkeys,Do I Wanna Know?,Rock,5
+1094,user_1094,Drake,God's Plan,Hip Hop,2
+1095,user_1095,Shreya Ghoshal,Ghoomar,Bollywood,5
+1096,user_1096,Coldplay,Yellow,Alternative,5
+1097,user_1097,Justin Bieber,Sorry,Pop,3
+1098,user_1098,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
+1099,user_1099,Eminem,Lose Yourself,Hip Hop,5
+1100,user_1100,Guru Randhawa,Lahore,Punjabi,4
+1081,user_1081,Ed Sheeran,Perfect,Pop,5
+1082,user_1082,Arijit Singh,Channa Mereya,Bollywood,4
+1083,user_1083,The Beatles,Hey Jude,Rock,5
+1084,user_1084,Dua Lipa,Levitating,Pop,4
+1085,user_1085,AP Dhillon,Excuses,Punjabi,5
+1086,user_1086,Nirvana,Come As You Are,Rock,4
+1087,user_1087,Pritam,Gerua,Bollywood,5
+1088,user_1088,The Weeknd,Save Your Tears,Pop,5
+1089,user_1089,Led Zeppelin,Black Dog,Rock,5
+1090,user_1090,Sidhu Moose Wala,So High,Punjabi,4
+1091,user_1091,A.R. Rahman,Maa Tujhe Salaam,Bollywood,5
+1092,user_1092,Queen,Another One Bites the Dust,Rock,4
+1093,user_1093,Taylor Swift,Love Story,Pop,5
+1094,user_1094,Shreya Ghoshal,Deewani Mastani,Bollywood,5
+1095,user_1095,Drake,In My Feelings,Hip Hop,3
+1096,user_1096,Arctic Monkeys,R U Mine?,Rock,5
+1097,user_1097,Guru Randhawa,High Rated Gabru,Punjabi,4
+1098,user_1098,Eminem,Not Afraid,Hip Hop,5
+1099,user_1099,Coldplay,Viva La Vida,Alternative,5
+1100,user_1100,Justin Bieber,Peaches,Pop,4
+1021,user_1021,The Killers,Somebody Told Me,Rock,4
+1022,user_1022,KK,Tadap Tadap Ke,Bollywood,5
+1023,user_1023,Frank Ocean,Novacane,R&B,4
+1024,user_1024,Shubh,No Love,Punjabi,5
+1025,user_1025,Jay-Z,Empire State of Mind,Hip Hop,5
+1026,user_1026,Britney Spears,...Baby One More Time,Pop,3
+1027,user_1027,Oasis,Don't Look Back In Anger,Rock,5
+1028,user_1028,Mohit Chauhan,Sadda Haq,Bollywood,5
+1029,user_1029,2Pac,California Love,Hip Hop,5
+1030,user_1030,Lady Gaga,Poker Face,Pop,4
+1031,user_1031,Atif Aslam,Pehli Nazar Mein,Bollywood,4
+1032,user_1032,Fleetwood Mac,Go Your Own Way,Rock,5
+1033,user_1033,Vampire Weekend,Diane Young,Indie,4
+1034,user_1034,Kumar Sanu,Ek Ladki Ko Dekha Toh,Bollywood,5
+1035,user_1035,Radiohead,Karma Police,Alternative,5
+1036,user_1036,Michael Jackson,Thriller,Pop,5
+1037,user_1037,Honey Singh,Dope Shope,Punjabi,3
+1038,user_1038,Beyoncé,Single Ladies,R&B,4
+1039,user_1039,Mohammed Rafi,Chura Liya Hai Tumne Jo Dil Ko,Bollywood,5
+1040,user_1040,The Killers,When You Were Young,Rock,5
+1041,user_1041,Foo Fighters,The Pretender,Rock,5
+1042,user_1042,Travis Scott,goosebumps,Hip Hop,4
+1043,user_1043,Udit Narayan,Papa Kehte Hain,Bollywood,5
+1044,user_1044,Olivia Rodrigo,drivers license,Pop,4
+1045,user_1045,Jubin Nautiyal,Lut Gaye,Bollywood,3
+1046,user_1046,Linkin Park,Numb,Rock,5
+1047,user_1047,Bad Bunny,Safaera,Latin,4
+1048,user_1048,Sonu Nigam,Tanhayee,Bollywood,5
+1049,user_1049,Metallica,Nothing Else Matters,Rock,5
+1050,user_1050,Rihanna,Don't Stop The Music,Pop,4
+1051,user_1051,Karan Aujla,Mexico,Punjabi,4
+1052,user_1052,Ariana Grande,Into You,Pop,3
+1053,user_1053,Red Hot Chili Peppers,Scar Tissue,Rock,4
+1054,user_1054,Shankar-Ehsaan-Loy,Dil Chahta Hai,Bollywood,5
+1055,user_1055,Florence + The Machine,You've Got The Love,Alternative,5
+1056,user_1056,Cardi B,WAP,Hip Hop,2
+1057,user_1057,The Strokes,Reptilia,Alternative,5
+1058,user_1058,Badshah,Genda Phool,Bollywood,3
+1059,user_1059,Adele,Hello,Pop,5
+1060,user_1060,Harrdy Sandhu,Naah,Punjabi,4
+1061,user_1061,Tame Impala,Elephant,Alternative,4
+1062,user_1062,AC/DC,Thunderstruck,Rock,5
+1063,user_1063,Neha Kakkar,Garmi,Bollywood,2
+1064,user_1064,Kanye West,Heartless,Hip Hop,4
+1065,user_1065,Post Malone,rockstar,Pop,4
+1066,user_1066,Guns N' Roses,Welcome to the Jungle,Rock,5
+1067,user_1067,J. Cole,Wet Dreamz,Hip Hop,5
+1068,user_1068,Lata Mangeshkar,Tere Bina Zindagi Se,Bollywood,5
+1069,user_1069,Kendrick Lamar,DNA.,Hip Hop,5
+1070,user_1070,Billie Eilish,Happier Than Ever,Pop,4
+1071,user_1071,Sunidhi Chauhan,Dhoom Machale,Bollywood,4
+1072,user_1072,Imagine Dragons,Demons,Rock,4
+1073,user_1073,Harry Styles,Sign of the Times,Pop,5
+1074,user_1074,Pink Floyd,Wish You Were Here,Rock,5
+1075,user_1075,Diljit Dosanjh,Patiala Peg,Punjabi,4
+1076,user_1076,Vishal-Shekhar,Ghungroo,Bollywood,4
+1077,user_1077,The Doors,Riders on the Storm,Rock,5
+1078,user_1078,Ed Sheeran,Photograph,Pop,5
+1079,user_1079,Arijit Singh,Ae Dil Hai Mushkil,Bollywood,5
+1080,user_1080,The Weeknd,The Hills,Pop,4
+1101,user_1101,Arijit Singh,Tum Hi Ho,Bollywood,5
+1102,user_1102,Ed Sheeran,Shape of You,Pop,4
+1103,user_1103,Queen,Bohemian Rhapsody,Rock,5
+1104,user_1104,Sidhu Moose Wala,295,Punjabi,5
+1105,user_1105,The Weeknd,Blinding Lights,Pop,4
+1106,user_1106,Led Zeppelin,Stairway to Heaven,Rock,5
+1107,user_1107,A.R. Rahman,Jai Ho,Bollywood,4
+1108,user_1108,Dua Lipa,Don't Start Now,Pop,3
+1109,user_1109,Nirvana,Smells Like Teen Spirit,Rock,5
+1110,user_1110,AP Dhillon,"Brown Munde",Punjabi,4
+1111,user_1111,Taylor Swift,Blank Space,Pop,5
+1112,user_1112,Pritam,Kesariya,Bollywood,4
+1113,user_1113,Arctic Monkeys,Do I Wanna Know?,Rock,5
+1114,user_1114,Drake,God's Plan,Hip Hop,3
+1115,user_1115,Shreya Ghoshal,Ghoomar,Bollywood,5
+1116,user_1116,Coldplay,Yellow,Alternative,4
+1117,user_1117,Justin Bieber,Sorry,Pop,2
+1118,user_1118,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
+1119,user_1119,Eminem,Lose Yourself,Hip Hop,5
+1120,user_1120,Guru Randhawa,Lahore,Punjabi,3
+1001,user_1001,The Doors,Break On Through,Rock,5
+1002,user_1002,Arijit Singh,Phir Mohabbat,Bollywood,5
+1003,user_1003,The Weeknd,Save Your Tears,Pop,4
+1004,user_1004,Diljit Dosanjh,Clash,Punjabi,4
+1005,user_1005,Ed Sheeran,Galway Girl,Pop,4
+1006,user_1006,Vishal-Shekhar,Jhoome Jo Pathaan,Bollywood,3
+1007,user_1007,Pink Floyd,Time,Rock,5
+1008,user_1008,Harry Styles,Adore You,Pop,4
+1009,user_1009,Imagine Dragons,Thunder,Rock,3
+1010,user_1010,Sunidhi Chauhan,Aaja Nachle,Bollywood,4
+1011,user_1011,J. Cole,ATM,Hip Hop,4
+1012,user_1012,Lata Mangeshkar,Tujhe Dekha To,Bollywood,5
+1013,user_1013,Kendrick Lamar,Money Trees,Hip Hop,5
+1014,user_1014,Billie Eilish,everything i wanted,Pop,4
+1015,user_1015,Guns N' Roses,Paradise City,Rock,5
+1016,user_1016,Kanye West,Flashing Lights,Hip Hop,5
+1017,user_1017,Neha Kakkar,O Saki Saki,Bollywood,2
+1018,user_1018,Post Malone,Congratulations,Pop,4
+1019,user_1019,AC/DC,You Shook Me All Night Long,Rock,5
+1020,user_1020,Tame Impala,Let It Happen,Alternative,5
+1021,user_1021,Harrdy Sandhu,Backbone,Punjabi,4
+1022,user_1022,Badshah,Paagal,Bollywood,2
+1023,user_1023,Adele,Set Fire to the Rain,Pop,5
+1024,user_1024,The Strokes,You Only Live Once,Alternative,4
+1025,user_1025,Metallica,One,Rock,5
+1026,user_1026,Rihanna,We Found Love,Pop,4
+1027,user_1027,Sonu Nigam,Main Agar Kahoon,Bollywood,5
+1028,user_1028,Bad Bunny,MIA,Latin,4
+1029,user_1029,Florence + The Machine,Cosmic Love,Alternative,5
+1030,user_1030,Cardi B,Money,Hip Hop,4
+1031,user_1031,Shankar-Ehsaan-Loy,Kal Ho Naa Ho,Bollywood,5
+1032,user_1032,Red Hot Chili Peppers,Otherside,Rock,4
+1033,user_1033,Ariana Grande,No Tears Left to Cry,Pop,4
+1034,user_1034,Karan Aujla,Hint,Punjabi,4
+1035,user_1035,Linkin Park,Crawling,Rock,5
+1036,user_1036,Udit Narayan,Dil To Pagal Hai,Bollywood,5
+1037,user_1037,Olivia Rodrigo,deja vu,Pop,4
+1038,user_1038,Travis Scott,BUTTERFLY EFFECT,Hip Hop,3
+1039,user_1039,Jubin Nautiyal,Tum Hi Aana,Bollywood,4
+1040,user_1040,Foo Fighters,Learn to Fly,Rock,5
+1041,user_1041,Mohammed Rafi,Gulabi Ankhen,Bollywood,5
+1042,user_1042,The Killers,Read My Mind,Rock,5
+1043,user_1043,Beyoncé,Formation,R&B,5
+1044,user_1044,Honey Singh,Blue Eyes,Bollywood,2
+1045,user_1045,Michael Jackson,Smooth Criminal,Pop,5
+1046,user_1046,Radiohead,No Surprises,Alternative,5
+1047,user_1047,Kumar Sanu,Chura Ke Dil Mera,Bollywood,4
+1048,user_1048,Jay-Z,Niggas in Paris,Hip Hop,5
+1049,user_1049,Britney Spears,Gimme More,Pop,3
+1050,user_1050,Mohit Chauhan,Pee Loon,Bollywood,5
+1051,user_1051,Oasis,Champagne Supernova,Rock,5
+1052,user_1052,Shubh,Elevated,Punjabi,4
+1053,user_1053,Frank Ocean,Pyramids,R&B,5
+1054,user_1054,KK,Aankhon Mein Teri,Bollywood,5
+1055,user_1055,Fleetwood Mac,The Chain,Rock,5
+1056,user_1056,Lady Gaga,Just Dance,Pop,4
+1057,user_1057,Atif Aslam,Tu Jaane Na,Bollywood,5
+1058,user_1058,2Pac,Dear Mama,Hip Hop,5
+1059,user_1059,Vampire Weekend,Cousins,Indie,4
+1060,user_1060,Arijit Singh,Bekhayali,Bollywood,5
+

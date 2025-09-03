@@ -1,0 +1,520 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Amount_Term,Credit_Score,Employment_Length_Years,Property_Area,Home_Ownership,Loan_Intent,Loan_Status
+LP38421D,Male,Yes,0,Graduate,No,105116,0,320000,360,782,31,Urban,Mortgage,Debt Consolidation,Approved
+LP86008B,Male,No,0,Graduate,No,42223,0,131000,360,698,10,Urban,Rent,Home Improvement,Approved
+LPA3374D,Male,Yes,0,Graduate,No,29780,0,105000,360,655,3,Rural,Rent,Debt Consolidation,Rejected
+LP256623,Male,Yes,3+,Graduate,No,49575,0,133000,360,683,10,Urban,Mortgage,Debt Consolidation,Approved
+LPC9060B,Male,Yes,0,Graduate,No,115610,0,395000,360,793,33,Semiurban,Own,Debt Consolidation,Approved
+LP9B3028,Male,No,0,Graduate,No,48208,0,147000,360,714,14,Rural,Rent,Home Improvement,Approved
+LP186A1D,Male,Yes,1,Graduate,No,107293,0,381000,360,784,31,Semiurban,Mortgage,Debt Consolidation,Approved
+LP699317,Male,Yes,0,Not Graduate,No,35300,0,121000,360,688,7,Semiurban,Rent,Personal,Approved
+LP78770F,Male,No,0,Graduate,No,51097,0,183000,360,724,16,Urban,Rent,Debt Consolidation,Approved
+LP292E4F,Male,No,0,Graduate,No,28787,0,10000,360,677,2,Rural,Rent,Debt Consolidation,Approved
+LPE40787,Male,Yes,0,Graduate,No,33385,0,111000,360,681,5,Urban,Rent,Home Improvement,Approved
+LPE3F788,Male,Yes,0,Graduate,No,46210,0,165000,360,707,13,Rural,Rent,Debt Consolidation,Approved
+LP124375,Male,Yes,0,Graduate,No,101569,0,296000,360,776,29,Urban,Mortgage,Debt Consolidation,Approved
+LP6A7528,Male,No,0,Graduate,No,45585,0,161000,360,710,12,Semiurban,Rent,Debt Consolidation,Approved
+LP559D10,Male,Yes,2,Graduate,No,104840,0,366000,360,766,30,Semiurban,Mortgage,Debt Consolidation,Approved
+LP51C97A,Male,Yes,0,Graduate,No,62340,0,211000,360,729,19,Urban,Mortgage,Home Improvement,Approved
+LPB87227,Male,Yes,0,Graduate,No,51423,0,168000,360,707,16,Semiurban,Mortgage,Debt Consolidation,Approved
+LP939B25,Male,Yes,0,Graduate,No,123847,0,453000,360,808,36,Urban,Mortgage,Debt Consolidation,Approved
+LP261F12,Male,Yes,1,Graduate,No,30821,0,10000,360,653,3,Rural,Rent,Debt Consolidation,Rejected
+LP640821,Male,Yes,0,Graduate,No,43552,0,154000,360,705,11,Rural,Rent,Debt Consolidation,Approved
+LP2F4BDC,Male,No,0,Graduate,No,39934,0,137000,360,700,9,Semiurban,Rent,Debt Consolidation,Approved
+LP85908C,Male,Yes,0,Graduate,No,51423,0,172000,360,711,16,Semiurban,Mortgage,Home Improvement,Approved
+LPF02626,Male,Yes,0,Graduate,No,35029,0,118000,360,685,6,Semiurban,Rent,Debt Consolidation,Approved
+LP3B98D7,Male,No,0,Graduate,No,41753,0,140000,360,701,10,Rural,Rent,Debt Consolidation,Approved
+LPA334C4,Male,Yes,0,Graduate,No,43317,0,149000,360,704,11,Semiurban,Rent,Home Improvement,Approved
+LP2CF361,Male,Yes,0,Graduate,No,48208,0,165000,360,707,14,Rural,Rent,Debt Consolidation,Approved
+LP4458D4,Male,Yes,0,Graduate,No,42223,0,147000,360,702,10,Urban,Rent,Debt Consolidation,Approved
+LP78771F,Female,No,0,Graduate,No,28787,0,10000,360,677,2,Rural,Rent,Debt Consolidation,Approved
+LPE40788,Female,Yes,0,Graduate,No,33385,0,111000,360,681,5,Urban,Rent,Home Improvement,Approved
+LPE3F789,Male,Yes,1,Graduate,No,46210,30000,165000,360,707,13,Rural,Mortgage,Debt Consolidation,Approved
+LP124376,Female,Yes,0,Graduate,No,101569,0,296000,360,776,29,Urban,Mortgage,Debt Consolidation,Approved
+LP6A7529,Male,No,0,Not Graduate,No,45585,0,161000,360,610,12,Semiurban,Rent,Debt Consolidation,Rejected
+LP559D11,Female,Yes,2,Graduate,No,104840,50000,366000,360,766,30,Semiurban,Mortgage,Debt Consolidation,Approved
+LP51C97B,Male,Yes,0,Graduate,No,62340,0,211000,360,729,19,Urban,Mortgage,Home Improvement,Approved
+LPB87228,Female,Yes,0,Graduate,No,51423,0,168000,360,707,16,Semiurban,Mortgage,Debt Consolidation,Approved
+LP939B26,Male,Yes,0,Graduate,No,123847,0,453000,360,808,36,Urban,Mortgage,Debt Consolidation,Approved
+LP261F13,Female,Yes,1,Graduate,No,30821,0,10000,360,653,3,Rural,Rent,Debt Consolidation,Rejected
+LP640822,Male,Yes,0,Graduate,No,43552,0,154000,360,705,11,Rural,Rent,Debt Consolidation,Approved
+LP2F4BDD,Male,No,0,Graduate,No,39934,0,137000,360,700,9,Semiurban,Rent,Debt Consolidation,Approved
+LP85908D,Female,Yes,0,Graduate,No,51423,0,172000,360,711,16,Semiurban,Mortgage,Home Improvement,Approved
+LPF02627,Male,Yes,0,Graduate,No,35029,0,118000,360,685,6,Semiurban,Rent,Debt Consolidation,Approved
+LP3B98D8,Male,No,0,Graduate,No,41753,0,140000,360,701,10,Rural,Rent,Debt Consolidation,Approved
+LPA334C5,Female,Yes,0,Graduate,No,43317,0,149000,360,704,11,Semiurban,Rent,Home Improvement,Approved
+LP2CF362,Male,Yes,0,Graduate,No,48208,0,165000,360,707,14,Rural,Rent,Debt Consolidation,Approved
+LP4458D5,Male,Yes,0,Graduate,No,42223,0,147000,360,702,10,Urban,Rent,Debt Consolidation,Approved
+LP86008C,Female,No,0,Graduate,No,42223,0,131000,360,698,10,Urban,Rent,Home Improvement,Approved
+LPA3374E,Male,Yes,0,Graduate,No,29780,0,105000,360,655,3,Rural,Rent,Debt Consolidation,Rejected
+LP256624,Female,Yes,3+,Graduate,No,49575,0,133000,360,683,10,Urban,Mortgage,Debt Consolidation,Approved
+LPC9060C,Male,Yes,0,Graduate,No,115610,0,395000,360,793,33,Semiurban,Own,Debt Consolidation,Approved
+LP9B3029,Male,No,0,Graduate,No,48208,0,147000,360,714,14,Rural,Rent,Home Improvement,Approved
+LP186A1E,Female,Yes,1,Graduate,No,107293,0,381000,360,784,31,Semiurban,Mortgage,Debt Consolidation,Approved
+LP699318,Male,Yes,0,Not Graduate,No,35300,0,121000,360,688,7,Semiurban,Rent,Personal,Approved
+LP78770G,Male,No,0,Graduate,No,51097,0,183000,360,724,16,Urban,Rent,Debt Consolidation,Approved
+LP292E4G,Female,No,0,Graduate,No,28787,0,10000,360,677,2,Rural,Rent,Debt Consolidation,Approved
+LPE40789,Male,Yes,0,Graduate,No,33385,0,111000,360,681,5,Urban,Rent,Home Improvement,Approved
+LPE3F78A,Male,Yes,0,Graduate,No,46210,0,165000,360,707,13,Rural,Rent,Debt Consolidation,Approved
+LP124377,Female,Yes,0,Graduate,No,101569,0,296000,360,776,29,Urban,Mortgage,Debt Consolidation,Approved
+LP6A752A,Male,No,0,Graduate,No,45585,0,161000,360,710,12,Semiurban,Rent,Debt Consolidation,Approved
+LP559D12,Male,Yes,2,Graduate,No,104840,0,366000,360,766,30,Semiurban,Mortgage,Debt Consolidation,Approved
+LP51C97C,Female,Yes,0,Graduate,No,62340,0,211000,360,729,19,Urban,Mortgage,Home Improvement,Approved
+LPB87229,Male,Yes,0,Graduate,No,51423,0,168000,360,707,16,Semiurban,Mortgage,Debt Consolidation,Approved
+LP939B27,Male,Yes,0,Graduate,No,123847,0,453000,360,808,36,Urban,Mortgage,Debt Consolidation,Approved
+LP261F14,Male,Yes,1,Graduate,No,30821,0,10000,360,653,3,Rural,Rent,Debt Consolidation,Rejected
+LP640823,Female,Yes,0,Graduate,No,43552,0,154000,360,705,11,Rural,Rent,Debt Consolidation,Approved
+LP2F4BDE,Male,No,0,Graduate,No,39934,0,137000,360,700,9,Semiurban,Rent,Debt Consolidation,Approved
+LP85908E,Male,Yes,0,Graduate,No,51423,0,172000,360,711,16,Semiurban,Mortgage,Home Improvement,Approved
+LPF02628,Female,Yes,0,Graduate,No,35029,0,118000,360,685,6,Semiurban,Rent,Debt Consolidation,Approved
+LP3B98D9,Male,No,0,Graduate,No,41753,0,140000,360,701,10,Rural,Rent,Debt Consolidation,Approved
+LPA334C6,Male,Yes,0,Graduate,No,43317,0,149000,360,704,11,Semiurban,Rent,Home Improvement,Approved
+LP2CF363,Female,Yes,0,Graduate,No,48208,0,165000,360,707,14,Rural,Rent,Debt Consolidation,Approved
+LP4458D6,Male,Yes,0,Graduate,No,42223,0,147000,360,702,10,Urban,Rent,Debt Consolidation,Approved
+LP38421E,Male,Yes,0,Graduate,No,105116,0,320000,360,782,31,Urban,Mortgage,Debt Consolidation,Approved
+LP86008D,Female,No,0,Graduate,No,42223,0,131000,360,698,10,Urban,Rent,Home Improvement,Approved
+LPA3374F,Male,Yes,0,Graduate,No,29780,0,105000,360,655,3,Rural,Rent,Debt Consolidation,Rejected
+LP256625,Male,Yes,3+,Graduate,No,49575,0,133000,360,683,10,Urban,Mortgage,Debt Consolidation,Approved
+LPC9060D,Female,Yes,0,Graduate,No,115610,0,395000,360,793,33,Semiurban,Own,Debt Consolidation,Approved
+LP9B302A,Male,No,0,Graduate,No,48208,0,147000,360,714,14,Rural,Rent,Home Improvement,Approved
+LP186A1F,Male,Yes,1,Graduate,No,107293,0,381000,360,784,31,Semiurban,Mortgage,Debt Consolidation,Approved
+LP699319,Female,Yes,0,Not Graduate,No,35300,0,121000,360,688,7,Semiurban,Rent,Personal,Approved
+LP78770H,Male,No,0,Graduate,No,51097,0,183000,360,724,16,Urban,Rent,Debt Consolidation,Approved
+LP292E4H,Male,No,0,Graduate,No,28787,0,10000,360,677,2,Rural,Rent,Debt Consolidation,Approved
+LPE4078A,Female,Yes,0,Graduate,No,33385,0,111000,360,681,5,Urban,Rent,Home Improvement,Approved
+LPE3F78B,Male,Yes,0,Graduate,No,46210,0,165000,360,707,13,Rural,Rent,Debt Consolidation,Approved
+LP124378,Male,Yes,0,Graduate,No,101569,0,296000,360,776,29,Urban,Mortgage,Debt Consolidation,Approved
+LP6A752B,Female,No,0,Graduate,No,45585,0,161000,360,710,12,Semiurban,Rent,Debt Consolidation,Approved
+LP559D13,Male,Yes,2,Graduate,No,104840,0,366000,360,766,30,Semiurban,Mortgage,Debt Consolidation,Approved
+LP51C97D,Male,Yes,0,Graduate,No,62340,0,211000,360,729,19,Urban,Mortgage,Home Improvement,Approved
+LPB8722A,Female,Yes,0,Graduate,No,51423,0,168000,360,707,16,Semiurban,Mortgage,Debt Consolidation,Approved
+LP939B28,Male,Yes,0,Graduate,No,123847,0,453000,360,808,36,Urban,Mortgage,Debt Consolidation,Approved
+LP261F15,Male,Yes,1,Graduate,No,30821,0,10000,360,653,3,Rural,Rent,Debt Consolidation,Rejected
+LP640824,Male,Yes,0,Graduate,No,43552,0,154000,360,705,11,Rural,Rent,Debt Consolidation,Approved
+LP2F4BDF,Female,No,0,Graduate,No,39934,0,137000,360,700,9,Semiurban,Rent,Debt Consolidation,Approved
+LP85908F,Male,Yes,0,Graduate,No,51423,0,172000,360,711,16,Semiurban,Mortgage,Home Improvement,Approved
+LPF02629,Male,Yes,0,Graduate,No,35029,0,118000,360,685,6,Semiurban,Rent,Debt Consolidation,Approved
+LP3B98DA,Female,No,0,Graduate,No,41753,0,140000,360,701,10,Rural,Rent,Debt Consolidation,Approved
+LPA334C7,Male,Yes,0,Graduate,No,43317,0,149000,360,704,11,Semiurban,Rent,Home Improvement,Approved
+LP2CF364,Male,Yes,0,Graduate,No,48208,0,165000,360,707,14,Rural,Rent,Debt Consolidation,Approved
+LP4458D7,Female,Yes,0,Graduate,No,42223,0,147000,360,702,10,Urban,Rent,Debt Consolidation,Approved
+LP1A2B3C,Male,Yes,1,Graduate,No,85000,35000,450000,360,750,15,Urban,Mortgage,Home Improvement,Approved
+LP4D5E6F,Female,No,0,Not Graduate,No,32000,0,95000,180,620,4,Rural,Rent,Personal,Rejected
+LP7G8H9I,Male,Yes,2,Graduate,Yes,150000,0,600000,360,810,20,Semiurban,Own,Venture,Approved
+LP1J2K3L,Female,Yes,0,Graduate,No,65000,20000,250000,360,710,8,Urban,Mortgage,Debt Consolidation,Approved
+LP4M5N6O,Male,No,0,Graduate,No,45000,0,150000,360,680,5,Semiurban,Rent,Medical,Approved
+LP7P8Q9R,Female,Yes,3+,Graduate,No,95000,0,300000,360,790,12,Rural,Mortgage,Home Improvement,Approved
+LP1,Male,Yes,1,Not Graduate,No,41000,15000,120000,180,640,6,Urban,Rent,Education,Rejected
+LP4V5W6X,Female,No,0,Graduate,Yes,220000,0,550000,360,830,18,Semiurban,Own,Debt Consolidation,Approved
+LP7Y8Z1A,Male,Yes,2,Graduate,No,78000,0,200000,360,720,10,Urban,Mortgage,Personal,Approved
+LP2B3C4D,Female,Yes,0,Graduate,No,53000,25000,180000,360,690,7,Rural,Rent,Medical,Approved
+LP5E6F7G,Male,No,0,Graduate,No,38000,0,110000,360,660,3,Semiurban,Rent,Debt Consolidation,Rejected
+LP8H9I1J,Female,Yes,1,Graduate,No,110000,0,400000,360,800,16,Urban,Mortgage,Home Improvement,Approved
+LP2K3L4M,Male,Yes,3+,Not Graduate,Yes,75000,0,220000,180,670,9,Rural,Own,Venture,Approved
+LP5N6O7P,Female,No,0,Graduate,No,29000,0,80000,360,630,2,Urban,Rent,Personal,Rejected
+LP8Q9R1S,Male,Yes,0,Graduate,No,180000,50000,650000,360,820,25,Semiurban,Mortgage,Debt Consolidation,Approved
+LP2T3U4V,Female,Yes,2,Graduate,No,88000,0,280000,360,760,14,Rural,Mortgage,Education,Approved
+LP5W6X7Y,Male,No,0,Graduate,No,62000,0,190000,360,700,8,Urban,Rent,Medical,Approved
+LP8Z1A2B,Female,Yes,1,Not Graduate,No,48000,22000,150000,180,650,11,Semiurban,Rent,Personal,Approved
+LP3C4D5E,Male,Yes,0,Graduate,Yes,250000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP6F7G8H,Female,No,0,Graduate,No,40000,0,130000,360,675,6,Rural,Rent,Debt Consolidation,Approved
+LP9I1J2K,Male,Yes,2,Graduate,No,125000,0,420000,360,805,19,Semiurban,Mortgage,Home Improvement,Approved
+LP3L4M5N,Female,Yes,0,Graduate,No,72000,30000,260000,360,730,10,Urban,Mortgage,Debt Consolidation,Approved
+LP6O7P8Q,Male,No,0,Not Graduate,No,35000,0,100000,360,610,4,Semiurban,Rent,Medical,Rejected
+LP9R1S2T,Female,Yes,3+,Graduate,No,105000,0,350000,360,795,17,Rural,Mortgage,Personal,Approved
+LP3U4V5W,Male,Yes,1,Graduate,No,58000,18000,170000,180,685,7,Urban,Rent,Education,Approved
+LP6X7Y8Z,Female,No,0,Graduate,Yes,190000,0,500000,360,825,22,Semiurban,Own,Venture,Approved
+LP9A1B2C,Male,Yes,2,Graduate,No,92000,0,290000,360,770,13,Urban,Mortgage,Debt Consolidation,Approved
+LP4D5E6G,Female,Yes,0,Not Graduate,No,33000,12000,90000,360,625,5,Rural,Rent,Personal,Rejected
+LP7G8H9J,Male,No,0,Graduate,No,49000,0,160000,360,695,6,Semiurban,Rent,Medical,Approved
+LP1J2K3M,Female,Yes,1,Graduate,No,81000,0,240000,360,740,11,Urban,Mortgage,Home Improvement,Approved
+LP4M5N6P,Male,Yes,3+,Graduate,Yes,160000,0,480000,180,815,21,Rural,Own,Venture,Approved
+LP7P8Q9S,Female,No,0,Graduate,No,36000,0,105000,360,645,3,Urban,Rent,Education,Rejected
+LP1,Male,Yes,0,Graduate,No,200000,75000,680000,360,840,28,Semiurban,Mortgage,Debt Consolidation,Approved
+LP4V5W6Y,Female,Yes,2,Graduate,No,70000,0,210000,360,715,9,Rural,Mortgage,Personal,Approved
+LP7Y8Z1B,Male,No,0,Not Graduate,No,43000,0,140000,360,665,7,Urban,Rent,Medical,Approved
+LP2B3C4E,Female,Yes,1,Graduate,No,98000,40000,320000,360,780,15,Semiurban,Mortgage,Home Improvement,Approved
+LP5E6F7H,Male,Yes,0,Graduate,Yes,230000,0,600000,360,845,26,Urban,Own,Venture,Approved
+LP8H9I1K,Female,No,0,Graduate,No,51000,0,170000,360,705,8,Rural,Rent,Debt Consolidation,Approved
+LP2K3L4N,Male,Yes,2,Not Graduate,No,60000,25000,180000,180,680,12,Semiurban,Rent,Education,Approved
+LP5N6O7Q,Female,Yes,0,Graduate,No,130000,0,450000,360,810,20,Urban,Mortgage,Personal,Approved
+LP8Q9R1T,Male,No,0,Graduate,No,31000,0,85000,360,620,2,Urban,Rent,Medical,Rejected
+LP2T3U4W,Female,Yes,1,Graduate,No,102000,0,330000,360,785,16,Rural,Mortgage,Debt Consolidation,Approved
+LP5W6X7Z,Male,Yes,3+,Graduate,No,76000,30000,250000,360,725,11,Semiurban,Mortgage,Home Improvement,Approved
+LP8Z1A2C,Female,No,0,Not Graduate,Yes,65000,0,200000,180,695,9,Urban,Own,Venture,Approved
+LP3C4D5F,Male,Yes,0,Graduate,No,210000,0,690000,360,835,29,Semiurban,Mortgage,Debt Consolidation,Approved
+LP6F7G8I,Female,Yes,2,Graduate,No,83000,0,260000,360,750,13,Rural,Mortgage,Personal,Approved
+LP9I1J2L,Male,No,0,Graduate,No,46000,0,150000,360,688,6,Urban,Rent,Education,Approved
+LP3L4M5O,Female,Yes,1,Not Graduate,No,50000,20000,160000,180,660,10,Semiurban,Rent,Medical,Approved
+LP6O7P8R,Male,Yes,0,Graduate,Yes,175000,0,520000,360,820,23,Urban,Own,Venture,Approved
+LP9R1S2U,Female,No,0,Graduate,No,39000,0,120000,360,655,4,Rural,Rent,Debt Consolidation,Rejected
+LP3U4V5X,Male,Yes,2,Graduate,No,115000,45000,400000,360,800,18,Semiurban,Mortgage,Home Improvement,Approved
+LP6X7Y8A,Female,Yes,0,Graduate,No,68000,0,200000,360,712,9,Urban,Mortgage,Personal,Approved
+LP9A1B2D,Male,No,0,Not Graduate,No,37000,0,110000,360,635,5,Semiurban,Rent,Education,Rejected
+LP4D5E6H,Female,Yes,1,Graduate,No,90000,0,280000,360,765,14,Rural,Mortgage,Medical,Approved
+LP7G8H9K,Male,Yes,3+,Graduate,Yes,240000,0,650000,180,850,27,Urban,Own,Venture,Approved
+LP1J2K3N,Female,No,0,Graduate,No,34000,0,95000,360,630,3,Urban,Rent,Debt Consolidation,Rejected
+LP4M5N6Q,Male,Yes,0,Graduate,No,195000,60000,670000,360,830,26,Semiurban,Mortgage,Home Improvement,Approved
+LP7P8Q9T,Female,Yes,2,Graduate,No,79000,0,230000,360,735,12,Rural,Mortgage,Personal,Approved
+LP1,Male,No,0,Not Graduate,No,44000,0,145000,360,670,8,Urban,Rent,Education,Approved
+LP4V5W6Z,Female,Yes,1,Graduate,No,108000,0,360000,360,790,17,Semiurban,Mortgage,Medical,Approved
+LP7Y8Z1C,Male,Yes,0,Graduate,Yes,215000,0,580000,360,840,24,Urban,Own,Venture,Approved
+LP2B3C4F,Female,No,0,Graduate,No,54000,0,175000,360,708,9,Rural,Rent,Debt Consolidation,Approved
+LP5E6F7I,Male,Yes,2,Not Graduate,No,63000,28000,190000,180,685,13,Semiurban,Rent,Home Improvement,Approved
+LP8H9I1L,Female,Yes,0,Graduate,No,140000,0,470000,360,815,22,Urban,Mortgage,Personal,Approved
+LP2K3L4O,Male,No,0,Graduate,No,30000,0,80000,360,615,1,Urban,Rent,Education,Rejected
+LP5N6O7R,Female,Yes,1,Graduate,No,112000,0,380000,360,798,19,Rural,Mortgage,Medical,Approved
+LP8Q9R1U,Male,Yes,3+,Graduate,No,80000,35000,270000,360,740,12,Semiurban,Mortgage,Debt Consolidation,Approved
+LP2T3U4X,Female,No,0,Not Graduate,Yes,70000,0,210000,180,700,10,Urban,Own,Venture,Approved
+LP5W6X8A,Male,Yes,0,Graduate,No,225000,0,700000,360,848,30,Semiurban,Mortgage,Home Improvement,Approved
+LP8Z1A2D,Female,Yes,2,Graduate,No,86000,0,270000,360,755,14,Rural,Mortgage,Personal,Approved
+LP3C4D5G,Male,No,0,Graduate,No,47000,0,155000,360,690,7,Urban,Rent,Education,Approved
+LP6F7G8J,Female,Yes,1,Not Graduate,No,52000,21000,165000,180,665,11,Semiurban,Rent,Medical,Approved
+LP9I1J2M,Male,Yes,0,Graduate,Yes,185000,0,540000,360,825,25,Urban,Own,Venture,Approved
+LP3L4M5P,Female,No,0,Graduate,No,41000,0,125000,360,660,5,Rural,Rent,Debt Consolidation,Rejected
+LP6O7P8S,Male,Yes,2,Graduate,No,120000,50000,420000,360,805,20,Semiurban,Mortgage,Home Improvement,Approved
+LP9R1S2V,Female,Yes,0,Graduate,No,73000,0,220000,360,720,10,Urban,Mortgage,Personal,Approved
+LP3U4V5Y,Male,No,0,Not Graduate,No,38500,0,115000,360,640,6,Semiurban,Rent,Education,Rejected
+LP6X7Y8B,Female,Yes,1,Graduate,No,94000,0,300000,360,775,15,Rural,Mortgage,Medical,Approved
+LP9A1B2E,Male,Yes,3+,Graduate,Yes,235000,0,630000,180,850,28,Urban,Own,Venture,Approved
+LP4D5E6I,Female,No,0,Graduate,No,35500,0,100000,360,638,4,Urban,Rent,Debt Consolidation,Rejected
+LP7G8H9L,Male,Yes,0,Graduate,No,205000,80000,690000,360,842,29,Semiurban,Mortgage,Home Improvement,Approved
+LP1J2K3O,Female,Yes,2,Graduate,No,82000,0,250000,360,745,13,Rural,Mortgage,Personal,Approved
+LP4M5N6R,Male,No,0,Not Graduate,No,45500,0,150000,360,678,9,Urban,Rent,Education,Approved
+LP7P8Q9U,Female,Yes,1,Graduate,No,118000,0,390000,360,802,18,Semiurban,Mortgage,Medical,Approved
+LP1,Male,Yes,0,Graduate,Yes,225000,0,600000,360,845,25,Urban,Own,Venture,Approved
+LP4V5W7A,Female,No,0,Graduate,No,56000,0,180000,360,710,10,Rural,Rent,Debt Consolidation,Approved
+LP7Y8Z1D,Male,Yes,2,Not Graduate,No,66000,30000,200000,180,690,14,Semiurban,Rent,Home Improvement,Approved
+LP2B3C4G,Female,Yes,0,Graduate,No,150000,0,500000,360,820,23,Urban,Mortgage,Personal,Approved
+LP5E6F7J,Male,No,0,Graduate,No,29500,0,75000,360,610,1,Urban,Rent,Education,Rejected
+LP8H9I1M,Female,Yes,1,Graduate,No,122000,0,410000,360,808,20,Rural,Mortgage,Medical,Approved
+LP2K3L4P,Male,Yes,3+,Graduate,No,84000,38000,280000,360,750,13,Semiurban,Mortgage,Debt Consolidation,Approved
+LP5N6O7S,Female,No,0,Not Graduate,Yes,72000,0,220000,180,705,11,Urban,Own,Venture,Approved
+LP8Q9R1V,Male,Yes,0,Graduate,No,240000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP2T3U4Y,Female,Yes,2,Graduate,No,89000,0,280000,360,760,15,Rural,Mortgage,Personal,Approved
+LP5W6X8B,Male,No,0,Graduate,No,48500,0,160000,360,695,8,Urban,Rent,Education,Approved
+LP8Z1A2E,Female,Yes,1,Not Graduate,No,54000,23000,170000,180,670,12,Semiurban,Rent,Medical,Approved
+LP3C4D5H,Male,Yes,0,Graduate,Yes,190000,0,560000,360,830,26,Urban,Own,Venture,Approved
+LP6F7G8K,Female,No,0,Graduate,No,42500,0,130000,360,665,6,Rural,Rent,Debt Consolidation,Rejected
+LP9I1J2N,Male,Yes,2,Graduate,No,128000,55000,440000,360,810,21,Semiurban,Mortgage,Home Improvement,Approved
+LP3L4M5Q,Female,Yes,0,Graduate,No,75000,0,230000,360,725,11,Urban,Mortgage,Personal,Approved
+LP6O7P8T,Male,No,0,Not Graduate,No,39500,0,120000,360,645,7,Semiurban,Rent,Education,Rejected
+LP9R1S2W,Female,Yes,1,Graduate,No,98000,0,310000,360,780,16,Rural,Mortgage,Medical,Approved
+LP3U4V5Z,Male,Yes,3+,Graduate,Yes,250000,0,680000,180,850,29,Urban,Own,Venture,Approved
+LP6X7Y8C,Female,No,0,Graduate,No,36500,0,105000,360,642,5,Urban,Rent,Debt Consolidation,Rejected
+LP9A1B2F,Male,Yes,0,Graduate,No,210000,85000,700000,360,845,30,Semiurban,Mortgage,Home Improvement,Approved
+LP4D5E6J,Female,Yes,2,Graduate,No,85000,0,260000,360,752,14,Rural,Mortgage,Personal,Approved
+LP7G8H9M,Male,No,0,Not Graduate,No,46500,0,155000,360,682,10,Urban,Rent,Education,Approved
+LP1J2K3P,Female,Yes,1,Graduate,No,125000,0,420000,360,812,19,Semiurban,Mortgage,Medical,Approved
+LP4M5N6S,Male,Yes,0,Graduate,Yes,230000,0,620000,360,848,26,Urban,Own,Venture,Approved
+LP7P8Q9V,Female,No,0,Graduate,No,57000,0,185000,360,715,11,Rural,Rent,Debt Consolidation,Approved
+LP1,Male,Yes,2,Not Graduate,No,68000,32000,210000,180,695,15,Semiurban,Rent,Home Improvement,Approved
+LP4V5W7B,Female,Yes,0,Graduate,No,160000,0,520000,360,825,24,Urban,Mortgage,Personal,Approved
+LP7Y8Z1E,Male,No,0,Graduate,No,28000,0,70000,360,605,1,Urban,Rent,Education,Rejected
+LP2B3C4H,Female,Yes,1,Graduate,No,130000,0,440000,360,815,21,Rural,Mortgage,Medical,Approved
+LP5E6F7K,Male,Yes,3+,Graduate,No,88000,40000,290000,360,758,14,Semiurban,Mortgage,Debt Consolidation,Approved
+LP8H9I1N,Female,No,0,Not Graduate,Yes,75000,0,230000,180,710,12,Urban,Own,Venture,Approved
+LP2K3L4Q,Male,Yes,0,Graduate,No,250000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP5N6O7T,Female,Yes,2,Graduate,No,91000,0,290000,360,765,16,Rural,Mortgage,Personal,Approved
+LP8Q9R1W,Male,No,0,Graduate,No,49500,0,165000,360,700,9,Urban,Rent,Education,Approved
+LP2T3U4Z,Female,Yes,1,Not Graduate,No,56000,25000,175000,180,675,13,Semiurban,Rent,Medical,Approved
+LP5W6X8C,Male,Yes,0,Graduate,Yes,195000,0,580000,360,835,27,Urban,Own,Venture,Approved
+LP8Z1A2F,Female,No,0,Graduate,No,43500,0,135000,360,670,7,Rural,Rent,Debt Consolidation,Approved
+LP3C4D5I,Male,Yes,2,Graduate,No,132000,60000,460000,360,818,22,Semiurban,Mortgage,Home Improvement,Approved
+LP6F7G8L,Female,Yes,0,Graduate,No,78000,0,240000,360,730,12,Urban,Mortgage,Personal,Approved
+LP9I1J2O,Male,No,0,Not Graduate,No,40500,0,125000,360,650,8,Semiurban,Rent,Education,Rejected
+LP3L4M5R,Female,Yes,1,Graduate,No,102000,0,330000,360,788,17,Rural,Mortgage,Medical,Approved
+LP6O7P8U,Male,Yes,3+,Graduate,Yes,260000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP9R1S2X,Female,No,0,Graduate,No,37500,0,110000,360,648,6,Urban,Rent,Debt Consolidation,Rejected
+LP3U4V6A,Male,Yes,0,Graduate,No,215000,90000,700000,360,848,30,Semiurban,Mortgage,Home Improvement,Approved
+LP6X7Y8D,Female,Yes,2,Graduate,No,87000,0,270000,360,758,15,Rural,Mortgage,Personal,Approved
+LP9A1B2G,Male,No,0,Not Graduate,No,47500,0,160000,360,688,11,Urban,Rent,Education,Approved
+LP4D5E6K,Female,Yes,1,Graduate,No,135000,0,450000,360,820,20,Semiurban,Mortgage,Medical,Approved
+LP7G8H9N,Male,Yes,0,Graduate,Yes,240000,0,640000,360,850,28,Urban,Own,Venture,Approved
+LP1J2K3Q,Female,No,0,Graduate,No,58000,0,190000,360,720,12,Rural,Rent,Debt Consolidation,Approved
+LP4M5N6T,Male,Yes,2,Not Graduate,No,70000,35000,220000,180,700,16,Semiurban,Rent,Home Improvement,Approved
+LP7P8Q9W,Female,Yes,0,Graduate,No,170000,0,550000,360,830,25,Urban,Mortgage,Personal,Approved
+LP1,Male,No,0,Graduate,No,26000,0,65000,360,600,0,Urban,Rent,Education,Rejected
+LP4V5W7C,Female,Yes,1,Graduate,No,140000,0,470000,360,822,22,Rural,Mortgage,Medical,Approved
+LP7Y8Z1F,Male,Yes,3+,Graduate,No,90000,42000,300000,360,762,15,Semiurban,Mortgage,Debt Consolidation,Approved
+LP2B3C4I,Female,No,0,Not Graduate,Yes,80000,0,250000,180,715,13,Urban,Own,Venture,Approved
+LP5E6F7L,Male,Yes,0,Graduate,No,260000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP8H9I1O,Female,Yes,2,Graduate,No,93000,0,300000,360,770,17,Rural,Mortgage,Personal,Approved
+LP2K3L4R,Male,No,0,Graduate,No,50500,0,170000,360,705,10,Urban,Rent,Education,Approved
+LP5N6O7U,Female,Yes,1,Not Graduate,No,58000,27000,180000,180,680,14,Semiurban,Rent,Medical,Approved
+LP8Q9R1X,Male,Yes,0,Graduate,Yes,200000,0,600000,360,840,28,Urban,Own,Venture,Approved
+LP2T3U5A,Female,No,0,Graduate,No,44500,0,140000,360,675,8,Rural,Rent,Debt Consolidation,Approved
+LP5W6X8D,Male,Yes,2,Graduate,No,138000,65000,480000,360,822,23,Semiurban,Mortgage,Home Improvement,Approved
+LP8Z1A2G,Female,Yes,0,Graduate,No,80000,0,250000,360,735,13,Urban,Mortgage,Personal,Approved
+LP3C4D5J,Male,No,0,Not Graduate,No,41500,0,130000,360,655,9,Semiurban,Rent,Education,Rejected
+LP6F7G8M,Female,Yes,1,Graduate,No,105000,0,340000,360,792,18,Rural,Mortgage,Medical,Approved
+LP9I1J2P,Male,Yes,3+,Graduate,Yes,270000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP3L4M5S,Female,No,0,Graduate,No,38000,0,115000,360,652,7,Urban,Rent,Debt Consolidation,Rejected
+LP6O7P8V,Male,Yes,0,Graduate,No,220000,95000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP9R1S2Y,Female,Yes,2,Graduate,No,90000,0,285000,360,762,16,Rural,Mortgage,Personal,Approved
+LP3U4V6B,Male,No,0,Not Graduate,No,48000,0,165000,360,692,12,Urban,Rent,Education,Approved
+LP6X7Y8E,Female,Yes,1,Graduate,No,145000,0,480000,360,825,23,Semiurban,Mortgage,Medical,Approved
+LP9A1B2H,Male,Yes,0,Graduate,Yes,250000,0,660000,360,850,29,Urban,Own,Venture,Approved
+LP4D5E6L,Female,No,0,Graduate,No,59000,0,195000,360,725,13,Rural,Rent,Debt Consolidation,Approved
+LP7G8H9O,Male,Yes,2,Not Graduate,No,72000,38000,230000,180,705,17,Semiurban,Rent,Home Improvement,Approved
+LP1J2K3R,Female,Yes,0,Graduate,No,180000,0,580000,360,835,26,Urban,Mortgage,Personal,Approved
+LP4M5N6U,Male,No,0,Graduate,No,25000,0,60000,360,595,0,Urban,Rent,Education,Rejected
+LP7P8Q9X,Female,Yes,1,Graduate,No,150000,0,500000,360,828,24,Rural,Mortgage,Medical,Approved
+LP1,Male,Yes,3+,Graduate,No,92000,45000,310000,360,768,16,Semiurban,Mortgage,Debt Consolidation,Approved
+LP4V5W7D,Female,No,0,Not Graduate,Yes,85000,0,260000,180,720,14,Urban,Own,Venture,Approved
+LP7Y8Z1G,Male,Yes,0,Graduate,No,270000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP2B3C4J,Female,Yes,2,Graduate,No,95000,0,310000,360,775,18,Rural,Mortgage,Personal,Approved
+LP5E6F7M,Male,No,0,Graduate,No,51500,0,175000,360,710,11,Urban,Rent,Education,Approved
+LP8H9I1P,Female,Yes,1,Not Graduate,No,60000,29000,185000,180,685,15,Semiurban,Rent,Medical,Approved
+LP2K3L4S,Male,Yes,0,Graduate,Yes,210000,0,620000,360,845,29,Urban,Own,Venture,Approved
+LP5N6O7V,Female,No,0,Graduate,No,45000,0,145000,360,680,9,Rural,Rent,Debt Consolidation,Approved
+LP8Q9R1Y,Male,Yes,2,Graduate,No,142000,70000,500000,360,825,24,Semiurban,Mortgage,Home Improvement,Approved
+LP2T3U5B,Female,Yes,0,Graduate,No,82000,0,260000,360,740,14,Urban,Mortgage,Personal,Approved
+LP5W6X8E,Male,No,0,Not Graduate,No,42000,0,135000,360,660,10,Semiurban,Rent,Education,Rejected
+LP8Z1A2H,Female,Yes,1,Graduate,No,108000,0,350000,360,795,19,Rural,Mortgage,Medical,Approved
+LP3C4D5K,Male,Yes,3+,Graduate,Yes,280000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP6F7G8N,Female,No,0,Graduate,No,38500,0,120000,360,658,8,Urban,Rent,Debt Consolidation,Rejected
+LP9I1J2Q,Male,Yes,0,Graduate,No,230000,100000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP3L4M5T,Female,Yes,2,Graduate,No,92000,0,295000,360,768,17,Rural,Mortgage,Personal,Approved
+LP6O7P8W,Male,No,0,Not Graduate,No,49000,0,170000,360,698,13,Urban,Rent,Education,Approved
+LP9R1S2Z,Female,Yes,1,Graduate,No,155000,0,510000,360,830,25,Semiurban,Mortgage,Medical,Approved
+LP3U4V6C,Male,Yes,0,Graduate,Yes,260000,0,680000,360,850,30,Urban,Own,Venture,Approved
+LP6X7Y8F,Female,No,0,Graduate,No,60000,0,200000,360,730,14,Rural,Rent,Debt Consolidation,Approved
+LP9A1B2I,Male,Yes,2,Not Graduate,No,75000,40000,240000,180,710,18,Semiurban,Rent,Home Improvement,Approved
+LP4D5E6M,Female,Yes,0,Graduate,No,190000,0,600000,360,840,27,Urban,Mortgage,Personal,Approved
+LP7G8H9P,Male,No,0,Graduate,No,24000,0,55000,360,590,0,Urban,Rent,Education,Rejected
+LP1J2K3S,Female,Yes,1,Graduate,No,160000,0,530000,360,832,26,Rural,Mortgage,Medical,Approved
+LP4M5N6V,Male,Yes,3+,Graduate,No,95000,48000,320000,360,772,17,Semiurban,Mortgage,Debt Consolidation,Approved
+LP7P8Q9Y,Female,No,0,Not Graduate,Yes,90000,0,280000,180,725,15,Urban,Own,Venture,Approved
+LP1,Male,Yes,0,Graduate,No,280000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP4V5W7E,Female,Yes,2,Graduate,No,98000,0,320000,360,780,19,Rural,Mortgage,Personal,Approved
+LP7Y8Z1H,Male,No,0,Graduate,No,52500,0,180000,360,715,12,Urban,Rent,Education,Approved
+LP2B3C4K,Female,Yes,1,Not Graduate,No,62000,31000,190000,180,690,16,Semiurban,Rent,Medical,Approved
+LP5E6F7N,Male,Yes,0,Graduate,Yes,220000,0,640000,360,848,30,Urban,Own,Venture,Approved
+LP8H9I1Q,Female,No,0,Graduate,No,45500,0,150000,360,685,10,Rural,Rent,Debt Consolidation,Approved
+LP2K3L4T,Male,Yes,2,Graduate,No,148000,75000,520000,360,828,25,Semiurban,Mortgage,Home Improvement,Approved
+LP5N6O7W,Female,Yes,0,Graduate,No,85000,0,270000,360,745,15,Urban,Mortgage,Personal,Approved
+LP8Q9R1Z,Male,No,0,Not Graduate,No,42500,0,140000,360,665,11,Semiurban,Rent,Education,Rejected
+LP2T3U5C,Female,Yes,1,Graduate,No,112000,0,360000,360,800,20,Rural,Mortgage,Medical,Approved
+LP5W6X8F,Male,Yes,3+,Graduate,Yes,290000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP8Z1A2I,Female,No,0,Graduate,No,39000,0,125000,360,662,9,Urban,Rent,Debt Consolidation,Rejected
+LP3C4D5L,Male,Yes,0,Graduate,No,240000,110000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP6F7G8O,Female,Yes,2,Graduate,No,94000,0,305000,360,772,18,Rural,Mortgage,Personal,Approved
+LP9I1J2R,Male,No,0,Not Graduate,No,50000,0,175000,360,702,14,Urban,Rent,Education,Approved
+LP3L4M5U,Female,Yes,1,Graduate,No,165000,0,540000,360,835,27,Semiurban,Mortgage,Medical,Approved
+LP6O7P8X,Male,Yes,0,Graduate,Yes,270000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP9R1S3A,Female,No,0,Graduate,No,61000,0,205000,360,735,15,Rural,Rent,Debt Consolidation,Approved
+LP3U4V6D,Male,Yes,2,Not Graduate,No,78000,42000,250000,180,715,19,Semiurban,Rent,Home Improvement,Approved
+LP6X7Y8G,Female,Yes,0,Graduate,No,200000,0,620000,360,842,28,Urban,Mortgage,Personal,Approved
+LP9A1B2J,Male,No,0,Graduate,No,23000,0,50000,360,585,0,Urban,Rent,Education,Rejected
+LP4D5E6N,Female,Yes,1,Graduate,No,170000,0,560000,360,838,28,Rural,Mortgage,Medical,Approved
+LP7G8H9Q,Male,Yes,3+,Graduate,No,98000,50000,330000,360,778,18,Semiurban,Mortgage,Debt Consolidation,Approved
+LP1J2K3T,Female,No,0,Not Graduate,Yes,95000,0,300000,180,730,16,Urban,Own,Venture,Approved
+LP4M5N6W,Male,Yes,0,Graduate,No,290000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP7P8Q9Z,Female,Yes,2,Graduate,No,100000,0,330000,360,785,20,Rural,Mortgage,Personal,Approved
+LP1,Male,No,0,Graduate,No,53000,0,185000,360,720,13,Urban,Rent,Education,Approved
+LP4V5W7F,Female,Yes,1,Not Graduate,No,64000,33000,200000,180,695,17,Semiurban,Rent,Medical,Approved
+LP7Y8Z1I,Male,Yes,0,Graduate,Yes,230000,0,660000,360,850,30,Urban,Own,Venture,Approved
+LP2B3C4L,Female,No,0,Graduate,No,46000,0,155000,360,690,11,Rural,Rent,Debt Consolidation,Approved
+LP5E6F7O,Male,Yes,2,Graduate,No,152000,80000,540000,360,830,26,Semiurban,Mortgage,Home Improvement,Approved
+LP8H9I1R,Female,Yes,0,Graduate,No,88000,0,280000,360,750,16,Urban,Mortgage,Personal,Approved
+LP2K3L4U,Male,No,0,Not Graduate,No,43000,0,145000,360,670,12,Semiurban,Rent,Education,Rejected
+LP5N6O7X,Female,Yes,1,Graduate,No,115000,0,370000,360,802,21,Rural,Mortgage,Medical,Approved
+LP8Q9R2A,Male,Yes,3+,Graduate,Yes,300000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP2T3U5D,Female,No,0,Graduate,No,39500,0,130000,360,668,10,Urban,Rent,Debt Consolidation,Rejected
+LP5W6X8G,Male,Yes,0,Graduate,No,250000,120000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP8Z1A2J,Female,Yes,2,Graduate,No,96000,0,315000,360,778,19,Rural,Mortgage,Personal,Approved
+LP3C4D5M,Male,No,0,Not Graduate,No,51000,0,180000,360,708,15,Urban,Rent,Education,Approved
+LP6F7G8P,Female,Yes,1,Graduate,No,175000,0,570000,360,840,29,Semiurban,Mortgage,Medical,Approved
+LP9I1J2S,Male,Yes,0,Graduate,Yes,280000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP3L4M5V,Female,No,0,Graduate,No,62000,0,210000,360,740,16,Rural,Rent,Debt Consolidation,Approved
+LP6O7P8Y,Male,Yes,2,Not Graduate,No,80000,45000,260000,180,720,20,Semiurban,Rent,Home Improvement,Approved
+LP9R1S3B,Female,Yes,0,Graduate,No,210000,0,640000,360,845,29,Urban,Mortgage,Personal,Approved
+LP3U4V6E,Male,No,0,Graduate,No,22000,0,45000,360,580,0,Urban,Rent,Education,Rejected
+LP6X7Y8H,Female,Yes,1,Graduate,No,180000,0,590000,360,842,29,Rural,Mortgage,Medical,Approved
+LP9A1B2K,Male,Yes,3+,Graduate,No,100000,52000,340000,360,782,19,Semiurban,Mortgage,Debt Consolidation,Approved
+LP4D5E6O,Female,No,0,Not Graduate,Yes,100000,0,320000,180,735,17,Urban,Own,Venture,Approved
+LP7G8H9R,Male,Yes,0,Graduate,No,300000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP1J2K3U,Female,Yes,2,Graduate,No,102000,0,340000,360,790,21,Rural,Mortgage,Personal,Approved
+LP4M5N6X,Male,No,0,Graduate,No,54000,0,190000,360,725,14,Urban,Rent,Education,Approved
+LP7P8Q9A,Female,Yes,1,Not Graduate,No,66000,35000,210000,180,700,18,Semiurban,Rent,Medical,Approved
+LP1,Male,Yes,0,Graduate,Yes,240000,0,680000,360,850,30,Urban,Own,Venture,Approved
+LP4V5W7G,Female,No,0,Graduate,No,46500,0,160000,360,695,12,Rural,Rent,Debt Consolidation,Approved
+LP7Y8Z1J,Male,Yes,2,Graduate,No,158000,85000,560000,360,832,27,Semiurban,Mortgage,Home Improvement,Approved
+LP2B3C4M,Female,Yes,0,Graduate,No,90000,0,290000,360,755,17,Urban,Mortgage,Personal,Approved
+LP5E6F7P,Male,No,0,Not Graduate,No,43500,0,150000,360,675,13,Semiurban,Rent,Education,Rejected
+LP8H9I1S,Female,Yes,1,Graduate,No,118000,0,380000,360,800,20,Rural,Mortgage,Medical,Approved
+LP2K3L4V,Male,Yes,3+,Graduate,Yes,320000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP4D5E6G,Male,Yes,3+,Graduate,No,98000,50000,320000,360,775,18,Semiurban,Mortgage,Debt Consolidation,Approved
+LP7G8H9J,Female,No,0,Not Graduate,Yes,95000,0,290000,180,725,16,Urban,Own,Venture,Approved
+LP2J3K4L,Male,Yes,0,Graduate,No,285000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP5M6N7O,Female,Yes,2,Graduate,No,100000,0,320000,360,782,19,Rural,Mortgage,Personal,Approved
+LP8P9Q1R,Male,No,0,Graduate,No,53000,0,175000,360,702,11,Urban,Rent,Education,Approved
+LP3,Female,Yes,1,Not Graduate,No,63000,32000,195000,180,682,17,Semiurban,Rent,Medical,Approved
+LP6V7W8X,Male,Yes,0,Graduate,Yes,225000,0,650000,360,848,30,Urban,Own,Venture,Approved
+LP9Y1Z2A,Female,No,0,Graduate,No,46000,0,145000,360,678,10,Rural,Rent,Debt Consolidation,Approved
+LP1B2C3D,Male,Yes,2,Graduate,No,160000,85000,560000,360,832,27,Semiurban,Mortgage,Home Improvement,Approved
+LP4E5F6G,Female,Yes,0,Graduate,No,82000,0,260000,360,742,15,Urban,Mortgage,Personal,Approved
+LP7H8I9J,Male,No,0,Not Graduate,No,43000,0,135000,360,660,9,Semiurban,Rent,Education,Rejected
+LP2K3L4M,Female,Yes,1,Graduate,No,122000,0,400000,360,805,21,Rural,Mortgage,Medical,Approved
+LP5N6O7P,Male,Yes,3+,Graduate,Yes,300000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP8Q9R1S,Female,No,0,Graduate,No,40000,0,120000,360,652,8,Urban,Rent,Debt Consolidation,Rejected
+LP3T4U5V,Male,Yes,0,Graduate,No,250000,120000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP6W7X8Y,Female,Yes,2,Graduate,No,98000,0,310000,360,778,19,Rural,Mortgage,Personal,Approved
+LP9Z1A2B,Male,No,0,Not Graduate,No,50000,0,170000,360,695,13,Urban,Rent,Education,Approved
+LP1C2D3E,Female,Yes,1,Graduate,No,170000,0,550000,360,838,28,Semiurban,Mortgage,Medical,Approved
+LP4F5G6H,Male,Yes,0,Graduate,Yes,285000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP7I8J9K,Female,No,0,Graduate,No,62000,0,205000,360,730,14,Rural,Rent,Debt Consolidation,Approved
+LP2L3M4N,Male,Yes,2,Not Graduate,No,78000,42000,250000,180,710,19,Semiurban,Rent,Home Improvement,Approved
+LP5O6P7Q,Female,Yes,0,Graduate,No,200000,0,610000,360,842,28,Urban,Mortgage,Personal,Approved
+LP8R9S1T,Male,No,0,Graduate,No,23000,0,50000,360,575,0,Urban,Rent,Education,Rejected
+LP3U4V5W,Female,Yes,1,Graduate,No,175000,0,560000,360,840,29,Rural,Mortgage,Medical,Approved
+LP6X7Y8Z,Male,Yes,3+,Graduate,No,100000,52000,330000,360,780,19,Semiurban,Mortgage,Debt Consolidation,Approved
+LP9A1B2C,Female,No,0,Not Graduate,Yes,100000,0,310000,180,730,17,Urban,Own,Venture,Approved
+LP1D2E3F,Male,Yes,0,Graduate,No,295000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP4G5H6I,Female,Yes,2,Graduate,No,102000,0,330000,360,788,20,Rural,Mortgage,Personal,Approved
+LP7J8K9L,Male,No,0,Graduate,No,54000,0,180000,360,708,12,Urban,Rent,Education,Approved
+LP2M3N4O,Female,Yes,1,Not Graduate,No,65000,34000,205000,180,690,18,Semiurban,Rent,Medical,Approved
+LP5P6Q7R,Male,Yes,0,Graduate,Yes,235000,0,670000,360,850,30,Urban,Own,Venture,Approved
+LP8,Female,No,0,Graduate,No,47000,0,150000,360,682,11,Rural,Rent,Debt Consolidation,Approved
+LP3V4W5X,Male,Yes,2,Graduate,No,165000,90000,580000,360,835,28,Semiurban,Mortgage,Home Improvement,Approved
+LP6Y7Z8A,Female,Yes,0,Graduate,No,85000,0,270000,360,748,16,Urban,Mortgage,Personal,Approved
+LP9B1C2D,Male,No,0,Not Graduate,No,44000,0,140000,360,668,10,Semiurban,Rent,Education,Rejected
+LP4E5F6G,Female,Yes,1,Graduate,No,125000,0,410000,360,808,22,Rural,Mortgage,Medical,Approved
+LP7H8I9J,Male,Yes,3+,Graduate,Yes,300000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP1K2L3M,Female,No,0,Graduate,No,41000,0,125000,360,658,9,Urban,Rent,Debt Consolidation,Rejected
+LP4N5O6P,Male,Yes,0,Graduate,No,260000,130000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP7Q8R9S,Female,Yes,2,Graduate,No,100000,0,320000,360,780,20,Rural,Mortgage,Personal,Approved
+LP2T3U4V,Male,No,0,Not Graduate,No,51000,0,175000,360,700,14,Urban,Rent,Education,Approved
+LP5W6X7Y,Female,Yes,1,Graduate,No,180000,0,580000,360,842,29,Semiurban,Mortgage,Medical,Approved
+LP8Z9A1B,Male,Yes,0,Graduate,Yes,290000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP3C4D5E,Female,No,0,Graduate,No,63000,0,210000,360,735,15,Rural,Rent,Debt Consolidation,Approved
+LP6F7G8H,Male,Yes,2,Not Graduate,No,80000,45000,260000,180,715,20,Semiurban,Rent,Home Improvement,Approved
+LP9I1J2K,Female,Yes,0,Graduate,No,210000,0,630000,360,845,29,Urban,Mortgage,Personal,Approved
+LP1L2M3N,Male,No,0,Graduate,No,22000,0,45000,360,570,0,Urban,Rent,Education,Rejected
+LP4O5P6Q,Female,Yes,1,Graduate,No,185000,0,600000,360,845,30,Rural,Mortgage,Medical,Approved
+LP7R8S9T,Male,Yes,3+,Graduate,No,105000,55000,350000,360,785,20,Semiurban,Mortgage,Debt Consolidation,Approved
+LP2U3V4W,Female,No,0,Not Graduate,Yes,105000,0,330000,180,738,18,Urban,Own,Venture,Approved
+LP5X6Y7Z,Male,Yes,0,Graduate,No,300000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP8A9B1C,Female,Yes,2,Graduate,No,105000,0,340000,360,792,21,Rural,Mortgage,Personal,Approved
+LP3D4E5F,Male,No,0,Graduate,No,55000,0,185000,360,712,13,Urban,Rent,Education,Approved
+LP6G7H8I,Female,Yes,1,Not Graduate,No,68000,36000,215000,180,695,19,Semiurban,Rent,Medical,Approved
+LP9J1K2L,Male,Yes,0,Graduate,Yes,245000,0,690000,360,850,30,Urban,Own,Venture,Approved
+LP1M2N3O,Female,No,0,Graduate,No,48000,0,155000,360,688,12,Rural,Rent,Debt Consolidation,Approved
+LP4P5Q6R,Male,Yes,2,Graduate,No,170000,95000,600000,360,838,29,Semiurban,Mortgage,Home Improvement,Approved
+LP7,Female,Yes,0,Graduate,No,88000,0,280000,360,752,17,Urban,Mortgage,Personal,Approved
+LP2V3W4X,Male,No,0,Not Graduate,No,45000,0,145000,360,672,11,Semiurban,Rent,Education,Rejected
+LP5Y6Z7A,Female,Yes,1,Graduate,No,130000,0,420000,360,810,23,Rural,Mortgage,Medical,Approved
+LP8B9C1D,Male,Yes,3+,Graduate,Yes,300000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP3E4F5G,Female,No,0,Graduate,No,42000,0,130000,360,662,10,Urban,Rent,Debt Consolidation,Rejected
+LP6H7I8J,Male,Yes,0,Graduate,No,270000,140000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP9K1L2M,Female,Yes,2,Graduate,No,102000,0,330000,360,785,21,Rural,Mortgage,Personal,Approved
+LP1N2O3P,Male,No,0,Not Graduate,No,52000,0,180000,360,705,15,Urban,Rent,Education,Approved
+LP4Q5R6S,Female,Yes,1,Graduate,No,190000,0,600000,360,845,30,Semiurban,Mortgage,Medical,Approved
+LP7T8U9V,Male,Yes,0,Graduate,Yes,300000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP2W3X4Y,Female,No,0,Graduate,No,64000,0,215000,360,740,16,Rural,Rent,Debt Consolidation,Approved
+LP5Z6A7B,Male,Yes,2,Not Graduate,No,82000,48000,270000,180,720,21,Semiurban,Rent,Home Improvement,Approved
+LP8C9D1E,Female,Yes,0,Graduate,No,220000,0,650000,360,848,30,Urban,Mortgage,Personal,Approved
+LP3F4G5H,Male,No,0,Graduate,No,21000,0,40000,360,565,0,Urban,Rent,Education,Rejected
+LP6I7J8K,Female,Yes,1,Graduate,No,195000,0,610000,360,848,30,Rural,Mortgage,Medical,Approved
+LP9L1M2N,Male,Yes,3+,Graduate,No,110000,60000,360000,360,790,21,Semiurban,Mortgage,Debt Consolidation,Approved
+LP1O2P3Q,Female,No,0,Not Graduate,Yes,110000,0,340000,180,742,19,Urban,Own,Venture,Approved
+LP4R5S6T,Male,Yes,0,Graduate,No,300000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP7U8V9W,Female,Yes,2,Graduate,No,108000,0,350000,360,795,22,Rural,Mortgage,Personal,Approved
+LP2X3Y4Z,Male,No,0,Graduate,No,56000,0,190000,360,715,14,Urban,Rent,Education,Approved
+LP5A6B7C,Female,Yes,1,Not Graduate,No,70000,38000,220000,180,700,20,Semiurban,Rent,Medical,Approved
+LP8D9E1F,Male,Yes,0,Graduate,Yes,250000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP3G4H5I,Female,No,0,Graduate,No,49000,0,160000,360,692,13,Rural,Rent,Debt Consolidation,Approved
+LP6J7K8L,Male,Yes,2,Graduate,No,175000,100000,620000,360,840,30,Semiurban,Mortgage,Home Improvement,Approved
+LP9M1N2O,Female,Yes,0,Graduate,No,90000,0,290000,360,758,18,Urban,Mortgage,Personal,Approved
+LP1P2Q3R,Male,No,0,Not Graduate,No,46000,0,150000,360,678,12,Semiurban,Rent,Education,Rejected
+LP4,Female,Yes,1,Graduate,No,135000,0,440000,360,812,24,Rural,Mortgage,Medical,Approved
+LP7V8W9X,Male,Yes,3+,Graduate,Yes,300000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP2Y3Z4A,Female,No,0,Graduate,No,43000,0,130000,360,665,11,Urban,Rent,Debt Consolidation,Rejected
+LP5B6C7D,Male,Yes,0,Graduate,No,280000,150000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP8E9F1G,Female,Yes,2,Graduate,No,105000,0,340000,360,790,22,Rural,Mortgage,Personal,Approved
+LP3H4I5J,Male,No,0,Not Graduate,No,53000,0,185000,360,710,16,Urban,Rent,Education,Approved
+LP6K7L8M,Female,Yes,1,Graduate,No,200000,0,620000,360,848,30,Semiurban,Mortgage,Medical,Approved
+LP9N1O2P,Male,Yes,0,Graduate,Yes,300000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP1Q2R3S,Female,No,0,Graduate,No,65000,0,220000,360,745,17,Rural,Rent,Debt Consolidation,Approved
+LP4T5U6V,Male,Yes,2,Not Graduate,No,85000,50000,280000,180,725,22,Semiurban,Rent,Home Improvement,Approved
+LP7W8X9Y,Female,Yes,0,Graduate,No,230000,0,670000,360,850,30,Urban,Mortgage,Personal,Approved
+LP2Z3A4B,Male,No,0,Graduate,No,20000,0,35000,360,560,0,Urban,Rent,Education,Rejected
+LP5C6D7E,Female,Yes,1,Graduate,No,200000,0,630000,360,850,30,Rural,Mortgage,Medical,Approved
+LP8F9G1H,Male,Yes,3+,Graduate,No,115000,65000,380000,360,795,22,Semiurban,Mortgage,Debt Consolidation,Approved
+LP3I4J5K,Female,No,0,Not Graduate,Yes,115000,0,350000,180,745,20,Urban,Own,Venture,Approved
+LP6L7M8N,Male,Yes,0,Graduate,No,300000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP9O1P2Q,Female,Yes,2,Graduate,No,110000,0,360000,360,800,23,Rural,Mortgage,Personal,Approved
+LP1R2S3T,Male,No,0,Graduate,No,57000,0,195000,360,718,15,Urban,Rent,Education,Approved
+LP4U5V6W,Female,Yes,1,Not Graduate,No,72000,40000,230000,180,705,21,Semiurban,Rent,Medical,Approved
+LP7X8Y9Z,Male,Yes,0,Graduate,Yes,260000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP2A3B4C,Female,No,0,Graduate,No,50000,0,165000,360,695,14,Rural,Rent,Debt Consolidation,Approved
+LP5D6E7F,Male,Yes,2,Graduate,No,180000,105000,640000,360,842,30,Semiurban,Mortgage,Home Improvement,Approved
+LP8G9H1I,Female,Yes,0,Graduate,No,92000,0,300000,360,762,19,Urban,Mortgage,Personal,Approved
+LP3J4K5L,Male,No,0,Not Graduate,No,47000,0,155000,360,680,13,Semiurban,Rent,Education,Rejected
+LP6M7N8O,Female,Yes,1,Graduate,No,140000,0,460000,360,818,25,Rural,Mortgage,Medical,Approved
+LP9P1Q2R,Male,Yes,3+,Graduate,Yes,300000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP1,Female,No,0,Graduate,No,44000,0,135000,360,668,12,Urban,Rent,Debt Consolidation,Rejected
+LP4V5W6X,Male,Yes,0,Graduate,No,290000,160000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP7Y8Z9A,Female,Yes,2,Graduate,No,108000,0,350000,360,792,23,Rural,Mortgage,Personal,Approved
+LP2B3C4D,Male,No,0,Not Graduate,No,54000,0,190000,360,712,17,Urban,Rent,Education,Approved
+LP5E6F7G,Female,Yes,1,Graduate,No,210000,0,640000,360,850,30,Semiurban,Mortgage,Medical,Approved
+LP8H9I1J,Male,Yes,0,Graduate,Yes,300000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP3K4L5M,Female,No,0,Graduate,No,66000,0,225000,360,750,18,Rural,Rent,Debt Consolidation,Approved
+LP6N7O8P,Male,Yes,2,Not Graduate,No,88000,52000,290000,180,730,23,Semiurban,Rent,Home Improvement,Approved
+LP9Q1R2S,Female,Yes,0,Graduate,No,240000,0,690000,360,850,30,Urban,Mortgage,Personal,Approved
+LP1T2U3V,Male,No,0,Graduate,No,19000,0,30000,360,555,0,Urban,Rent,Education,Rejected
+LP4W5X6Y,Female,Yes,1,Graduate,No,210000,0,650000,360,850,30,Rural,Mortgage,Medical,Approved
+LP7Z8A9B,Male,Yes,3+,Graduate,No,120000,70000,400000,360,800,23,Semiurban,Mortgage,Debt Consolidation,Approved
+LP2C3D4E,Female,No,0,Not Graduate,Yes,120000,0,360000,180,748,21,Urban,Own,Venture,Approved
+LP5F6G7H,Male,Yes,0,Graduate,No,300000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP8I9J1K,Female,Yes,2,Graduate,No,112000,0,370000,360,802,24,Rural,Mortgage,Personal,Approved
+LP3L4M5N,Male,No,0,Graduate,No,58000,0,195000,360,722,16,Urban,Rent,Education,Approved
+LP6O7P8Q,Female,Yes,1,Not Graduate,No,75000,42000,240000,180,710,22,Semiurban,Rent,Medical,Approved
+LP9R1S2T,Male,Yes,0,Graduate,Yes,270000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP1U2V3W,Female,No,0,Graduate,No,51000,0,170000,360,698,15,Rural,Rent,Debt Consolidation,Approved
+LP4X5Y6Z,Male,Yes,2,Graduate,No,185000,110000,660000,360,845,30,Semiurban,Mortgage,Home Improvement,Approved
+LP7A8B9C,Female,Yes,0,Graduate,No,95000,0,310000,360,765,20,Urban,Mortgage,Personal,Approved
+LP2D3E4F,Male,No,0,Not Graduate,No,48000,0,160000,360,685,14,Semiurban,Rent,Education,Rejected
+LP5G6H7I,Female,Yes,1,Graduate,No,145000,0,480000,360,822,26,Rural,Mortgage,Medical,Approved
+LP8J9K1L,Male,Yes,3+,Graduate,Yes,300000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP3M4N5O,Female,No,0,Graduate,No,45000,0,140000,360,672,13,Urban,Rent,Debt Consolidation,Rejected
+LP6P7Q8R,Male,Yes,0,Graduate,No,300000,170000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP9,Female,Yes,2,Graduate,No,110000,0,360000,360,798,24,Rural,Mortgage,Personal,Approved
+LP1V2W3X,Male,No,0,Not Graduate,No,55000,0,195000,360,715,18,Urban,Rent,Education,Approved
+LP4Y5Z6A,Female,Yes,1,Graduate,No,220000,0,660000,360,850,30,Semiurban,Mortgage,Medical,Approved
+LP7B8C9D,Male,Yes,0,Graduate,Yes,300000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP2E3F4G,Female,No,0,Graduate,No,67000,0,230000,360,752,19,Rural,Rent,Debt Consolidation,Approved
+LP5H6I7J,Male,Yes,2,Not Graduate,No,90000,55000,300000,180,735,24,Semiurban,Rent,Home Improvement,Approved
+LP8K9L1M,Female,Yes,0,Graduate,No,250000,0,700000,360,850,30,Urban,Mortgage,Personal,Approved
+LP3N4O5P,Male,No,0,Graduate,No,18000,0,25000,360,550,0,Urban,Rent,Education,Rejected
+LP6Q7R8S,Female,Yes,1,Graduate,No,220000,0,670000,360,850,30,Rural,Mortgage,Medical,Approved
+LP9T1U2V,Male,Yes,3+,Graduate,No,125000,75000,420000,360,805,24,Semiurban,Mortgage,Debt Consolidation,Approved
+LP1W2X3Y,Female,No,0,Not Graduate,Yes,125000,0,370000,180,750,22,Urban,Own,Venture,Approved
+LP4Z5A6B,Male,Yes,0,Graduate,No,300000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP7C8D9E,Female,Yes,2,Graduate,No,115000,0,380000,360,805,25,Rural,Mortgage,Personal,Approved
+LP2F3G4H,Male,No,0,Graduate,No,59000,0,200000,360,725,17,Urban,Rent,Education,Approved
+LP5I6J7K,Female,Yes,1,Not Graduate,No,78000,45000,250000,180,715,23,Semiurban,Rent,Medical,Approved
+LP8L9M1N,Male,Yes,0,Graduate,Yes,280000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP3O4P5Q,Female,No,0,Graduate,No,52000,0,175000,360,702,16,Rural,Rent,Debt Consolidation,Approved
+LP6R7S8T,Male,Yes,2,Graduate,No,190000,115000,680000,360,848,30,Semiurban,Mortgage,Home Improvement,Approved
+LP9U1V2W,Female,Yes,0,Graduate,No,98000,0,320000,360,770,21,Urban,Mortgage,Personal,Approved
+LP1X2Y3Z,Male,No,0,Not Graduate,No,49000,0,165000,360,690,15,Semiurban,Rent,Education,Rejected
+LP4A5B6C,Female,Yes,1,Graduate,No,150000,0,490000,360,825,27,Rural,Mortgage,Medical,Approved
+LP7D8E9F,Male,Yes,3+,Graduate,Yes,300000,0,700000,180,850,30,Urban,Own,Venture,Approved
+LP2G3H4I,Female,No,0,Graduate,No,46000,0,145000,360,675,14,Urban,Rent,Debt Consolidation,Rejected
+LP5J6K7L,Male,Yes,0,Graduate,No,300000,180000,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP8M9N1O,Female,Yes,2,Graduate,No,112000,0,370000,360,800,25,Rural,Mortgage,Personal,Approved
+LP3P4Q5R,Male,No,0,Not Graduate,No,56000,0,200000,360,718,19,Urban,Rent,Education,Approved
+LP6,Female,Yes,1,Graduate,No,230000,0,680000,360,850,30,Semiurban,Mortgage,Medical,Approved
+LP9V1W2X,Male,Yes,0,Graduate,Yes,300000,0,700000,360,850,30,Urban,Own,Venture,Approved
+LP1Y2Z3A,Female,No,0,Graduate,No,68000,0,235000,360,755,20,Rural,Rent,Debt Consolidation,Approved
+LP4B5C6D,Male,Yes,2,Not Graduate,No,92000,58000,310000,180,740,25,Semiurban,Rent,Home Improvement,Approved
+LP7E8F9G,Female,Yes,0,Graduate,No,260000,0,700000,360,850,30,Urban,Mortgage,Personal,Approved
+LP2H3I4J,Male,No,0,Graduate,No,17000,0,20000,360,545,0,Urban,Rent,Education,Rejected
+LP5K6L7M,Female,Yes,1,Graduate,No,230000,0,690000,360,850,30,Rural,Mortgage,Medical,Approved
+LP8N9O1P,Male,Yes,3+,Graduate,No,130000,80000,440000,360,810,25,Semiurban,Mortgage,Debt Consolidation,Approved
+LP3Q4R5S,Female,No,0,Not Graduate,Yes,130000,0,380000,180,752,23,Urban,Own,Venture,Approved
+LP6T7U8V,Male,Yes,0,Graduate,No,300000,0,700000,360,850,30,Semiurban,Mortgage,Home Improvement,Approved
+LP9W1X2Y,Female,Yes,2,Graduate,No,118000,0,390000,360,808,26,Rural,Mortgage,Personal,Approved
+LP1Z2A3B,Male,No,0,Graduate,No,60000,0,205000,360,730,18,Urban,Rent,Education,Approved
+LP4C5D6E,Female,Yes,1,Not Graduate,No,80000,48000,260000,180,720,24,Semiurban,Rent,Medical,Approved

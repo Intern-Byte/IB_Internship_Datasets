@@ -1,0 +1,654 @@
+userId,userName,movieId,title,genres,rating
+101,user_101,1,The Shawshank Redemption,"Drama|Crime",5
+102,user_102,1,The Shawshank Redemption,"Drama|Crime",5
+103,user_103,2,The Godfather,"Crime|Drama",5
+104,user_104,3,The Dark Knight,"Action|Crime|Drama",5
+101,user_101,3,The Dark Knight,"Action|Crime|Drama",4
+105,user_105,4,Pulp Fiction,"Crime|Drama",4
+106,user_106,5,Forrest Gump,"Drama|Romance",5
+107,user_107,6,Inception,"Action|Adventure|Sci-Fi",5
+108,user_108,6,Inception,"Action|Adventure|Sci-Fi",4
+102,user_102,7,The Matrix,"Action|Sci-Fi",5
+109,user_109,8,Interstellar,"Adventure|Drama|Sci-Fi",5
+110,user_110,9,Parasite,"Comedy|Drama|Thriller",5
+101,user_101,10,3 Idiots,"Comedy|Drama",5
+111,user_111,10,3 Idiots,"Comedy|Drama",5
+112,user_112,11,Lagaan: Once Upon a Time in India,"Drama|Musical|Sport",5
+113,user_113,12,Dangal,"Action|Biography|Drama",5
+105,user_105,12,Dangal,"Action|Biography|Drama",4
+114,user_114,13,Sholay,"Action|Adventure|Comedy",5
+115,user_115,14,Avatar,"Action|Adventure|Fantasy",4
+103,user_103,14,Avatar,"Action|Adventure|Fantasy",3
+116,user_116,15,Titanic,"Drama|Romance",4
+106,user_106,15,Titanic,"Drama|Romance",5
+117,user_117,16,Jurassic Park,"Action|Adventure|Sci-Fi",4
+118,user_118,17,Avengers: Endgame,"Action|Adventure|Drama",5
+104,user_104,17,Avengers: Endgame,"Action|Adventure|Drama",5
+119,user_119,18,Joker,"Crime|Drama|Thriller",4
+120,user_120,19,Toy Story,"Animation|Adventure|Comedy",4
+121,user_121,20,Coco,"Animation|Adventure|Family",5
+122,user_122,21,K.G.F: Chapter 2,"Action|Crime|Drama",4
+123,user_123,22,RRR,"Action|Drama",5
+113,user_113,22,RRR,"Action|Drama",5
+124,user_124,23,Baahubali: The Beginning,"Action|Drama",4
+125,user_125,24,Zindagi Na Milegi Dobara,"Comedy|Drama|Music",5
+101,user_101,24,Zindagi Na Milegi Dobara,"Comedy|Drama|Music",4
+126,user_126,25,Andhadhun,"Comedy|Crime|Thriller",5
+127,user_127,26,Gangs of Wasseypur,"Action|Comedy|Crime",5
+128,user_128,27,Swades,"Drama",5
+129,user_129,28,Barfi!,"Comedy|Drama|Romance",4
+106,user_106,28,Barfi!,"Comedy|Drama|Romance",5
+130,user_130,29,The Lion King,"Animation|Adventure|Drama",4
+131,user_131,30,Gladiator,"Action|Adventure|Drama",5
+104,user_104,30,Gladiator,"Action|Adventure|Drama",4
+132,user_132,31,Finding Nemo,"Animation|Adventure|Comedy",4
+120,user_120,31,Finding Nemo,"Animation|Adventure|Comedy",5
+133,user_133,32,Spirited Away,"Animation|Adventure|Family",5
+134,user_134,33,Back to the Future,"Adventure|Comedy|Sci-Fi",4
+135,user_135,34,The Prestige,"Drama|Mystery|Sci-Fi",5
+109,user_109,34,The Prestige,"Drama|Mystery|Sci-Fi",5
+136,user_136,35,Whiplash,"Drama|Music",5
+137,user_137,36,The Departed,"Crime|Drama|Thriller",5
+103,user_103,36,The Departed,"Crime|Drama|Thriller",5
+138,user_138,37,No Country for Old Men,"Crime|Drama|Thriller",4
+139,user_139,38,Mad Max: Fury Road,"Action|Adventure|Sci-Fi",5
+117,user_117,38,Mad Max: Fury Road,"Action|Adventure|Sci-Fi",4
+140,user_140,39,Blade Runner 2049,"Action|Drama|Mystery",4
+141,user_141,40,Dune,"Action|Adventure|Drama",4
+108,user_108,40,Dune,"Action|Adventure|Drama",5
+142,user_142,41,Spider-Man: Into the Spider-Verse,"Animation|Action|Adventure",5
+143,user_143,42,The Grand Budapest Hotel,"Adventure|Comedy|Drama",4
+144,user_144,43,Her,"Drama|Romance|Sci-Fi",4
+106,user_106,43,Her,"Drama|Romance|Sci-Fi",4
+145,user_145,44,La La Land,"Comedy|Drama|Music",5
+146,user_146,45,A Wednesday,"Crime|Drama|Mystery",5
+126,user_126,45,A Wednesday,"Crime|Drama|Mystery",4
+147,user_147,46,Drishyam,"Crime|Drama|Mystery",5
+148,user_148,47,Tumbbad,"Drama|Fantasy|Horror",4
+149,user_149,48,Stree,"Comedy|Horror",4
+150,user_150,49,Queen,"Adventure|Comedy|Drama",5
+101,user_101,50,Dilwale Dulhania Le Jayenge,"Drama|Romance",3
+102,user_102,6,Inception,"Action|Adventure|Sci-Fi",5
+103,user_103,17,Avengers: Endgame,"Action|Adventure|Drama",5
+104,user_104,1,The Shawshank Redemption,"Drama|Crime",5
+105,user_105,10,3 Idiots,"Comedy|Drama",5
+106,user_106,24,Zindagi Na Milegi Dobara,"Comedy|Drama|Music",5
+107,user_107,3,The Dark Knight,"Action|Crime|Drama",5
+108,user_108,8,Interstellar,"Adventure|Drama|Sci-Fi",5
+109,user_109,7,The Matrix,"Action|Sci-Fi",4
+110,user_110,14,Avatar,"Action|Adventure|Fantasy",3
+111,user_111,15,Titanic,"Drama|Romance",4
+112,user_112,22,RRR,"Action|Drama",5
+113,user_113,1,The Shawshank Redemption,"Drama|Crime",4
+114,user_114,25,Andhadhun,"Comedy|Crime|Thriller",5
+115,user_115,30,Gladiator,"Action|Adventure|Drama",5
+116,user_116,34,The Prestige,"Drama|Mystery|Sci-Fi",5
+117,user_117,6,Inception,"Action|Adventure|Sci-Fi",5
+118,user_118,3,The Dark Knight,"Action|Crime|Drama",4
+119,user_119,36,The Departed,"Crime|Drama|Thriller",5
+120,user_120,1,The Shawshank Redemption,"Drama|Crime",5
+121,user_121,41,Spider-Man: Into the Spider-Verse,"Animation|Action|Adventure",5
+122,user_122,12,Dangal,"Action|Biography|Drama",5
+123,user_123,10,3 Idiots,"Comedy|Drama",5
+124,user_124,23,Baahubali: The Beginning,"Action|Drama",3
+125,user_125,28,Barfi!,"Comedy|Drama|Romance",4
+126,user_126,2,The Godfather,"Crime|Drama",5
+127,user_127,13,Sholay,"Action|Adventure|Comedy",4
+128,user_128,45,A Wednesday,"Crime|Drama|Mystery",5
+129,user_129,15,Titanic,"Drama|Romance",2
+130,user_130,19,Toy Story,"Animation|Adventure|Comedy",4
+131,user_131,38,Mad Max: Fury Road,"Action|Adventure|Sci-Fi",5
+132,user_132,20,Coco,"Animation|Adventure|Family",5
+133,user_133,9,Parasite,"Comedy|Drama|Thriller",5
+134,user_134,16,Jurassic Park,"Action|Adventure|Sci-Fi",3
+135,user_135,8,Interstellar,"Adventure|Drama|Sci-Fi",5
+136,user_136,44,La La Land,"Comedy|Drama|Music",5
+137,user_137,2,The Godfather,"Crime|Drama",5
+138,user_138,18,Joker,"Crime|Drama|Thriller",4
+139,user_139,3,The Dark Knight,"Action|Crime|Drama",5
+140,user_140,40,Dune,"Action|Adventure|Drama",4
+141,user_141,7,The Matrix,"Action|Sci-Fi",5
+142,user_142,42,The Grand Budapest Hotel,"Adventure|Comedy|Drama",3
+143,user_143,49,Queen,"Adventure|Comedy|Drama",5
+144,user_144,5,Forrest Gump,"Drama|Romance",5
+145,user_145,35,Whiplash,"Drama|Music",4
+146,user_146,26,Gangs of Wasseypur,"Action|Comedy|Crime",5
+147,user_147,11,Lagaan: Once Upon a Time in India,"Drama|Musical|Sport",5
+148,user_148,47,Tumbbad,"Drama|Fantasy|Horror",3
+149,user_149,21,K.G.F: Chapter 2,"Action|Crime|Drama",4
+150,user_150,24,Zindagi Na Milegi Dobara,"Comedy|Drama|Music",5
+101,user_101,17,Avengers: Endgame,"Action|Adventure|Drama",5
+102,user_102,8,Interstellar,"Adventure|Drama|Sci-Fi",4
+103,user_103,1,The Shawshank Redemption,"Drama|Crime",5
+104,user_104,10,3 Idiots,"Comedy|Drama",5
+105,user_105,3,The Dark Knight,"Action|Crime|Drama",4
+106,user_106,5,Forrest Gump,"Drama|Romance",5
+107,user_107,30,Gladiator,"Action|Adventure|Drama",5
+108,user_108,7,The Matrix,"Action|Sci-Fi",5
+109,user_109,38,Mad Max: Fury Road,"Action|Adventure|Sci-Fi",3
+110,user_110,9,Parasite,"Comedy|Drama|Thriller",5
+111,user_111,28,Barfi!,"Comedy|Drama|Romance",4
+112,user_112,12,Dangal,"Action|Biography|Drama",5
+113,user_113,25,Andhadhun,"Comedy|Crime|Thriller",5
+114,user_114,13,Sholay,"Action|Adventure|Comedy",4
+115,user_115,14,Avatar,"Action|Adventure|Fantasy",2
+116,user_116,1,The Shawshank Redemption,"Drama|Crime",5
+117,user_117,17,Avengers: Endgame,"Action|Adventure|Drama",5
+118,user_118,22,RRR,"Action|Drama",5
+119,user_119,2,The Godfather,"Crime|Drama",5
+120,user_120,31,Finding Nemo,"Animation|Adventure|Comedy",3
+121,user_121,6,Inception,"Action|Adventure|Sci-Fi",5
+122,user_122,3,The Dark Knight,"Action|Crime|Drama",4
+123,user_123,45,A Wednesday,"Crime|Drama|Mystery",5
+124,user_124,16,Jurassic Park,"Action|Adventure|Sci-Fi",3
+125,user_125,10,3 Idiots,"Comedy|Drama",5
+126,user_126,34,The Prestige,"Drama|Mystery|Sci-Fi",5
+127,user_127,1,The Shawshank Redemption,"Drama|Crime",4
+128,user_128,27,Swades,"Drama",5
+129,user_129,24,Zindagi Na Milegi Dobara,"Comedy|Drama|Music",5
+130,user_130,29,The Lion King,"Animation|Adventure|Drama",4
+131,user_131,17,Avengers: Endgame,"Action|Adventure|Drama",5
+132,user_132,19,Toy Story,"Animation|Adventure|Comedy",4
+133,user_133,32,Spirited Away,"Animation|Adventure|Family",5
+134,user_134,33,Back to the Future,"Adventure|Comedy|Sci-Fi",5
+135,user_135,35,Whiplash,"Drama|Music",5
+136,user_136,43,Her,"Drama|Romance|Sci-Fi",3
+137,user_137,36,The Departed,"Crime|Drama|Thriller",5
+138,user_138,37,No Country for Old Men,"Crime|Drama|Thriller",4
+139,user_139,40,Dune,"Action|Adventure|Drama",5
+140,user_140,39,Blade Runner 2049,"Action|Drama|Mystery",4
+141,user_141,41,Spider-Man: Into the Spider-Verse,"Animation|Action|Adventure",5
+142,user_142,44,La La Land,"Comedy|Drama|Music",4
+143,user_143,5,Forrest Gump,"Drama|Romance",5
+144,user_144,42,The Grand Budapest Hotel,"Adventure|Comedy|Drama",4
+145,user_145,46,Drishyam,"Crime|Drama|Mystery",5
+146,user_146,1,The Shawshank Redemption,"Drama|Crime",5
+147,user_147,26,Gangs of Wasseypur,"Action|Comedy|Crime",4
+148,user_148,48,Stree,"Comedy|Horror",2
+149,user_149,47,Tumbbad,"Drama|Fantasy|Horror",4
+150,user_150,49,Queen,"Adventure|Comedy|Drama",5
+151,user_151,51,Inglourious Basterds,"Adventure|Drama|War",5
+152,user_152,52,Django Unchained,"Drama|Western",5
+153,user_153,53,The Wolf of Wall Street,"Biography|Comedy|Crime",5
+154,user_154,54,Shutter Island,"Mystery|Thriller",4
+155,user_155,55,Goodfellas,"Biography|Crime|Drama",5
+156,user_156,56,Se7en,"Crime|Drama|Mystery",5
+157,user_157,57,The Silence of the Lambs,"Crime|Drama|Thriller",5
+158,user_158,58,Saving Private Ryan,"Drama|War",5
+159,user_159,59,Green Book,"Biography|Comedy|Drama",4
+160,user_160,60,The Intouchables,"Biography|Comedy|Drama",5
+101,user_101,60,The Intouchables,"Biography|Comedy|Drama",4
+161,user_161,61,Mughal-E-Azam,"Drama|Romance|War",5
+162,user_162,62,Anand,"Drama|Musical",5
+163,user_163,63,Guide,"Drama|Musical|Romance",4
+106,user_106,63,Guide,"Drama|Musical|Romance",5
+164,user_164,64,Pyaasa,"Drama|Musical|Romance",5
+165,user_165,65,Mother India,"Drama|Musical",5
+166,user_166,66,Taare Zameen Par,"Drama|Family",5
+111,user_111,66,Taare Zameen Par,"Drama|Family",5
+167,user_167,67,Rang De Basanti,"Comedy|Drama",5
+168,user_168,68,Munna Bhai M.B.B.S.,"Comedy|Drama",5
+101,user_101,68,Munna Bhai M.B.B.S.,"Comedy|Drama",4
+169,user_169,69,Lage Raho Munna Bhai,"Comedy|Drama|Romance",5
+170,user_170,70,Jab We Met,"Comedy|Romance",4
+106,user_106,70,Jab We Met,"Comedy|Romance",5
+171,user_171,71,My Name Is Khan,"Drama|Romance",4
+172,user_172,72,Bajrangi Bhaijaan,"Action|Comedy|Drama",5
+113,user_113,72,Bajrangi Bhaijaan,"Action|Comedy|Drama",5
+173,user_173,73,PK,"Comedy|Drama|Sci-Fi",4
+174,user_174,74,OMG: Oh My God!,"Comedy|Drama|Fantasy",4
+175,user_175,75,Vicky Donor,"Comedy|Romance",4
+150,user_150,75,Vicky Donor,"Comedy|Romance",5
+176,user_176,76,Kahaani,"Mystery|Thriller",5
+177,user_177,77,Udaan,"Drama",5
+178,user_178,78,Black,"Drama",5
+179,user_179,79,Airlift,"Action|Drama|History",4
+180,user_180,80,Padmaavat,"Drama|History|Romance",3
+181,user_181,81,Uri: The Surgical Strike,"Action|Drama|War",5
+113,user_113,81,Uri: The Surgical Strike,"Action|Drama|War",5
+182,user_182,82,Gully Boy,"Drama|Music",4
+183,user_183,83,Article 15,"Crime|Drama|Mystery",5
+184,user_184,84,Masaan,"Drama",5
+185,user_185,85,The Lunchbox,"Drama|Romance",4
+106,user_106,85,The Lunchbox,"Drama|Romance",4
+186,user_186,86,Paan Singh Tomar,"Action|Biography|Crime",5
+187,user_187,87,Haider,"Action|Crime|Drama",4
+188,user_188,88,Talvar,"Crime|Drama|Mystery",5
+126,user_126,88,Talvar,"Crime|Drama|Mystery",5
+189,user_189,89,Newton,"Comedy|Drama",4
+190,user_190,90,Kapoor & Sons,"Comedy|Drama|Romance",4
+101,user_101,51,Inglourious Basterds,"Adventure|Drama|War",5
+102,user_102,52,Django Unchained,"Drama|Western",4
+103,user_103,55,Goodfellas,"Biography|Crime|Drama",5
+104,user_104,58,Saving Private Ryan,"Drama|War",5
+105,user_105,53,The Wolf of Wall Street,"Biography|Comedy|Crime",4
+106,user_106,59,Green Book,"Biography|Comedy|Drama",5
+107,user_107,51,Inglourious Basterds,"Adventure|Drama|War",4
+108,user_108,54,Shutter Island,"Mystery|Thriller",3
+109,user_109,56,Se7en,"Crime|Drama|Mystery",5
+110,user_110,60,The Intouchables,"Biography|Comedy|Drama",5
+111,user_111,68,Munna Bhai M.B.B.S.,"Comedy|Drama",5
+112,user_112,61,Mughal-E-Azam,"Drama|Romance|War",4
+113,user_113,67,Rang De Basanti,"Comedy|Drama",5
+114,user_114,62,Anand,"Drama|Musical",5
+115,user_115,80,Padmaavat,"Drama|History|Romance",2
+116,user_116,65,Mother India,"Drama|Musical",4
+117,user_117,81,Uri: The Surgical Strike,"Action|Drama|War",5
+118,user_118,72,Bajrangi Bhaijaan,"Action|Comedy|Drama",5
+119,user_119,57,The Silence of the Lambs,"Crime|Drama|Thriller",4
+120,user_120,66,Taare Zameen Par,"Drama|Family",5
+121,user_121,70,Jab We Met,"Comedy|Romance",3
+122,user_122,82,Gully Boy,"Drama|Music",4
+123,user_123,83,Article 15,"Crime|Drama|Mystery",5
+124,user_124,64,Pyaasa,"Drama|Musical|Romance",4
+125,user_125,90,Kapoor & Sons,"Comedy|Drama|Romance",4
+126,user_126,87,Haider,"Action|Crime|Drama",4
+127,user_127,86,Paan Singh Tomar,"Action|Biography|Crime",5
+128,user_128,69,Lage Raho Munna Bhai,"Comedy|Drama|Romance",5
+129,user_129,71,My Name Is Khan,"Drama|Romance",3
+130,user_130,73,PK,"Comedy|Drama|Sci-Fi",4
+131,user_131,58,Saving Private Ryan,"Drama|War",5
+132,user_132,75,Vicky Donor,"Comedy|Romance",4
+133,user_133,76,Kahaani,"Mystery|Thriller",5
+134,user_134,78,Black,"Drama",4
+135,user_135,77,Udaan,"Drama",5
+136,user_136,85,The Lunchbox,"Drama|Romance",5
+137,user_137,55,Goodfellas,"Biography|Crime|Drama",5
+138,user_138,88,Talvar,"Crime|Drama|Mystery",4
+139,user_139,79,Airlift,"Action|Drama|History",4
+140,user_140,84,Masaan,"Drama",5
+141,user_141,89,Newton,"Comedy|Drama",3
+142,user_142,53,The Wolf of Wall Street,"Biography|Comedy|Crime",5
+143,user_143,63,Guide,"Drama|Musical|Romance",4
+144,user_144,74,OMG: Oh My God!,"Comedy|Drama|Fantasy",4
+145,user_145,52,Django Unchained,"Drama|Western",5
+146,user_146,68,Munna Bhai M.B.B.S.,"Comedy|Drama",5
+147,user_147,81,Uri: The Surgical Strike,"Action|Drama|War",5
+148,user_148,56,Se7en,"Crime|Drama|Mystery",5
+149,user_149,72,Bajrangi Bhaijaan,"Action|Comedy|Drama",4
+150,user_150,67,Rang De Basanti,"Comedy|Drama",5
+151,user_151,10,3 Idiots,"Comedy|Drama",5
+152,user_152,12,Dangal,"Action|Biography|Drama",4
+153,user_153,17,Avengers: Endgame,"Action|Adventure|Drama",5
+154,user_154,22,RRR,"Action|Drama",5
+155,user_155,25,Andhadhun,"Comedy|Crime|Thriller",5
+156,user_156,26,Gangs of Wasseypur,"Action|Comedy|Crime",4
+157,user_157,30,Gladiator,"Action|Adventure|Drama",5
+158,user_158,3,The Dark Knight,"Action|Crime|Drama",5
+159,user_159,34,The Prestige,"Drama|Mystery|Sci-Fi",4
+160,user_160,38,Mad Max: Fury Road,"Action|Adventure|Sci-Fi",5
+161,user_161,41,Spider-Man: Into the Spider-Verse,"Animation|Action|Adventure",5
+162,user_162,45,A Wednesday,"Crime|Drama|Mystery",4
+163,user_163,6,Inception,"Action|Adventure|Sci-Fi",5
+164,user_164,8,Interstellar,"Adventure|Drama|Sci-Fi",5
+165,user_165,1,The Shawshank Redemption,"Drama|Crime",5
+166,user_166,5,Forrest Gump,"Drama|Romance",4
+167,user_167,7,The Matrix,"Action|Sci-Fi",5
+168,user_168,2,The Godfather,"Crime|Drama",5
+169,user_169,36,The Departed,"Crime|Drama|Thriller",4
+170,user_170,44,La La Land,"Comedy|Drama|Music",5
+171,user_171,55,Goodfellas,"Biography|Crime|Drama",5
+172,user_172,81,Uri: The Surgical Strike,"Action|Drama|War",4
+173,user_173,72,Bajrangi Bhaijaan,"Action|Comedy|Drama",5
+174,user_174,66,Taare Zameen Par,"Drama|Family",5
+175,user_175,88,Talvar,"Crime|Drama|Mystery",5
+176,user_176,9,Parasite,"Comedy|Drama|Thriller",4
+177,user_177,14,Avatar,"Action|Adventure|Fantasy",3
+178,user_178,16,Jurassic Park,"Action|Adventure|Sci-Fi",3
+179,user_179,18,Joker,"Crime|Drama|Thriller",4
+180,user_180,20,Coco,"Animation|Adventure|Family",5
+181,user_181,24,Zindagi Na Milegi Dobara,"Comedy|Drama|Music",5
+182,user_182,28,Barfi!,"Comedy|Drama|Romance",4
+183,user_183,33,Back to the Future,"Adventure|Comedy|Sci-Fi",5
+184,user_184,40,Dune,"Action|Adventure|Drama",4
+185,user_185,49,Queen,"Adventure|Comedy|Drama",5
+186,user_186,52,Django Unchained,"Drama|Western",5
+187,user_187,60,The Intouchables,"Biography|Comedy|Drama",4
+188,user_188,68,Munna Bhai M.B.B.S.,"Comedy|Drama",5
+189,user_189,75,Vicky Donor,"Comedy|Romance",4
+190,user_190,85,The Lunchbox,"Drama|Romance",5
+191,user_191,91,Eternal Sunshine of the Spotless Mind,"Drama|Romance|Sci-Fi",5
+192,user_192,92,Amélie,"Comedy|Romance",4
+193,user_193,93,Cinema Paradiso,"Drama|Romance",5
+194,user_194,94,City of God,"Crime|Drama",5
+195,user_195,95,Once Upon a Time in America,"Crime|Drama",4
+196,user_196,96,2001: A Space Odyssey,"Adventure|Sci-Fi",3
+197,user_197,97,A Clockwork Orange,"Crime|Drama|Sci-Fi",3
+198,user_198,98,Reservoir Dogs,"Crime|Drama|Thriller",5
+199,user_199,99,Fargo,"Crime|Drama|Thriller",4
+200,user_200,100,The Big Lebowski,"Comedy|Crime",4
+101,user_101,91,Eternal Sunshine of the Spotless Mind,"Drama|Romance|Sci-Fi",5
+106,user_106,92,Amélie,"Comedy|Romance",4
+103,user_103,94,City of God,"Crime|Drama",5
+105,user_105,98,Reservoir Dogs,"Crime|Drama|Thriller",4
+110,user_110,100,The Big Lebowski,"Comedy|Crime",3
+111,user_111,93,Cinema Paradiso,"Drama|Romance",5
+117,user_117,96,2001: A Space Odyssey,"Adventure|Sci-Fi",2
+119,user_119,99,Fargo,"Crime|Drama|Thriller",5
+125,user_125,92,Amélie,"Comedy|Romance",5
+126,user_126,94,City of God,"Crime|Drama",5
+131,user_131,95,Once Upon a Time in America,"Crime|Drama",4
+135,user_135,91,Eternal Sunshine of the Spotless Mind,"Drama|Romance|Sci-Fi",5
+137,user_137,98,Reservoir Dogs,"Crime|Drama|Thriller",5
+140,user_140,97,A Clockwork Orange,"Crime|Drama|Sci-Fi",3
+144,user_144,91,Eternal Sunshine of the Spotless Mind,"Drama|Romance|Sci-Fi",4
+148,user_148,100,The Big Lebowski,"Comedy|Crime",4
+152,user_152,95,Once Upon a Time in America,"Crime|Drama",5
+155,user_155,94,City of God,"Crime|Drama",5
+158,user_158,96,2001: A Space Odyssey,"Adventure|Sci-Fi",4
+163,user_163,93,Cinema Paradiso,"Drama|Romance",5
+168,user_168,100,The Big Lebowski,"Comedy|Crime",4
+170,user_170,92,Amélie,"Comedy|Romance",5
+176,user_176,99,Fargo,"Crime|Drama|Thriller",4
+182,user_182,91,Eternal Sunshine of the Spotless Mind,"Drama|Romance|Sci-Fi",5
+188,user_188,98,Reservoir Dogs,"Crime|Drama|Thriller",5
+191,user_191,1,The Shawshank Redemption,"Drama|Crime",5
+192,user_192,10,3 Idiots,"Comedy|Drama",5
+193,user_193,17,Avengers: Endgame,"Action|Adventure|Drama",4
+194,user_194,3,The Dark Knight,"Action|Crime|Drama",5
+195,user_195,6,Inception,"Action|Adventure|Sci-Fi",5
+196,user_196,8,Interstellar,"Adventure|Drama|Sci-Fi",4
+197,user_197,9,Parasite,"Comedy|Drama|Thriller",5
+198,user_198,22,RRR,"Action|Drama",4
+199,user_199,25,Andhadhun,"Comedy|Crime|Thriller",5
+200,user_200,2,The Godfather,"Crime|Drama",5
+101,user_101,101,Fight Club,"Drama",5
+102,user_102,102,Forrest Gump,"Comedy|Drama",5
+103,user_103,103,Pulp Fiction,"Crime|Drama",4
+104,user_104,104,The Matrix,"Action|Sci-Fi",5
+105,user_105,105,The Lord of the Rings: The Fellowship of the Ring,"Action|Adventure|Drama",5
+106,user_106,106,The Lord of the Rings: The Return of the King,"Action|Adventure|Drama",5
+107,user_107,107,Star Wars: Episode V - The Empire Strikes Back,"Action|Adventure|Fantasy",4
+108,user_108,108,Schindler's List,"Biography|Drama|History",5
+109,user_109,109,Good Will Hunting,"Drama|Romance",4
+110,user_110,110,The Green Mile,"Crime|Drama|Fantasy",5
+111,user_111,111,Terminator 2: Judgment Day,"Action|Sci-Fi",5
+112,user_112,112,Alien,"Horror|Sci-Fi",4
+113,user_113,113,Aliens,"Action|Adventure|Sci-Fi",5
+114,user_114,114,The Shining,"Drama|Horror",4
+115,user_115,115,Psycho,"Horror|Mystery|Thriller",5
+116,user_116,116,The Usual Suspects,"Crime|Drama|Mystery",5
+117,user_117,117,L.A. Confidential,"Crime|Drama|Mystery",4
+118,user_118,118,Memento,"Mystery|Thriller",5
+119,user_119,119,American History X,"Crime|Drama",5
+120,user_120,120,Braveheart,"Biography|Drama|History",5
+121,user_121,121,Das Boot,"Drama|War",4
+122,user_122,122,Apocalypse Now,"Drama|War",5
+123,user_123,123,Full Metal Jacket,"Drama|War",4
+124,user_124,124,Platoon,"Drama|War",4
+125,user_125,125,Heat,"Action|Crime|Drama",5
+126,user_126,126,Casino,"Crime|Drama",4
+127,user_127,127,Taxi Driver,"Crime|Drama",5
+128,user_128,128,Raging Bull,"Biography|Drama|Sport",4
+129,user_129,129,Good Bye Lenin!,"Comedy|Drama|Romance",4
+130,user_130,130,Downfall,"Biography|Drama|History",5
+131,user_131,131,The Lives of Others,"Drama|Mystery|Thriller",5
+132,user_132,132,Pan's Labyrinth,"Drama|Fantasy|War",4
+133,user_133,133,Oldboy,"Action|Drama|Mystery",5
+134,user_134,134,I Saw the Devil,"Action|Crime|Horror",4
+135,user_135,135,The Chaser,"Action|Crime|Thriller",5
+136,user_136,136,Memories of Murder,"Crime|Drama|Mystery",5
+137,user_137,137,A Separation,"Drama",4
+138,user_138,138,Children of Heaven,"Drama|Family|Sport",5
+139,user_139,139,The Salesman,"Drama|Thriller",4
+140,user_140,140,Incendies,"Drama|Mystery|War",5
+141,user_141,141,Prisoners,"Crime|Drama|Mystery",4
+142,user_142,142,Arrival,"Drama|Sci-Fi",5
+143,user_143,143,Sicario,"Action|Crime|Drama",4
+144,user_144,144,Hell or High Water,"Action|Crime|Drama",4
+145,user_145,145,Wind River,"Crime|Drama|Mystery",5
+146,user_146,146,Logan,"Action|Drama|Sci-Fi",4
+147,user_147,147,Baby Driver,"Action|Crime|Music",4
+148,user_148,148,Drive,"Crime|Drama",3
+149,user_149,149,Nightcrawler,"Crime|Drama|Thriller",5
+150,user_150,150,Zodiac,"Crime|Drama|Mystery",4
+101,user_101,118,Memento,"Mystery|Thriller",5
+102,user_102,101,Fight Club,"Drama",5
+103,user_103,127,Taxi Driver,"Crime|Drama",5
+104,user_104,111,Terminator 2: Judgment Day,"Action|Sci-Fi",5
+105,user_105,105,The Lord of the Rings: The Fellowship of the Ring,"Action|Adventure|Drama",5
+106,user_106,106,The Lord of the Rings: The Return of the King,"Action|Adventure|Drama",5
+107,user_107,113,Aliens,"Action|Adventure|Sci-Fi",4
+108,user_108,108,Schindler's List,"Biography|Drama|History",5
+109,user_109,109,Good Will Hunting,"Drama|Romance",5
+110,user_110,110,The Green Mile,"Crime|Drama|Fantasy",5
+111,user_111,104,The Matrix,"Action|Sci-Fi",5
+112,user_112,114,The Shining,"Drama|Horror",3
+113,user_113,146,Logan,"Action|Drama|Sci-Fi",4
+114,user_114,112,Alien,"Horror|Sci-Fi",4
+115,user_115,115,Psycho,"Horror|Mystery|Thriller",5
+116,user_116,116,The Usual Suspects,"Crime|Drama|Mystery",5
+117,user_117,143,Sicario,"Action|Crime|Drama",5
+118,user_118,141,Prisoners,"Crime|Drama|Mystery",4
+119,user_119,119,American History X,"Crime|Drama",5
+120,user_120,120,Braveheart,"Biography|Drama|History",5
+121,user_121,122,Apocalypse Now,"Drama|War",5
+122,user_122,121,Das Boot,"Drama|War",4
+123,user_123,123,Full Metal Jacket,"Drama|War",3
+124,user_124,130,Downfall,"Biography|Drama|History",5
+125,user_125,125,Heat,"Action|Crime|Drama",5
+126,user_126,126,Casino,"Crime|Drama",5
+127,user_127,103,Pulp Fiction,"Crime|Drama",4
+128,user_128,128,Raging Bull,"Biography|Drama|Sport",5
+129,user_129,129,Good Bye Lenin!,"Comedy|Drama|Romance",4
+130,user_130,124,Platoon,"Drama|War",4
+131,user_131,131,The Lives of Others,"Drama|Mystery|Thriller",5
+132,user_132,132,Pan's Labyrinth,"Drama|Fantasy|War",5
+133,user_133,133,Oldboy,"Action|Drama|Mystery",5
+134,user_134,134,I Saw the Devil,"Action|Crime|Horror",3
+135,user_135,135,The Chaser,"Action|Crime|Thriller",5
+136,user_136,136,Memories of Murder,"Crime|Drama|Mystery",5
+137,user_137,137,A Separation,"Drama",5
+138,user_138,138,Children of Heaven,"Drama|Family|Sport",5
+139,user_139,139,The Salesman,"Drama|Thriller",3
+140,user_140,140,Incendies,"Drama|Mystery|War",5
+141,user_141,149,Nightcrawler,"Crime|Drama|Thriller",5
+142,user_142,142,Arrival,"Drama|Sci-Fi",5
+143,user_143,144,Hell or High Water,"Action|Crime|Drama",4
+144,user_144,117,L.A. Confidential,"Crime|Drama|Mystery",4
+145,user_145,145,Wind River,"Crime|Drama|Mystery",5
+146,user_146,102,Forrest Gump,"Comedy|Drama",5
+147,user_147,147,Baby Driver,"Action|Crime|Music",4
+148,user_148,148,Drive,"Crime|Drama",4
+149,user_149,101,Fight Club,"Drama",5
+150,user_150,150,Zodiac,"Crime|Drama|Mystery",5
+151,user_151,101,Fight Club,"Drama",4
+152,user_152,102,Forrest Gump,"Comedy|Drama",5
+153,user_153,103,Pulp Fiction,"Crime|Drama",5
+154,user_154,104,The Matrix,"Action|Sci-Fi",4
+155,user_155,105,The Lord of the Rings: The Fellowship of the Ring,"Action|Adventure|Drama",5
+156,user_156,106,The Lord of the Rings: The Return of the King,"Action|Adventure|Drama",5
+157,user_157,107,Star Wars: Episode V - The Empire Strikes Back,"Action|Adventure|Fantasy",5
+158,user_158,108,Schindler's List,"Biography|Drama|History",5
+159,user_159,109,Good Will Hunting,"Drama|Romance",4
+160,user_160,110,The Green Mile,"Crime|Drama|Fantasy",5
+161,user_161,111,Terminator 2: Judgment Day,"Action|Sci-Fi",5
+162,user_162,112,Alien,"Horror|Sci-Fi",5
+163,user_163,113,Aliens,"Action|Adventure|Sci-Fi",4
+164,user_164,114,The Shining,"Drama|Horror",4
+165,user_165,115,Psycho,"Horror|Mystery|Thriller",5
+166,user_166,116,The Usual Suspects,"Crime|Drama|Mystery",5
+167,user_167,117,L.A. Confidential,"Crime|Drama|Mystery",4
+168,user_168,118,Memento,"Mystery|Thriller",5
+169,user_169,119,American History X,"Crime|Drama",5
+170,user_170,120,Braveheart,"Biography|Drama|History",5
+171,user_171,121,Das Boot,"Drama|War",5
+172,user_172,122,Apocalypse Now,"Drama|War",5
+173,user_173,123,Full Metal Jacket,"Drama|War",4
+174,user_174,124,Platoon,"Drama|War",4
+175,user_175,125,Heat,"Action|Crime|Drama",5
+176,user_176,126,Casino,"Crime|Drama",5
+177,user_177,127,Taxi Driver,"Crime|Drama",5
+178,user_178,128,Raging Bull,"Biography|Drama|Sport",5
+179,user_179,129,Good Bye Lenin!,"Comedy|Drama|Romance",4
+180,user_180,130,Downfall,"Biography|Drama|History",5
+181,user_181,131,The Lives of Others,"Drama|Mystery|Thriller",5
+182,user_182,132,Pan's Labyrinth,"Drama|Fantasy|War",5
+183,user_183,133,Oldboy,"Action|Drama|Mystery",5
+184,user_184,134,I Saw the Devil,"Action|Crime|Horror",4
+185,user_185,135,The Chaser,"Action|Crime|Thriller",5
+186,user_186,136,Memories of Murder,"Crime|Drama|Mystery",5
+187,user_187,137,A Separation,"Drama",4
+188,user_188,138,Children of Heaven,"Drama|Family|Sport",5
+189,user_189,139,The Salesman,"Drama|Thriller",4
+190,user_190,140,Incendies,"Drama|Mystery|War",5
+191,user_191,141,Prisoners,"Crime|Drama|Mystery",5
+192,user_192,142,Arrival,"Drama|Sci-Fi",5
+193,user_193,143,Sicario,"Action|Crime|Drama",4
+194,user_194,144,Hell or High Water,"Action|Crime|Drama",4
+195,user_195,145,Wind River,"Crime|Drama|Mystery",5
+196,user_196,146,Logan,"Action|Drama|Sci-Fi",5
+197,user_197,147,Baby Driver,"Action|Crime|Music",4
+198,user_198,148,Drive,"Crime|Drama",3
+199,user_199,149,Nightcrawler,"Crime|Drama|Thriller",5
+200,user_200,150,Zodiac,"Crime|Drama|Mystery",5
+101,user_101,1,The Shawshank Redemption,"Drama|Crime",4
+102,user_102,3,The Dark Knight,"Action|Crime|Drama",5
+103,user_103,6,Inception,"Action|Adventure|Sci-Fi",5
+104,user_104,10,3 Idiots,"Comedy|Drama",5
+105,user_105,12,Dangal,"Action|Biography|Drama",5
+106,user_106,15,Titanic,"Drama|Romance",5
+107,user_107,17,Avengers: Endgame,"Action|Adventure|Drama",4
+108,user_108,22,RRR,"Action|Drama",5
+109,user_109,24,Zindagi Na Milegi Dobara,"Comedy|Drama|Music",5
+110,user_110,25,Andhadhun,"Comedy|Crime|Thriller",4
+111,user_111,28,Barfi!,"Comedy|Drama|Romance",5
+112,user_112,30,Gladiator,"Action|Adventure|Drama",5
+113,user_113,34,The Prestige,"Drama|Mystery|Sci-Fi",5
+114,user_114,36,The Departed,"Crime|Drama|Thriller",4
+115,user_115,38,Mad Max: Fury Road,"Action|Adventure|Sci-Fi",5
+116,user_116,41,Spider-Man: Into the Spider-Verse,"Animation|Action|Adventure",5
+117,user_117,44,La La Land,"Comedy|Drama|Music",4
+118,user_118,45,A Wednesday,"Crime|Drama|Mystery",5
+119,user_119,49,Queen,"Adventure|Comedy|Drama",5
+120,user_120,52,Django Unchained,"Drama|Western",4
+121,user_121,55,Goodfellas,"Biography|Crime|Drama",5
+122,user_122,58,Saving Private Ryan,"Drama|War",5
+123,user_123,60,The Intouchables,"Biography|Comedy|Drama",4
+124,user_124,66,Taare Zameen Par,"Drama|Family",5
+125,user_125,68,Munna Bhai M.B.B.S.,"Comedy|Drama",5
+126,user_126,70,Jab We Met,"Comedy|Romance",4
+127,user_127,72,Bajrangi Bhaijaan,"Action|Comedy|Drama",5
+128,user_128,75,Vicky Donor,"Comedy|Romance",5
+129,user_129,81,Uri: The Surgical Strike,"Action|Drama|War",4
+130,user_130,85,The Lunchbox,"Drama|Romance",5
+131,user_131,88,Talvar,"Crime|Drama|Mystery",5
+132,user_132,91,Eternal Sunshine of the Spotless Mind,"Drama|Romance|Sci-Fi",4
+133,user_133,94,City of God,"Crime|Drama",5
+134,user_134,98,Reservoir Dogs,"Crime|Drama|Thriller",5
+135,user_135,101,Fight Club,"Drama",4
+136,user_136,105,The Lord of the Rings: The Fellowship of the Ring,"Action|Adventure|Drama",5
+137,user_137,110,The Green Mile,"Crime|Drama|Fantasy",5
+138,user_138,115,Psycho,"Horror|Mystery|Thriller",4
+139,user_139,118,Memento,"Mystery|Thriller",5
+140,user_140,120,Braveheart,"Biography|Drama|History",5
+141,user_141,125,Heat,"Action|Crime|Drama",4
+142,user_142,127,Taxi Driver,"Crime|Drama",5
+143,user_143,131,The Lives of Others,"Drama|Mystery|Thriller",5
+144,user_144,133,Oldboy,"Action|Drama|Mystery",4
+145,user_145,136,Memories of Murder,"Crime|Drama|Mystery",5
+146,user_146,140,Incendies,"Drama|Mystery|War",5
+147,user_147,142,Arrival,"Drama|Sci-Fi",4
+148,user_148,145,Wind River,"Crime|Drama|Mystery",5
+149,user_149,149,Nightcrawler,"Crime|Drama|Thriller",5
+150,user_150,1,The Shawshank Redemption,"Drama|Crime",5
+151,user_151,2,The Godfather,"Crime|Drama",4
+152,user_152,4,Pulp Fiction,"Crime|Drama",5
+153,user_153,5,Forrest Gump,"Drama|Romance",5
+154,user_154,7,The Matrix,"Action|Sci-Fi",4
+155,user_155,8,Interstellar,"Adventure|Drama|Sci-Fi",5
+156,user_156,11,Lagaan: Once Upon a Time in India,"Drama|Musical|Sport",5
+157,user_157,13,Sholay,"Action|Adventure|Comedy",4
+158,user_158,14,Avatar,"Action|Adventure|Fantasy",3
+159,user_159,16,Jurassic Park,"Action|Adventure|Sci-Fi",4
+160,user_160,18,Joker,"Crime|Drama|Thriller",5
+161,user_161,19,Toy Story,"Animation|Adventure|Comedy",4
+162,user_162,20,Coco,"Animation|Adventure|Family",5
+163,user_163,21,K.G.F: Chapter 2,"Action|Crime|Drama",4
+164,user_164,23,Baahubali: The Beginning,"Action|Drama",3
+165,user_165,26,Gangs of Wasseypur,"Action|Comedy|Crime",5
+166,user_166,27,Swades,"Drama",5
+167,user_167,29,The Lion King,"Animation|Adventure|Drama",4
+168,user_168,31,Finding Nemo,"Animation|Adventure|Comedy",5
+169,user_169,32,Spirited Away,"Animation|Adventure|Family",5
+170,user_170,33,Back to the Future,"Adventure|Comedy|Sci-Fi",4
+171,user_171,35,Whiplash,"Drama|Music",5
+172,user_172,37,No Country for Old Men,"Crime|Drama|Thriller",4
+173,user_173,39,Blade Runner 2049,"Action|Drama|Mystery",5
+174,user_174,40,Dune,"Action|Adventure|Drama",4
+175,user_175,42,The Grand Budapest Hotel,"Adventure|Comedy|Drama",5
+176,user_176,43,Her,"Drama|Romance|Sci-Fi",4
+177,user_177,46,Drishyam,"Crime|Drama|Mystery",5
+178,user_178,47,Tumbbad,"Drama|Fantasy|Horror",4
+179,user_179,48,Stree,"Comedy|Horror",3
+180,user_180,50,Dilwale Dulhania Le Jayenge,"Drama|Romance",2
+181,user_181,51,Inglourious Basterds,"Adventure|Drama|War",5
+182,user_182,53,The Wolf of Wall Street,"Biography|Comedy|Crime",4
+183,user_183,54,Shutter Island,"Mystery|Thriller",5
+184,user_184,56,Se7en,"Crime|Drama|Mystery",5
+185,user_185,57,The Silence of the Lambs,"Crime|Drama|Thriller",4
+186,user_186,59,Green Book,"Biography|Comedy|Drama",5
+187,user_187,61,Mughal-E-Azam,"Drama|Romance|War",5
+188,user_188,62,Anand,"Drama|Musical",4
+189,user_189,63,Guide,"Drama|Musical|Romance",5
+190,user_190,64,Pyaasa,"Drama|Musical|Romance",5
+191,user_191,65,Mother India,"Drama|Musical",4
+192,user_192,67,Rang De Basanti,"Comedy|Drama",5
+193,user_193,69,Lage Raho Munna Bhai,"Comedy|Drama|Romance",5
+194,user_194,71,My Name Is Khan,"Drama|Romance",3
+195,user_195,73,PK,"Comedy|Drama|Sci-Fi",4
+196,user_196,74,OMG: Oh My God!,"Comedy|Drama|Fantasy",5
+197,user_197,76,Kahaani,"Mystery|Thriller",5
+198,user_198,77,Udaan,"Drama",4
+199,user_199,78,Black,"Drama",5
+200,user_200,79,Airlift,"Action|Drama|History",4
+101,user_101,80,Padmaavat,"Drama|History|Romance",3
+102,user_102,82,Gully Boy,"Drama|Music",4
+103,user_103,83,Article 15,"Crime|Drama|Mystery",5
+104,user_104,84,Masaan,"Drama",5
+105,user_105,86,Paan Singh Tomar,"Action|Biography|Crime",4
+106,user_106,87,Haider,"Action|Crime|Drama",5
+107,user_107,89,Newton,"Comedy|Drama",4
+108,user_108,90,Kapoor & Sons,"Comedy|Drama|Romance",3
+109,user_109,92,Amélie,"Comedy|Romance",5
+110,user_110,93,Cinema Paradiso,"Drama|Romance",5
+111,user_111,95,Once Upon a Time in America,"Crime|Drama",4
+112,user_112,96,2001: A Space Odyssey,"Adventure|Sci-Fi",2
+113,user_113,97,A Clockwork Orange,"Crime|Drama|Sci-Fi",3
+114,user_114,99,Fargo,"Crime|Drama|Thriller",4
+115,user_115,100,The Big Lebowski,"Comedy|Crime",5
+116,user_116,102,Forrest Gump,"Comedy|Drama",5
+117,user_117,103,Pulp Fiction,"Crime|Drama",4
+118,user_118,104,The Matrix,"Action|Sci-Fi",5
+119,user_119,106,The Lord of the Rings: The Return of the King,"Action|Adventure|Drama",5
+120,user_120,107,Star Wars: Episode V - The Empire Strikes Back,"Action|Adventure|Fantasy",3
+121,user_121,108,Schindler's List,"Biography|Drama|History",5
+122,user_122,109,Good Will Hunting,"Drama|Romance",4
+123,user_123,111,Terminator 2: Judgment Day,"Action|Sci-Fi",5
+124,user_124,112,Alien,"Horror|Sci-Fi",4
+125,user_125,113,Aliens,"Action|Adventure|Sci-Fi",5
+126,user_126,114,The Shining,"Drama|Horror",4
+127,user_127,117,L.A. Confidential,"Crime|Drama|Mystery",5
+128,user_128,119,American History X,"Crime|Drama",5
+129,user_129,121,Das Boot,"Drama|War",4
+130,user_130,122,Apocalypse Now,"Drama|War",5
+131,user_131,123,Full Metal Jacket,"Drama|War",3
+132,user_132,124,Platoon,"Drama|War",4
+133,user_133,126,Casino,"Crime|Drama",5
+134,user_134,128,Raging Bull,"Biography|Drama|Sport",4
+135,user_135,129,Good Bye Lenin!,"Comedy|Drama|Romance",5
+136,user_136,130,Downfall,"Biography|Drama|History",5
+137,user_137,132,Pan's Labyrinth,"Drama|Fantasy|War",4
+138,user_138,134,I Saw the Devil,"Action|Crime|Horror",2
+139,user_139,135,The Chaser,"Action|Crime|Thriller",5
+140,user_140,137,A Separation,"Drama",5
+141,user_141,138,Children of Heaven,"Drama|Family|Sport",5
+142,user_142,139,The Salesman,"Drama|Thriller",4
+143,user_143,141,Prisoners,"Crime|Drama|Mystery",5
+144,user_144,143,Sicario,"Action|Crime|Drama",4
+145,user_145,144,Hell or High Water,"Action|Crime|Drama",3
+146,user_146,146,Logan,"Action|Drama|Sci-Fi",5
+147,user_147,147,Baby Driver,"Action|Crime|Music",4
+148,user_148,148,Drive,"Crime|Drama",5
+149,user_149,150,Zodiac,"Crime|Drama|Mystery",5
+150,user_150,2,The Godfather,"Crime|Drama",4
