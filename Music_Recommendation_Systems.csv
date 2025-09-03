@@ -11,6 +11,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 10,Oliver,110,Michael Jackson,Billie Jean,Pop,5,2025-01-15T10:45:00Z
 11,Charlotte,111,The Beatles,Hey Jude,Rock,5,2025-01-15T10:50:00Z
 12,Benjamin,112,Eminem,Lose Yourself,Hip Hop,5,2025-01-15T10:55:00Z
+13,Amelia,113,Led Zeppelin,Stairway to Heaven,Rock,5,2025-01-15T11:00:00Z
 14,Elijah,114,Bob Marley,No Woman, No Cry,Reggae,4,2025-01-15T11:05:00Z
 15,Mia,115,Rihanna,Umbrella,R&B,4,2025-01-15T11:10:00Z
 16,Lucas,116,U2,With or Without You,Rock,4,2025-01-15T11:15:00Z
@@ -41,7 +42,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 31,Victoria,131,Jonas Brothers,Sucker,Pop,3,2025-01-18T14:00:00Z
 32,Samuel,132,Cardi B,I Like It,Hip Hop,5,2025-01-18T14:05:00Z
 33,Riley,133,Travis Scott,SICKO MODE,Hip Hop,4,2025-01-18T14:10:00Z
-34,Zoey,134,Panic! At The Disco,High Hopes,Pop Rock,4,2025-01-18T14:15:00Z
+34,Zoey,134,"Panic! At The Disco",High Hopes,Pop Rock,4,2025-01-18T14:15:00Z
 35,Andrew,135,Khalid,Talk,R&B,5,2025-01-18T14:20:00Z
 36,Penelope,136,Sam Smith,Dancing With A Stranger,Pop,4,2025-01-18T14:25:00Z
 37,Joshua,137,Camila Cabello,Havana,Pop,4,2025-01-18T14:30:00Z
@@ -69,12 +70,12 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 9,Isabella,102,Ed Sheeran,Shape of You,Pop,4,2025-01-20T18:40:00Z
 10,Oliver,149,Pharrell Williams,Happy,Pop,3,2025-01-20T18:45:00Z
 51,Brooklyn,151,AC/DC,Back in Black,Hard Rock,5,2025-01-21T10:00:00Z
-52,Christian,152,Guns N' Roses,Sweet Child O' Mine,Hard Rock,5,2025-01-21T10:05:00Z
+52,Christian,152,"Guns N' Roses",Sweet Child O' Mine,Hard Rock,5,2025-01-21T10:05:00Z
 53,Claire,153,Metallica,Enter Sandman,Heavy Metal,4,2025-01-21T10:10:00Z
 54,Caleb,154,Black Sabbath,Paranoid,Heavy Metal,4,2025-01-21T10:15:00Z
-55,Eleanor,155,The Rolling Stones,Paint It, Black,Rock,5,2025-01-21T10:20:00Z
+55,Eleanor,155,The Rolling Stones,"Paint It, Black",Rock,5,2025-01-21T10:20:00Z
 56,Dylan,156,Aerosmith,Dream On,Rock,4,2025-01-21T10:25:00Z
-57,Bella,157,Pink Floyd,Another Brick in the Wall, Pt. 2,Progressive Rock,5,2025-01-21T10:30:00Z
+57,Bella,157,Pink Floyd,"Another Brick in the Wall, Pt. 2",Progressive Rock,5,2025-01-21T10:30:00Z
 58,Connor,158,The Who,Baba O'Riley,Rock,4,2025-01-21T10:35:00Z
 59,Samantha,159,Eagles,Hotel California,Rock,5,2025-01-21T10:40:00Z
 60,Isaiah,160,Journey,Don't Stop Believin',Rock,5,2025-01-21T10:45:00Z
@@ -108,7 +109,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 88,Jaxon,188,Kenny Chesney,The Good Stuff,Country,4,2025-01-24T09:35:00Z
 89,Madelyn,189,Carrie Underwood,Before He Cheats,Country Pop,5,2025-01-24T09:40:00Z
 90,Cameron,190,Luke Bryan,Country Girl (Shake It for Me),Country,3,2025-01-24T09:45:00Z
-91,Aubrey,191,Florida Georgia Line,Cruise,Country Pop,3,2025-01-25T11:00:00Z
+91,Aubrey,191,"Florida Georgia Line",Cruise,Country Pop,3,2025-01-25T11:00:00Z
 92,Kevin,192,Jason Aldean,Dirt Road Anthem,Country Rap,4,2025-01-25T11:05:00Z
 93,Kaylee,193,Blake Shelton,God's Country,Country,4,2025-01-25T11:10:00Z
 94,Leo,194,Darius Rucker,Wagon Wheel,Country,5,2025-01-25T11:15:00Z
@@ -116,7 +117,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 96,Ivan,196,Luke Combs,Beautiful Crazy,Country,5,2025-01-25T11:25:00Z
 97,Gabriella,197,Morgan Wallen,Whiskey Glasses,Country,4,2025-01-25T11:30:00Z
 98,Miles,198,Sam Hunt,Body Like a Back Road,Country Pop,3,2025-01-25T11:35:00Z
-99,Genesis,199,Dan + Shay,Tequila,Country Pop,4,2025-01-25T11:40:00Z
+99,Genesis,199,"Dan + Shay",Tequila,Country Pop,4,2025-01-25T11:40:00Z
 100,Alex,200,Maren Morris,The Bones,Country Pop,5,2025-01-25T11:45:00Z
 1,Olivia,200,Maren Morris,The Bones,Country Pop,4,2025-02-01T10:00:00Z
 2,Liam,195,Chris Stapleton,Tennessee Whiskey,Country,5,2025-02-01T10:05:00Z
@@ -128,8 +129,8 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 8,James,170,Stevie Ray Vaughan,Pride and Joy,Blues,4,2025-02-01T10:35:00Z
 9,Isabella,165,Lynyrd Skynyrd,Sweet Home Alabama,Southern Rock,5,2025-02-01T10:40:00Z
 10,Oliver,160,Journey,Don't Stop Believin',Rock,5,2025-02-01T10:45:00Z
-11,Charlotte,157,Pink Floyd,Another Brick in the Wall, Pt. 2,Progressive Rock,4,2025-02-02T12:00:00Z
-12,Benjamin,152,Guns N' Roses,Sweet Child O' Mine,Hard Rock,5,2025-02-02T12:05:00Z
+11,Charlotte,157,Pink Floyd,"Another Brick in the Wall, Pt. 2",Progressive Rock,4,2025-02-02T12:00:00Z
+12,Benjamin,152,"Guns N' Roses",Sweet Child O' Mine,Hard Rock,5,2025-02-02T12:05:00Z
 13,Amelia,151,AC/DC,Back in Black,Hard Rock,5,2025-02-02T12:10:00Z
 14,Elijah,141,Harry Styles,Watermelon Sugar,Pop,4,2025-02-02T12:15:00Z
 15,Mia,132,Cardi B,I Like It,Hip Hop,4,2025-02-02T12:20:00Z
@@ -141,7 +142,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 101,Alice,201,Daft Punk,Get Lucky,Funk,5,2025-02-10T11:00:00Z
 102,Bob,202,Tame Impala,The Less I Know The Better,Psychedelic Pop,5,2025-02-10T11:05:00Z
 103,Charlie,203,Arctic Monkeys,Do I Wanna Know?,Indie Rock,4,2025-02-10T11:10:00Z
-104,Diana,204,Florence + The Machine,Dog Days Are Over,Indie Pop,5,2025-02-10T11:15:00Z
+104,Diana,204,"Florence + The Machine",Dog Days Are Over,Indie Pop,5,2025-02-10T11:15:00Z
 105,Eve,205,The Killers,Mr. Brightside,Alternative Rock,5,2025-02-10T11:20:00Z
 106,Frank,206,Foo Fighters,Everlong,Alternative Rock,5,2025-02-10T11:25:00Z
 107,Grace,207,Radiohead,Creep,Alternative Rock,4,2025-02-10T11:30:00Z
@@ -154,7 +155,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 114,Peggy,214,Blink-182,All the Small Things,Pop Punk,5,2025-02-11T14:15:00Z
 115,Victor,215,Sum 41,In Too Deep,Pop Punk,4,2025-02-11T14:20:00Z
 116,Wendy,216,My Chemical Romance,Welcome to the Black Parade,Emo,5,2025-02-11T14:25:00Z
-117,Xavier,217,Fall Out Boy,Sugar, We're Goin Down,Emo,5,2025-02-11T14:30:00Z
+117,Xavier,217,Fall Out Boy,"Sugar, We're Goin Down",Emo,5,2025-02-11T14:30:00Z
 118,Yvonne,218,Paramore,Misery Business,Emo,5,2025-02-11T14:35:00Z
 119,Zelda,219,Jimmy Eat World,The Middle,Alternative Rock,4,2025-02-11T14:40:00Z
 120,Aaron,220,Linkin Park,In the End,Nu Metal,5,2025-02-11T14:45:00Z
@@ -174,14 +175,14 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 134,Oscar,234,Reel Big Fish,Sell Out,Ska Punk,4,2025-02-13T16:15:00Z
 135,Pam,235,Goldfinger,Superman,Ska Punk,4,2025-02-13T16:20:00Z
 136,Quentin,236,The Mighty Mighty Bosstones,The Impression That I Get,Ska Punk,4,2025-02-13T16:25:00Z
-137,Rita,237,Streetlight Manifesto,A Better Place, a Better Time,Ska Punk,5,2025-02-13T16:30:00Z
+137,Rita,237,Streetlight Manifesto,"A Better Place, a Better Time",Ska Punk,5,2025-02-13T16:30:00Z
 138,Steve,238,Less Than Jake,All My Best Friends Are Metalheads,Ska Punk,4,2025-02-13T16:35:00Z
 139,Tina,239,Madness,Our House,Ska,4,2025-02-13T16:40:00Z
 140,Ulysses,240,The Specials,A Message to You Rudy,Ska,5,2025-02-13T16:45:00Z
 141,Vera,241,Bob Dylan,Like a Rolling Stone,Folk Rock,5,2025-02-14T18:00:00Z
-142,Will,242,Simon & Garfunkel,The Sound of Silence,Folk Rock,5,2025-02-14T18:05:00Z
+142,Will,242,"Simon & Garfunkel",The Sound of Silence,Folk Rock,5,2025-02-14T18:05:00Z
 143,Xena,243,The Byrds,Mr. Tambourine Man,Folk Rock,4,2025-02-14T18:10:00Z
-144,Yosef,244,Crosby, Stills, Nash & Young,Ohio,Folk Rock,5,2025-02-14T18:15:00Z
+144,Yosef,244,"Crosby, Stills, Nash & Young",Ohio,Folk Rock,5,2025-02-14T18:15:00Z
 145,Zara,245,Joni Mitchell,Big Yellow Taxi,Folk,4,2025-02-14T18:20:00Z
 146,Adam,246,Neil Young,Heart of Gold,Folk Rock,5,2025-02-14T18:25:00Z
 147,Brenda,247,James Taylor,Fire and Rain,Folk,4,2025-02-14T18:30:00Z
@@ -199,14 +200,14 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 109,Ivan,122,The Weeknd,Blinding Lights,Synth-pop,4,2025-02-15T10:40:00Z
 110,Judy,135,Khalid,Talk,R&B,5,2025-02-15T10:45:00Z
 151,Fred,251,Tupac Shakur,Changes,Hip Hop,5,2025-03-01T09:00:00Z
-152,Gina,252,The Notorious B.I.G.,Juicy,Hip Hop,5,2025-03-01T09:05:00Z
+152,Gina,252,"The Notorious B.I.G.",Juicy,Hip Hop,5,2025-03-01T09:05:00Z
 153,Harry,253,Nas,N.Y. State of Mind,Hip Hop,5,2025-03-01T09:10:00Z
 154,Irene,254,Jay-Z,99 Problems,Hip Hop,4,2025-03-01T09:15:00Z
 155,Jack,255,Kanye West,Stronger,Hip Hop,4,2025-03-01T09:20:00Z
 156,Karen,256,OutKast,Hey Ya!,Hip Hop,5,2025-03-01T09:25:00Z
 157,Larry,257,A Tribe Called Quest,Can I Kick It?,Hip Hop,5,2025-03-01T09:30:00Z
 158,Mona,258,Wu-Tang Clan,C.R.E.A.M.,Hip Hop,5,2025-03-01T09:35:00Z
-159,Ned,259,Dr. Dre,Nuthin' But A 'G' Thang,G-Funk,5,2025-03-01T09:40:00Z
+159,Ned,259,Dr. Dre,"Nuthin' But A 'G' Thang",G-Funk,5,2025-03-01T09:40:00Z
 160,Olga,260,Snoop Dogg,Gin And Juice,G-Funk,5,2025-03-01T09:45:00Z
 161,Paul,261,N.W.A,Straight Outta Compton,Gangsta Rap,5,2025-03-02T11:00:00Z
 162,Rachel,262,Ice Cube,It Was A Good Day,G-Funk,5,2025-03-02T11:05:00Z
@@ -218,10 +219,10 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 168,Xander,268,Lauryn Hill,Doo Wop (That Thing),Neo Soul,5,2025-03-02T11:35:00Z
 169,Yara,269,Fugees,Killing Me Softly With His Song,Hip Hop,5,2025-03-02T11:40:00Z
 170,Zack,270,Cypress Hill,Insane in the Brain,Hip Hop,4,2025-03-02T11:45:00Z
-171,Amy,271,Salt-N-Pepa,Push It,Hip Hop,4,2025-03-03T14:00:00Z
-172,Brian,272,Grandmaster Flash & The Furious Five,The Message,Hip Hop,5,2025-03-03T14:05:00Z
+171,Amy,271,"Salt-N-Pepa",Push It,Hip Hop,4,2025-03-03T14:00:00Z
+172,Brian,272,"Grandmaster Flash & The Furious Five",The Message,Hip Hop,5,2025-03-03T14:05:00Z
 173,Cindy,273,The Sugarhill Gang,Rapper's Delight,Hip Hop,5,2025-03-03T14:10:00Z
-174,Derek,274,Eric B. & Rakim,Paid in Full,Hip Hop,5,2025-03-03T14:15:00Z
+174,Derek,274,"Eric B. & Rakim",Paid in Full,Hip Hop,5,2025-03-03T14:15:00Z
 175,Elaine,275,Slick Rick,Children's Story,Hip Hop,4,2025-03-03T14:20:00Z
 176,Felix,276,De La Soul,Me Myself and I,Hip Hop,4,2025-03-03T14:25:00Z
 177,Gloria,277,Mary J. Blige,Family Affair,R&B,5,2025-03-03T14:30:00Z
@@ -230,7 +231,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 180,Jerry,280,Destiny's Child,Say My Name,R&B,5,2025-03-03T14:45:00Z
 181,Kate,281,Aaliyah,Are You That Somebody?,R&B,5,2025-03-04T16:00:00Z
 182,Leo,282,Ginuwine,Pony,R&B,4,2025-03-04T16:05:00Z
-183,Megan,283,Brandy & Monica,The Boy Is Mine,R&B,5,2025-03-04T16:10:00Z
+183,Megan,283,"Brandy & Monica",The Boy Is Mine,R&B,5,2025-03-04T16:10:00Z
 184,Nathan,284,Boyz II Men,End of the Road,R&B,5,2025-03-04T16:15:00Z
 185,Ophelia,285,Mariah Carey,Fantasy,R&B,4,2025-03-04T16:20:00Z
 186,Peter,286,Whitney Houston,I Will Always Love You,Soul,5,2025-03-04T16:25:00Z
@@ -391,7 +392,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 331,Edward,131,Jonas Brothers,Sucker,Pop,3,2025-06-04T16:00:00Z
 332,Debra,132,Cardi B,I Like It,Hip Hop,5,2025-06-04T16:05:00Z
 333,Carl,133,Travis Scott,SICKO MODE,Hip Hop,4,2025-06-04T16:10:00Z
-334,Beth,134,Panic! At The Disco,High Hopes,Pop Rock,4,2025-06-04T16:15:00Z
+334,Beth,134,"Panic! At The Disco",High Hopes,Pop Rock,4,2025-06-04T16:15:00Z
 335,Aaron,135,Khalid,Talk,R&B,5,2025-06-04T16:20:00Z
 336,Zelda,136,Sam Smith,Dancing With A Stranger,Pop,4,2025-06-04T16:25:00Z
 337,Yvonne,137,Camila Cabello,Havana,Pop,4,2025-06-04T16:30:00Z
@@ -409,12 +410,12 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 349,Megan,149,Pharrell Williams,Happy,Pop,4,2025-06-05T09:40:00Z
 350,Leo,150,Bruno Mars,Uptown Funk,Funk,5,2025-06-05T09:45:00Z
 351,Kate,151,AC/DC,Back in Black,Hard Rock,5,2025-06-06T11:00:00Z
-352,Jerry,152,Guns N' Roses,Sweet Child O' Mine,Hard Rock,5,2025-06-06T11:05:00Z
+352,Jerry,152,"Guns N' Roses",Sweet Child O' Mine,Hard Rock,5,2025-06-06T11:05:00Z
 353,Iris,153,Metallica,Enter Sandman,Heavy Metal,4,2025-06-06T11:10:00Z
 354,Henry,154,Black Sabbath,Paranoid,Heavy Metal,4,2025-06-06T11:15:00Z
-355,Gloria,155,The Rolling Stones,Paint It, Black,Rock,5,2025-06-06T11:20:00Z
+355,Gloria,155,The Rolling Stones,"Paint It, Black",Rock,5,2025-06-06T11:20:00Z
 356,Felix,156,Aerosmith,Dream On,Rock,4,2025-06-06T11:25:00Z
-357,Elaine,157,Pink Floyd,Another Brick in the Wall, Pt. 2,Progressive Rock,5,2025-06-06T11:30:00Z
+357,Elaine,157,Pink Floyd,"Another Brick in the Wall, Pt. 2",Progressive Rock,5,2025-06-06T11:30:00Z
 358,Derek,158,The Who,Baba O'Riley,Rock,4,2025-06-06T11:35:00Z
 359,Cindy,159,Eagles,Hotel California,Rock,5,2025-06-06T11:40:00Z
 360,Brian,160,Journey,Don't Stop Believin',Rock,5,2025-06-06T11:45:00Z
@@ -448,7 +449,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 388,Yvonne,188,Kenny Chesney,The Good Stuff,Country,4,2025-06-09T09:35:00Z
 389,Xavier,189,Carrie Underwood,Before He Cheats,Country Pop,5,2025-06-09T09:40:00Z
 390,Wendy,190,Luke Bryan,Country Girl (Shake It for Me),Country,3,2025-06-09T09:45:00Z
-391,Victor,191,Florida Georgia Line,Cruise,Country Pop,3,2025-06-10T11:00:00Z
+391,Victor,191,"Florida Georgia Line",Cruise,Country Pop,3,2025-06-10T11:00:00Z
 392,Uma,192,Jason Aldean,Dirt Road Anthem,Country Rap,4,2025-06-10T11:05:00Z
 393,Tom,193,Blake Shelton,God's Country,Country,4,2025-06-10T11:10:00Z
 394,Susan,194,Darius Rucker,Wagon Wheel,Country,5,2025-06-10T11:15:00Z
@@ -456,12 +457,12 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 396,Queenie,196,Luke Combs,Beautiful Crazy,Country,5,2025-06-10T11:25:00Z
 397,Peter,197,Morgan Wallen,Whiskey Glasses,Country,4,2025-06-10T11:30:00Z
 398,Ophelia,198,Sam Hunt,Body Like a Back Road,Country Pop,3,2025-06-10T11:35:00Z
-399,Nathan,199,Dan + Shay,Tequila,Country Pop,4,2025-06-10T11:40:00Z
+399,Nathan,199,"Dan + Shay",Tequila,Country Pop,4,2025-06-10T11:40:00Z
 400,Megan,200,Maren Morris,The Bones,Country Pop,5,2025-06-10T11:45:00Z
 401,Laura,201,Daft Punk,Get Lucky,Funk,5,2025-07-01T10:00:00Z
 402,Kyle,202,Tame Impala,The Less I Know The Better,Psychedelic Pop,4,2025-07-01T10:05:00Z
 403,Jane,203,Arctic Monkeys,Do I Wanna Know?,Indie Rock,4,2025-07-01T10:10:00Z
-404,Ian,204,Florence + The Machine,Dog Days Are Over,Indie Pop,5,2025-07-01T10:15:00Z
+404,Ian,204,"Florence + The Machine",Dog Days Are Over,Indie Pop,5,2025-07-01T10:15:00Z
 405,Helen,205,The Killers,Mr. Brightside,Alternative Rock,5,2025-07-01T10:20:00Z
 406,George,206,Foo Fighters,Everlong,Alternative Rock,5,2025-07-01T10:25:00Z
 407,Fiona,207,Radiohead,Creep,Alternative Rock,4,2025-07-01T10:30:00Z
@@ -474,7 +475,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 414,Yvonne,214,Blink-182,All the Small Things,Pop Punk,5,2025-07-02T12:15:00Z
 415,Xavier,215,Sum 41,In Too Deep,Pop Punk,4,2025-07-02T12:20:00Z
 416,Wendy,216,My Chemical Romance,Welcome to the Black Parade,Emo,5,2025-07-02T12:25:00Z
-417,Victor,217,Fall Out Boy,Sugar, We're Goin Down,Emo,5,2025-07-02T12:30:00Z
+417,Victor,217,Fall Out Boy,"Sugar, We're Goin Down",Emo,5,2025-07-02T12:30:00Z
 418,Uma,218,Paramore,Misery Business,Emo,5,2025-07-02T12:35:00Z
 419,Tom,219,Jimmy Eat World,The Middle,Alternative Rock,4,2025-07-02T12:40:00Z
 420,Susan,220,Linkin Park,In the End,Nu Metal,5,2025-07-02T12:45:00Z
@@ -494,14 +495,14 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 434,Elaine,234,Reel Big Fish,Sell Out,Ska Punk,4,2025-07-04T16:15:00Z
 435,Derek,235,Goldfinger,Superman,Ska Punk,4,2025-07-04T16:20:00Z
 436,Cindy,236,The Mighty Mighty Bosstones,The Impression That I Get,Ska Punk,4,2025-07-04T16:25:00Z
-437,Brian,237,Streetlight Manifesto,A Better Place, a Better Time,Ska Punk,5,2025-07-04T16:30:00Z
+437,Brian,237,Streetlight Manifesto,"A Better Place, a Better Time",Ska Punk,5,2025-07-04T16:30:00Z
 438,Amy,238,Less Than Jake,All My Best Friends Are Metalheads,Ska Punk,3,2025-07-04T16:35:00Z
 439,Zack,239,Madness,Our House,Ska,4,2025-07-04T16:40:00Z
 440,Yara,240,The Specials,A Message to You Rudy,Ska,5,2025-07-04T16:45:00Z
 441,Xander,241,Bob Dylan,Like a Rolling Stone,Folk Rock,5,2025-07-05T09:00:00Z
-442,Wanda,242,Simon & Garfunkel,The Sound of Silence,Folk Rock,5,2025-07-05T09:05:00Z
+442,Wanda,242,"Simon & Garfunkel",The Sound of Silence,Folk Rock,5,2025-07-05T09:05:00Z
 443,Vince,243,The Byrds,Mr. Tambourine Man,Folk Rock,4,2025-07-05T09:10:00Z
-444,Ursula,244,Crosby, Stills, Nash & Young,Ohio,Folk Rock,5,2025-07-05T09:15:00Z
+444,Ursula,244,"Crosby, Stills, Nash & Young",Ohio,Folk Rock,5,2025-07-05T09:15:00Z
 445,Tracy,245,Joni Mitchell,Big Yellow Taxi,Folk,4,2025-07-05T09:20:00Z
 446,Sam,246,Neil Young,Heart of Gold,Folk Rock,5,2025-07-05T09:25:00Z
 447,Rachel,247,James Taylor,Fire and Rain,Folk,4,2025-07-05T09:30:00Z
@@ -509,14 +510,14 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 449,Olga,249,Cat Stevens,Wild World,Folk,4,2025-07-05T09:40:00Z
 450,Ned,250,Don McLean,American Pie,Folk Rock,5,2025-07-05T09:45:00Z
 451,Mona,251,Tupac Shakur,Changes,Hip Hop,5,2025-08-01T10:00:00Z
-452,Larry,252,The Notorious B.I.G.,Juicy,Hip Hop,5,2025-08-01T10:05:00Z
+452,Larry,252,"The Notorious B.I.G.",Juicy,Hip Hop,5,2025-08-01T10:05:00Z
 453,Karen,253,Nas,N.Y. State of Mind,Hip Hop,5,2025-08-01T10:10:00Z
 454,Jack,254,Jay-Z,99 Problems,Hip Hop,4,2025-08-01T10:15:00Z
 455,Irene,255,Kanye West,Stronger,Hip Hop,4,2025-08-01T10:20:00Z
 456,Harry,256,OutKast,Hey Ya!,Hip Hop,5,2025-08-01T10:25:00Z
 457,Gina,257,A Tribe Called Quest,Can I Kick It?,Hip Hop,5,2025-08-01T10:30:00Z
 458,Fred,258,Wu-Tang Clan,C.R.E.A.M.,Hip Hop,5,2025-08-01T10:35:00Z
-459,Elaine,259,Dr. Dre,Nuthin' But A 'G' Thang,G-Funk,5,2025-08-01T10:40:00Z
+459,Elaine,259,Dr. Dre,"Nuthin' But A 'G' Thang",G-Funk,5,2025-08-01T10:40:00Z
 460,Derek,260,Snoop Dogg,Gin And Juice,G-Funk,5,2025-08-01T10:45:00Z
 461,Cindy,261,N.W.A,Straight Outta Compton,Gangsta Rap,5,2025-08-02T12:00:00Z
 462,Brian,262,Ice Cube,It Was A Good Day,G-Funk,5,2025-08-02T12:05:00Z
@@ -528,10 +529,10 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 468,Vince,268,Lauryn Hill,Doo Wop (That Thing),Neo Soul,5,2025-08-02T12:35:00Z
 469,Ursula,269,Fugees,Killing Me Softly With His Song,Hip Hop,5,2025-08-02T12:40:00Z
 470,Tracy,270,Cypress Hill,Insane in the Brain,Hip Hop,4,2025-08-02T12:45:00Z
-471,Sam,271,Salt-N-Pepa,Push It,Hip Hop,4,2025-08-03T14:00:00Z
-472,Rachel,272,Grandmaster Flash & The Furious Five,The Message,Hip Hop,5,2025-08-03T14:05:00Z
+471,Sam,271,"Salt-N-Pepa",Push It,Hip Hop,4,2025-08-03T14:00:00Z
+472,Rachel,272,"Grandmaster Flash & The Furious Five",The Message,Hip Hop,5,2025-08-03T14:05:00Z
 473,Paul,273,The Sugarhill Gang,Rapper's Delight,Hip Hop,5,2025-08-03T14:10:00Z
-474,Olga,274,Eric B. & Rakim,Paid in Full,Hip Hop,5,2025-08-03T14:15:00Z
+474,Olga,274,"Eric B. & Rakim",Paid in Full,Hip Hop,5,2025-08-03T14:15:00Z
 475,Ned,275,Slick Rick,Children's Story,Hip Hop,4,2025-08-03T14:20:00Z
 476,Mona,276,De La Soul,Me Myself and I,Hip Hop,4,2025-08-03T14:25:00Z
 477,Larry,277,Mary J. Blige,Family Affair,R&B,5,2025-08-03T14:30:00Z
@@ -540,7 +541,7 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 480,Irene,280,Destiny's Child,Say My Name,R&B,5,2025-08-03T14:45:00Z
 481,Harry,281,Aaliyah,Are You That Somebody?,R&B,5,2025-08-04T16:00:00Z
 482,Gina,282,Ginuwine,Pony,R&B,4,2025-08-04T16:05:00Z
-483,Fred,283,Brandy & Monica,The Boy Is Mine,R&B,5,2025-08-04T16:10:00Z
+483,Fred,283,"Brandy & Monica",The Boy Is Mine,R&B,5,2025-08-04T16:10:00Z
 484,Elaine,284,Boyz II Men,End of the Road,R&B,5,2025-08-04T16:15:00Z
 485,Derek,285,Mariah Carey,Fantasy,R&B,4,2025-08-04T16:20:00Z
 486,Cindy,286,Whitney Houston,I Will Always Love You,Soul,5,2025-08-04T16:25:00Z
@@ -558,3 +559,274 @@ userID,userName,songID,artist,songName,genre,rating,timestamp
 498,Paul,298,Etta James,At Last,Blues,5,2025-08-05T09:35:00Z
 499,Olga,299,Billie Holiday,Strange Fruit,Jazz,5,2025-08-05T09:40:00Z
 500,Ned,300,Louis Armstrong,What a Wonderful World,Jazz,5,2025-08-05T09:45:00Z
+501,Mona,401,Anuv Jain,Baarishein,Indie,5,2025-08-10T10:00:00Z
+502,Larry,402,Prateek Kuhad,cold/mess,Indie,5,2025-08-10T10:05:00Z
+503,Karen,403,The Local Train,Choo Lo,Indie Rock,4,2025-08-10T10:10:00Z
+504,Jack,404,Ritviz,Udd Gaye,Electronic,5,2025-08-10T10:15:00Z
+505,Irene,405,Nucleya,Laung Gawacha,Electronic,4,2025-08-10T10:20:00Z
+506,Harry,406,Divine,Mere Gully Mein,Hip Hop,5,2025-08-10T10:25:00Z
+507,Gina,407,Naezy,Aafat Wapas,Hip Hop,4,2025-08-10T10:30:00Z
+508,Fred,408,Emiway Bantai,Machayenge,Hip Hop,3,2025-08-10T10:35:00Z
+509,Elaine,409,MC Stan,Basti Ka Hasti,Hip Hop,4,2025-08-10T10:40:00Z
+510,Derek,410,Seedhe Maut,Nanchaku,Hip Hop,5,2025-08-10T10:45:00Z
+511,Cindy,411,Skrillex,Bangarang,Dubstep,4,2025-08-11T12:00:00Z
+512,Brian,412,Marshmello,Alone,Future Bass,4,2025-08-11T12:05:00Z
+513,Amy,413,Alan Walker,Faded,Electro House,5,2025-08-11T12:10:00Z
+514,Zack,414,Martin Garrix,Animals,Big Room House,4,2025-08-11T12:15:00Z
+515,Yara,415,Avicii,Wake Me Up,Folktronica,5,2025-08-11T12:20:00Z
+516,Xander,416,Calvin Harris,Summer,Electro House,4,2025-08-11T12:25:00Z
+517,Wanda,417,David Guetta,Titanium,Electro House,5,2025-08-11T12:30:00Z
+518,Vince,418,The Chainsmokers,Closer,EDM,3,2025-08-11T12:35:00Z
+519,Ursula,419,Zedd,Clarity,Electro House,5,2025-08-11T12:40:00Z
+520,Tracy,420,DJ Snake,Lean On,Moombahton,5,2025-08-11T12:45:00Z
+521,Sam,421,Kygo,Firestone,Tropical House,5,2025-08-12T14:00:00Z
+522,Rachel,422,Major Lazer,Light It Up,Moombahton,4,2025-08-12T14:05:00Z
+523,Paul,423,deadmau5,Strobe,Progressive House,5,2025-08-12T14:10:00Z
+524,Olga,424,Armin van Buuren,This Is What It Feels Like,Trance,4,2025-08-12T14:15:00Z
+525,Ned,425,Tiësto,Adagio for Strings,Trance,5,2025-08-12T14:20:00Z
+526,Mona,426,Above & Beyond,Sun & Moon,Trance,5,2025-08-12T14:25:00Z
+527,Larry,427,Paul van Dyk,For an Angel,Trance,5,2025-08-12T14:30:00Z
+528,Karen,428,Swedish House Mafia,Don't You Worry Child,Progressive House,5,2025-08-12T14:35:00Z
+529,Jack,429,Hardwell,Spaceman,Big Room House,4,2025-08-12T14:40:00Z
+530,Irene,430,Afrojack,Take Over Control,Dutch House,4,2025-08-12T14:45:00Z
+531,Harry,431,BTS,Dynamite,K-Pop,5,2025-08-13T16:00:00Z
+532,Gina,432,BLACKPINK,How You Like That,K-Pop,5,2025-08-13T16:05:00Z
+533,Fred,433,PSY,Gangnam Style,K-Pop,4,2025-08-13T16:10:00Z
+534,Elaine,434,TWICE,Fancy,K-Pop,4,2025-08-13T16:15:00Z
+535,Derek,435,EXO,Love Shot,K-Pop,4,2025-08-13T16:20:00Z
+536,Cindy,436,Red Velvet,Psycho,K-Pop,5,2025-08-13T16:25:00Z
+537,Brian,437,Stray Kids,God's Menu,K-Pop,5,2025-08-13T16:30:00Z
+538,Amy,438,NCT 127,Cherry Bomb,K-Pop,4,2025-08-13T16:35:00Z
+539,Zack,439,SEVENTEEN,Don't Wanna Cry,K-Pop,5,2025-08-13T16:40:00Z
+540,Yara,440,GOT7,Just Right,K-Pop,4,2025-08-13T16:45:00Z
+541,Xander,441,MAMAMOO,HIP,K-Pop,5,2025-08-14T09:00:00Z
+542,Wanda,442,ITZY,WANNABE,K-Pop,4,2025-08-14T09:05:00Z
+543,Vince,443,(G)I-DLE,LATATA,K-Pop,4,2025-08-14T09:10:00Z
+544,Ursula,444,ATEEZ,WONDERLAND,K-Pop,5,2025-08-14T09:15:00Z
+545,Tracy,445,TXT,Crown,K-Pop,4,2025-08-14T09:20:00Z
+546,Sam,446,Monsta X,HERO,K-Pop,4,2025-08-14T09:25:00Z
+547,Rachel,447,BIGBANG,FANTASTIC BABY,K-Pop,5,2025-08-14T09:30:00Z
+548,Paul,448,SuperM,Jopping,K-Pop,3,2025-08-14T09:35:00Z
+549,Olga,449,aespa,Next Level,K-Pop,5,2025-08-14T09:40:00Z
+550,Ned,450,ENHYPEN,Drunk-Dazed,K-Pop,4,2025-08-14T09:45:00Z
+551,Mona,451,ROSALÍA,MALAMENTE,Flamenco Pop,5,2025-08-15T11:00:00Z
+552,Larry,452,Daddy Yankee,Gasolina,Reggaeton,5,2025-08-15T11:05:00Z
+553,Karen,453,Shakira,Hips Don't Lie,Latin Pop,5,2025-08-15T11:10:00Z
+554,Jack,454,Ricky Martin,Livin' la Vida Loca,Latin Pop,4,2025-08-15T11:15:00Z
+555,Irene,455,Enrique Iglesias,Bailando,Latin Pop,4,2025-08-15T11:20:00Z
+556,Harry,456,Marc Anthony,Vivir Mi Vida,Salsa,5,2025-08-15T11:25:00Z
+557,Gina,457,Carlos Vives,La Bicicleta,Vallenato,4,2025-08-15T11:30:00Z
+558,Fred,458,Juanes,La Camisa Negra,Rock en Español,4,2025-08-15T11:35:00Z
+559,Elaine,459,Maná,Oye Mi Amor,Rock en Español,5,2025-08-15T11:40:00Z
+560,Derek,460,Soda Stereo,De Música Ligera,Rock en Español,5,2025-08-15T11:45:00Z
+561,Cindy,461,Los Fabulosos Cadillacs,Matador,Ska,5,2025-08-16T14:00:00Z
+562,Brian,462,Café Tacvba,Eres,Alternative Rock,5,2025-08-16T14:05:00Z
+563,Amy,463,Molotov,Gimme Tha Power,Rap Metal,4,2025-08-16T14:10:00Z
+564,Zack,464,Calle 13,Atrévete-te-te,Reggaeton,5,2025-08-16T14:15:00Z
+565,Yara,465,Ozuna,Taki Taki,Reggaeton,4,2025-08-16T14:20:00Z
+566,Xander,466,Maluma,Hawái,Reggaeton,3,2025-08-16T14:25:00Z
+567,Wanda,467,Nicky Jam,El Perdón,Reggaeton,4,2025-08-16T14:30:00Z
+568,Vince,468,Karol G,Tusa,Reggaeton,5,2025-08-16T14:35:00Z
+569,Ursula,469,Anuel AA,China,Reggaeton,3,2025-08-16T14:40:00Z
+570,Tracy,470,Sech,Otro Trago,Reggaeton,4,2025-08-16T14:45:00Z
+571,Sam,471,Camilo,Tutu,Latin Pop,4,2025-08-17T16:00:00Z
+572,Rachel,472,Reik,Me Niego,Latin Pop,4,2025-08-17T16:05:00Z
+573,Paul,473,Luis Fonsi,Despacito,Latin Pop,5,2025-08-17T16:10:00Z
+574,Olga,474,Thalía,Piel Morena,Latin Pop,4,2025-08-17T16:15:00Z
+575,Ned,475,Paulina Rubio,Y Yo Sigo Aquí,Latin Pop,3,2025-08-17T16:20:00Z
+576,Mona,476,Gloria Estefan,Conga,Latin Pop,5,2025-08-17T16:25:00Z
+577,Larry,477,Celia Cruz,La Vida Es Un Carnaval,Salsa,5,2025-08-17T16:30:00Z
+578,Karen,478,Buena Vista Social Club,Chan Chan,Son,5,2025-08-17T16:35:00Z
+579,Jack,479,Gipsy Kings,Bamboléo,Rumba,5,2025-08-17T16:40:00Z
+580,Irene,480,Santana,Oye Como Va,Latin Rock,5,2025-08-17T16:45:00Z
+581,Harry,481,Stromae,Alors on danse,House,5,2025-08-18T09:00:00Z
+582,Gina,482,Indila,Dernière Danse,Pop,5,2025-08-18T09:05:00Z
+583,Fred,483,Maître Gims,Bella,Pop,4,2025-08-18T09:10:00Z
+584,Elaine,484,Angèle,Balance ton quoi,Pop,5,2025-08-18T09:15:00Z
+585,Derek,485,Aya Nakamura,Djadja,R&B,4,2025-08-18T09:20:00Z
+586,Cindy,486,PNL,Au DD,Cloud Rap,5,2025-08-18T09:25:00Z
+587,Brian,487,Nekfeu,On verra,Hip Hop,4,2025-08-18T09:30:00Z
+588,Amy,488,Orelsan,Basique,Hip Hop,5,2025-08-18T09:35:00Z
+589,Zack,489,Christine and the Queens,Tilted,Synth-pop,5,2025-08-18T09:40:00Z
+590,Yara,490,Manu Chao,Bongo Bong,Worldbeat,4,2025-08-18T09:45:00Z
+591,Xander,491,Seeed,Ding,Dancehall,4,2025-08-19T11:00:00Z
+592,Wanda,492,Rammstein,Du Hast,Industrial Metal,5,2025-08-19T11:05:00Z
+593,Vince,493,Falco,Rock Me Amadeus,Pop Rock,4,2025-08-19T11:10:00Z
+594,Ursula,494,Nena,99 Luftballons,New Wave,5,2025-08-19T11:15:00Z
+595,Tracy,495,Scorpions,Wind of Change,Hard Rock,5,2025-08-19T11:20:00Z
+596,Sam,496,Kraftwerk,The Model,Synth-pop,5,2025-08-19T11:25:00Z
+597,Rachel,497,Måneskin,ZITTI E BUONI,Alternative Rock,5,2025-08-19T11:30:00Z
+598,Paul,498,Lucio Dalla,Caruso,Pop,5,2025-08-19T11:35:00Z
+599,Olga,499,Andrea Bocelli,Con te partirò,Classical Crossover,5,2025-08-19T11:40:00Z
+600,Ned,500,Luciano Pavarotti,Nessun dorma,Opera,5,2025-08-19T11:45:00Z
+1,Olivia,401,Anuv Jain,Baarishein,Indie,4,2025-09-01T10:00:00Z
+2,Liam,415,Avicii,Wake Me Up,Folktronica,5,2025-09-01T10:05:00Z
+3,Emma,431,BTS,Dynamite,K-Pop,5,2025-09-01T10:10:00Z
+4,Noah,453,Shakira,Hips Don't Lie,Latin Pop,4,2025-09-01T10:15:00Z
+5,Ava,492,Rammstein,Du Hast,Industrial Metal,5,2025-09-01T10:20:00Z
+6,William,480,Santana,Oye Como Va,Latin Rock,3,2025-09-01T10:25:00Z
+7,Sophia,477,Celia Cruz,La Vida Es Un Carnaval,Salsa,5,2025-09-01T10:30:00Z
+8,James,428,Swedish House Mafia,Don't You Worry Child,Progressive House,4,2025-09-01T10:35:00Z
+9,Isabella,402,Prateek Kuhad,cold/mess,Indie,5,2025-09-01T10:40:00Z
+10,Oliver,447,BIGBANG,FANTASTIC BABY,K-Pop,5,2025-09-01T10:45:00Z
+11,Charlotte,460,Soda Stereo,De Música Ligera,Rock en Español,4,2025-09-02T12:00:00Z
+12,Benjamin,406,Divine,Mere Gully Mein,Hip Hop,5,2025-09-02T12:05:00Z
+13,Amelia,499,Andrea Bocelli,Con te partirò,Classical Crossover,5,2025-09-02T12:10:00Z
+14,Elijah,490,Manu Chao,Bongo Bong,Worldbeat,4,2025-09-02T12:15:00Z
+15,Mia,468,Karol G,Tusa,Reggaeton,4,2025-09-02T12:20:00Z
+16,Lucas,432,BLACKPINK,How You Like That,K-Pop,3,2025-09-02T12:25:00Z
+17,Harper,411,Skrillex,Bangarang,Dubstep,5,2025-09-02T12:30:00Z
+18,Henry,451,ROSALÍA,MALAMENTE,Flamenco Pop,5,2025-09-02T12:35:00Z
+19,Evelyn,452,Daddy Yankee,Gasolina,Reggaeton,2,2025-09-02T12:40:00Z
+20,Alexander,488,Orelsan,Basique,Hip Hop,4,2025-09-02T12:45:00Z
+21,Abigail,404,Ritviz,Udd Gaye,Electronic,5,2025-09-03T09:00:00Z
+22,Daniel,420,DJ Snake,Lean On,Moombahton,5,2025-09-03T09:05:00Z
+23,Emily,436,Red Velvet,Psycho,K-Pop,4,2025-09-03T09:10:00Z
+24,Matthew,458,Juanes,La Camisa Negra,Rock en Español,4,2025-09-03T09:15:00Z
+25,Madison,481,Stromae,Alors on danse,House,5,2025-09-03T09:20:00Z
+26,Aiden,494,Nena,99 Luftballons,New Wave,3,2025-09-03T09:25:00Z
+27,Chloe,421,Kygo,Firestone,Tropical House,4,2025-09-03T09:30:00Z
+28,Joseph,441,MAMAMOO,HIP,K-Pop,3,2025-09-03T09:35:00Z
+29,Grace,464,Calle 13,Atrévete-te-te,Reggaeton,4,2025-09-03T09:40:00Z
+30,David,484,Angèle,Balance ton quoi,Pop,4,2025-09-03T09:45:00Z
+31,Victoria,301,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,3,2025-09-04T14:00:00Z
+32,Samuel,327,AP Dhillon,Brown Munde,Punjabi,5,2025-09-04T14:05:00Z
+33,Riley,350,Dhanush,Rowdy Baby,Tamil,4,2025-09-04T14:10:00Z
+34,Zoey,363,M. M. Keeravani,Naatu Naatu,Telugu,4,2025-09-04T14:15:00Z
+35,Andrew,390,Shaan Rahman,Jimikki Kammal,Malayalam,5,2025-09-04T14:20:00Z
+36,Penelope,399,Raghu Dixit,Ninna Poojege,Kannada Folk,4,2025-09-04T14:25:00Z
+37,Joshua,322,Nusrat Fateh Ali Khan,Afreen Afreen,Sufi,4,2025-09-04T14:30:00Z
+38,Lillian,318,Jagjit Singh,Hothon Se Chhu Lo Tum,Ghazal,3,2025-09-04T14:35:00Z
+39,Gabriel,338,Hardy Sandhu,Soch,Punjabi,5,2025-09-04T14:40:00Z
+40,Nora,371,Gopi Sundar,Inkem Inkem Inkem Kaavaale,Telugu,5,2025-09-04T14:45:00Z
+41,Christopher,203,Arctic Monkeys,Do I Wanna Know?,Indie Rock,5,2025-09-05T11:00:00Z
+42,Hannah,212,Green Day,Basket Case,Punk Rock,4,2025-09-05T11:05:00Z
+43,Anthony,220,Linkin Park,In the End,Nu Metal,5,2025-09-05T11:10:00Z
+44,Addison,233,Sublime,Santeria,Ska Punk,4,2025-09-05T11:15:00Z
+45,Isaac,255,Kanye West,Stronger,Hip Hop,5,2025-09-05T11:20:00Z
+46,Stella,268,Lauryn Hill,Doo Wop (That Thing),Neo Soul,5,2025-09-05T11:25:00Z
+47,Nathan,280,Destiny's Child,Say My Name,R&B,4,2025-09-05T11:30:00Z
+48,Leah,292,Aretha Franklin,Respect,Soul,3,2025-09-05T11:35:00Z
+49,Ryan,241,Bob Dylan,Like a Rolling Stone,Folk Rock,4,2025-09-05T11:40:00Z
+50,Audrey,250,Don McLean,American Pie,Folk Rock,5,2025-09-05T11:45:00Z
+51,Brooklyn,205,The Killers,Mr. Brightside,Alternative Rock,4,2025-09-06T10:00:00Z
+52,Christian,224,Rage Against The Machine,Killing in the Name,Rap Metal,5,2025-09-06T10:05:00Z
+53,Claire,259,Dr. Dre,"Nuthin' But A 'G' Thang",G-Funk,4,2025-09-06T10:10:00Z
+54,Caleb,272,"Grandmaster Flash & The Furious Five",The Message,Hip Hop,4,2025-09-06T10:15:00Z
+55,Eleanor,290,Stevie Wonder,Superstition,Funk,5,2025-09-06T10:20:00Z
+56,Dylan,298,Etta James,At Last,Blues,3,2025-09-06T10:25:00Z
+57,Bella,302,Lata Mangeshkar,Lag Jaa Gale,Bollywood,5,2025-09-06T10:30:00Z
+58,Connor,310,Sonu Nigam,Kal Ho Naa Ho,Bollywood,4,2025-09-06T10:35:00Z
+59,Samantha,328,Sidhu Moose Wala,295,Punjabi,5,2025-09-06T10:40:00Z
+60,Isaiah,344,Akhil,Khaab,Punjabi,5,2025-09-06T10:45:00Z
+61,Scarlett,361,S. S. Thaman,ButtaBomma,Telugu,5,2025-09-07T13:00:00Z
+62,Jeremiah,369,Santhosh Narayanan,Enjoy Enjaami,Tamil,4,2025-09-07T13:05:00Z
+63,Lily,386,Raveendran,Pramadhavanam,Malayalam,4,2025-09-07T13:10:00Z
+64,Hunter,391,Hamsalekha,Huttidare Kannada,Kannada,4,2025-09-07T13:15:00Z
+65,Paisley,403,The Local Train,Choo Lo,Indie Rock,5,2025-09-07T13:20:00Z
+66,Jordan,413,Alan Walker,Faded,Electro House,5,2025-09-07T13:25:00Z
+67,Camila,433,PSY,Gangnam Style,K-Pop,5,2025-09-07T13:30:00Z
+68,Levi,455,Enrique Iglesias,Bailando,Latin Pop,4,2025-09-07T13:35:00Z
+69,Ariana,482,Indila,Dernière Danse,Pop,4,2025-09-07T13:40:00Z
+70,Julian,497,Måneskin,ZITTI E BUONI,Alternative Rock,5,2025-09-07T13:45:00Z
+71,Gianna,102,Ed Sheeran,Shape of You,Pop,5,2025-09-08T16:00:00Z
+72,Aaron,120,Kendrick Lamar,HUMBLE.,Hip Hop,4,2025-09-08T16:05:00Z
+73,Skylar,139,Bad Bunny,MIA,Reggaeton,4,2025-09-08T16:10:00Z
+74,Eli,152,"Guns N' Roses",Sweet Child O' Mine,Hard Rock,4,2025-09-08T16:15:00Z
+75,Violet,167,Jimi Hendrix,All Along the Watchtower,Psychedelic Rock,5,2025-09-08T16:20:00Z
+76,Landon,179,Dolly Parton,Jolene,Country,5,2025-09-08T16:25:00Z
+77,Aurora,196,Luke Combs,Beautiful Crazy,Country,5,2025-09-08T16:30:00Z
+78,Wyatt,214,Blink-182,All the Small Things,Pop Punk,4,2025-09-08T16:35:00Z
+79,Hazel,231,The Cranberries,Zombie,Alternative Rock,5,2025-09-08T16:40:00Z
+80,Charles,248,Carole King,You've Got a Friend,Singer-Songwriter,4,2025-09-08T16:45:00Z
+81,Natalie,262,Ice Cube,It Was A Good Day,G-Funk,5,2025-09-09T09:00:00Z
+82,Thomas,284,Boyz II Men,End of the Road,R&B,5,2025-09-09T09:05:00Z
+83,Penelope,303,Asha Bhosle,Piya Tu Ab To Aaja,Bollywood,4,2025-09-09T09:10:00Z
+84,Adrian,323,Rahat Fateh Ali Khan,O Re Piya,Sufi,5,2025-09-09T09:15:00Z
+85,Ellie,333,Gippy Grewal,Angreji Beat,Punjabi,4,2025-09-09T09:20:00Z
+86,Robert,353,Harris Jayaraj,Vaseegara,Tamil,4,2025-09-09T09:25:00Z
+87,Hailey,372,Thaman S,Samajavaragamana,Telugu,5,2025-09-09T09:30:00Z
+88,Jaxon,381,G. Devarajan,Sanyasini,Malayalam,4,2025-09-09T09:35:00Z
+89,Madelyn,405,Nucleya,Laung Gawacha,Electronic,5,2025-09-09T09:40:00Z
+90,Cameron,423,deadmau5,Strobe,Progressive House,3,2025-09-09T09:45:00Z
+91,Aubrey,444,ATEEZ,WONDERLAND,K-Pop,3,2025-09-10T11:00:00Z
+92,Kevin,466,Maluma,Hawái,Reggaeton,4,2025-09-10T11:05:00Z
+93,Kaylee,486,PNL,Au DD,Cloud Rap,4,2025-09-10T11:10:00Z
+94,Leo,500,Luciano Pavarotti,Nessun dorma,Opera,5,2025-09-10T11:15:00Z
+95,Aaliyah,495,Scorpions,Wind of Change,Hard Rock,5,2025-09-10T11:20:00Z
+96,Ivan,478,Buena Vista Social Club,Chan Chan,Son,5,2025-09-10T11:25:00Z
+97,Gabriella,461,Los Fabulosos Cadillacs,Matador,Ska,4,2025-09-10T11:30:00Z
+98,Miles,449,aespa,Next Level,K-Pop,3,2025-09-10T11:35:00Z
+99,Genesis,429,Hardwell,Spaceman,Big Room House,4,2025-09-10T11:40:00Z
+100,Alex,409,MC Stan,Basti Ka Hasti,Hip Hop,5,2025-09-10T11:45:00Z
+101,Alice,398,Sadhu Kokila,Huchcha,Kannada,2,2025-09-11T10:00:00Z
+102,Bob,388,Sharreth,Mazha,Malayalam,5,2025-09-11T10:05:00Z
+103,Charlie,378,Raj-Koti,Yamaho Ni,Telugu,3,2025-09-11T10:10:00Z
+104,Diana,367,Vijay Antony,Nakka Mukka,Tamil,5,2025-09-11T10:15:00Z
+105,Eve,348,Kulwinder Billa,Time Table,Punjabi,4,2025-09-11T10:20:00Z
+106,Frank,329,Gurdas Maan,Challa,Punjabi Folk,5,2025-09-11T10:25:00Z
+107,Grace,320,Ghulam Ali,Chupke Chupke Raat Din,Ghazal,5,2025-09-11T10:30:00Z
+108,Heidi,299,Billie Holiday,Strange Fruit,Jazz,3,2025-09-11T10:35:00Z
+109,Ivan,288,Sade,Smooth Operator,Smooth Jazz,4,2025-09-11T10:40:00Z
+110,Judy,278,Usher,Yeah!,R&B,5,2025-09-11T10:45:00Z
+111,Mallory,265,Beastie Boys,Sabotage,Rap Rock,4,2025-09-12T14:00:00Z
+112,Trent,253,Nas,N.Y. State of Mind,Hip Hop,4,2025-09-12T14:05:00Z
+113,Walter,243,The Byrds,Mr. Tambourine Man,Folk Rock,4,2025-09-12T14:10:00Z
+114,Peggy,228,Alice in Chains,Man in the Box,Grunge,5,2025-09-12T14:15:00Z
+115,Victor,217,Fall Out Boy,"Sugar, We're Goin Down",Emo,4,2025-09-12T14:20:00Z
+116,Wendy,208,Oasis,Wonderwall,Britpop,5,2025-09-12T14:25:00Z
+117,Xavier,187,Tim McGraw,Live Like You Were Dying,Country,5,2025-09-12T14:30:00Z
+118,Yvonne,175,Robert Johnson,Cross Road Blues,Delta Blues,5,2025-09-12T14:35:00Z
+119,Zelda,163,Van Halen,Jump,Hard Rock,4,2025-09-12T14:40:00Z
+120,Aaron,145,Roddy Ricch,The Box,Hip Hop,5,2025-09-12T14:45:00Z
+121,Beth,133,Travis Scott,SICKO MODE,Hip Hop,5,2025-09-13T09:00:00Z
+122,Carl,123,Post Malone,Circles,Pop Rock,4,2025-09-13T09:05:00Z
+123,Debra,113,Led Zeppelin,Stairway to Heaven,Rock,3,2025-09-13T09:10:00Z
+124,Edward,103,Taylor Swift,Blank Space,Pop,5,2025-09-13T09:15:00Z
+125,Fiona,204,"Florence + The Machine",Dog Days Are Over,Indie Pop,5,2025-09-13T09:20:00Z
+126,George,218,Paramore,Misery Business,Emo,5,2025-09-13T09:25:00Z
+127,Helen,232,No Doubt,Don't Speak,Ska Punk,4,2025-09-13T09:30:00Z
+128,Ian,252,"The Notorious B.I.G.",Juicy,Hip Hop,4,2025-09-13T09:35:00Z
+129,Jane,269,Fugees,Killing Me Softly With His Song,Hip Hop,4,2025-09-13T09:40:00Z
+130,Kyle,289,Luther Vandross,Never Too Much,Soul,5,2025-09-13T09:45:00Z
+131,Laura,305,Mukesh,Kabhi Kabhie Mere Dil Mein,Bollywood,5,2025-09-14T16:00:00Z
+132,Mike,315,KK,Tadap Tadap Ke,Bollywood,4,2025-09-14T16:05:00Z
+133,Nancy,335,Badshah,DJ Waley Babu,Punjabi,5,2025-09-14T16:10:00Z
+134,Oscar,345,Prabh Gill,Tareyan De Des,Punjabi,4,2025-09-14T16:15:00Z
+135,Pam,365,Ghibran,Saaho,Telugu,4,2025-09-14T16:20:00Z
+136,Quentin,385,M. G. Radhakrishnan,Poomukha Padiyil,Malayalam,4,2025-09-14T16:25:00Z
+137,Rita,422,Major Lazer,Light It Up,Moombahton,5,2025-09-14T16:30:00Z
+138,Steve,442,ITZY,WANNABE,K-Pop,4,2025-09-14T16:35:00Z
+139,Tina,462,Café Tacvba,Eres,Alternative Rock,4,2025-09-14T16:40:00Z
+140,Ulysses,489,Christine and the Queens,Tilted,Synth-pop,5,2025-09-14T16:45:00Z
+141,Vera,106,Drake,God's Plan,Hip Hop,2,2025-09-15T18:00:00Z
+142,Will,115,Rihanna,Umbrella,R&B,4,2025-09-15T18:05:00Z
+143,Xena,126,Ariana Grande,7 rings,Pop,3,2025-09-15T18:10:00Z
+144,Yosef,132,Cardi B,I Like It,Hip Hop,5,2025-09-15T18:15:00Z
+145,Zara,148,Justin Timberlake,Can't Stop the Feeling!,Pop,4,2025-09-15T18:20:00Z
+146,Adam,155,The Rolling Stones,"Paint It, Black",Rock,5,2025-09-15T18:25:00Z
+147,Brenda,172,Muddy Waters,Mannish Boy,Blues,4,2025-09-15T18:30:00Z
+148,Charles,188,Kenny Chesney,The Good Stuff,Country,5,2025-09-15T18:35:00Z
+149,Denise,199,"Dan + Shay",Tequila,Country Pop,4,2025-09-15T18:40:00Z
+150,Eric,222,Korn,Freak on a Leash,Nu Metal,5,2025-09-15T18:45:00Z
+601,Amber,601,Fela Kuti,Zombie,Afrobeat,5,2025-10-01T10:00:00Z
+602,Bruce,602,King Sunny Adé,Ja Funmi,Jùjú,4,2025-10-01T10:05:00Z
+603,Celine,603,Youssou N'Dour,7 Seconds,Mbalax,5,2025-10-01T10:10:00Z
+604,Dexter,604,Salif Keita,Madan,Afro-pop,4,2025-10-01T10:15:00Z
+605,Eliza,605,Angélique Kidjo,Agolo,Afro-pop,5,2025-10-01T10:20:00Z
+606,Flynn,606,Ladysmith Black Mambazo,Homeless,Isicathamiya,5,2025-10-01T10:25:00Z
+607,Giselle,607,Miriam Makeba,Pata Pata,Afro-pop,5,2025-10-01T10:30:00Z
+608,Hugo,608,Hugh Masekela,Grazing in the Grass,Jazz,4,2025-10-01T10:35:00Z
+609,Iris,609,Brenda Fassie,Vulindlela,Kwaito,5,2025-10-01T10:40:00Z
+610,Jasper,610,Johnny Clegg & Savuka,Asimbonanga,Afro-pop,5,2025-10-01T10:45:00Z
+611,Kara,611,Burna Boy,On the Low,Afrobeats,4,2025-10-02T12:00:00Z
+612,Leon,612,Wizkid,Essence,Afrobeats,5,2025-10-02T12:05:00Z
+613,Maya,613,Davido,Fall,Afrobeats,4,2025-10-02T12:10:00Z
+614,Nico,614,Tiwa Savage,Koroba,Afrobeats,5,2025-10-02T12:15:00Z
+615,Orla,615,Mr Eazi,Leg Over,Afrobeats,3,2025-10-02T12:20:00Z
+616,Percy,616,Shatta Wale,My Level,Dancehall,4,2025-10-02T12:25:00Z
+617,Quinn,617,Stonebwoy,Go Higher,Dancehall,4,2025-10-02T12:30:00Z
+618,Remy,618,Sarkodie,Adonai,Hiplife,5,2025-10-02T12:35:00Z
+619,Stella,619,Diamond Platnumz,Number One,Bongo Flava,4,2025-10-02T12:40:00Z
+620,Theo,620,Ali Kiba,Aje,Bongo Flava,4,2025-10-02T12:45:00Z
+
