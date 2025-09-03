@@ -1,613 +1,561 @@
-userID,userName,artist,song,genre,rating
-1001,user_1001,Arijit Singh,Tum Hi Ho,Bollywood,5
-1002,user_1002,Ed Sheeran,Shape of You,Pop,4
-1003,user_1003,Queen,Bohemian Rhapsody,Rock,5
-1004,user_1004,Sidhu Moose Wala,295,Punjabi,5
-1005,user_1005,The Weeknd,Blinding Lights,Pop,4
-1006,user_1006,Led Zeppelin,Stairway to Heaven,Rock,5
-1007,user_1007,A.R. Rahman,Jai Ho,Bollywood,4
-1008,user_1008,Dua Lipa,Don't Start Now,Pop,3
-1009,user_1009,Nirvana,Smells Like Teen Spirit,Rock,5
-1010,user_1010,AP Dhillon,"Brown Munde",Punjabi,4
-1011,user_1011,Taylor Swift,Blank Space,Pop,5
-1012,user_1012,Pritam,Kesariya,Bollywood,4
-1013,user_1013,Arctic Monkeys,Do I Wanna Know?,Rock,5
-1014,user_1014,Drake,God's Plan,Hip Hop,3
-1015,user_1015,Shreya Ghoshal,Ghoomar,Bollywood,5
-1016,user_1016,Coldplay,Yellow,Alternative,4
-1017,user_1017,Justin Bieber,Sorry,Pop,2
-1018,user_1018,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
-1019,user_1019,Eminem,Lose Yourself,Hip Hop,5
-1020,user_1020,Guru Randhawa,Lahore,Punjabi,3
-1001,user_1001,Ed Sheeran,Perfect,Pop,5
-1002,user_1002,Arijit Singh,Channa Mereya,Bollywood,5
-1003,user_1003,The Beatles,Hey Jude,Rock,4
-1004,user_1004,Dua Lipa,Levitating,Pop,4
-1005,user_1005,AP Dhillon,Excuses,Punjabi,5
-1006,user_1006,Nirvana,Come As You Are,Rock,4
-1007,user_1007,Pritam,Gerua,Bollywood,5
-1008,user_1008,The Weeknd,Save Your Tears,Pop,4
-1009,user_1009,Led Zeppelin,Black Dog,Rock,5
-1010,user_1010,Sidhu Moose Wala,So High,Punjabi,4
-1011,user_1011,A.R. Rahman,Maa Tujhe Salaam,Bollywood,5
-1012,user_1012,Queen,Another One Bites the Dust,Rock,4
-1013,user_1013,Taylor Swift,Love Story,Pop,4
-1014,user_1014,Shreya Ghoshal,Deewani Mastani,Bollywood,5
-1015,user_1015,Drake,In My Feelings,Hip Hop,2
-1016,user_1016,Arctic Monkeys,R U Mine?,Rock,5
-1017,user_1017,Guru Randhawa,High Rated Gabru,Punjabi,3
-1018,user_1018,Eminem,Not Afraid,Hip Hop,4
-1019,user_1019,Coldplay,Viva La Vida,Alternative,5
-1020,user_1020,Justin Bieber,Peaches,Pop,4
-1021,user_1021,Lata Mangeshkar,Lag Ja Gale,Bollywood,5
-1022,user_1022,Imagine Dragons,Believer,Rock,4
-1023,user_1023,Billie Eilish,bad guy,Pop,3
-1024,user_1024,Diljit Dosanjh,Lover,Punjabi,5
-1025,user_1025,Kendrick Lamar,HUMBLE.,Hip Hop,5
-1026,user_1026,Sunidhi Chauhan,Sheila Ki Jawani,Bollywood,3
-1027,user_1027,Pink Floyd,"Comfortably Numb",Rock,5
-1028,user_1028,Harry Styles,As It Was,Pop,4
-1029,user_1029,Kanye West,Stronger,Hip Hop,4
-1030,user_1030,Vishal-Shekhar,Swag Se Swagat,Bollywood,3
-1031,user_1031,Post Malone,Circles,Pop,4
-1032,user_1032,Guns N' Roses,"Sweet Child O' Mine",Rock,5
-1033,user_1033,Neha Kakkar,Kala Chashma,Bollywood,2
-1034,user_1034,J. Cole,No Role Modelz,Hip Hop,5
-1035,user_1035,Tame Impala,The Less I Know The Better,Alternative,5
-1036,user_1036,Harrdy Sandhu,Bijlee Bijlee,Punjabi,4
-1037,user_1037,AC/DC,Back In Black,Rock,5
-1038,user_1038,Badshah,DJ Waley Babu,Bollywood,2
-1039,user_1039,Adele,Rolling in the Deep,Pop,5
-1040,user_1040,The Strokes,Last Nite,Alternative,4
-1001,user_1001,Nirvana,Lithium,Rock,4
-1002,user_1002,Taylor Swift,Style,Pop,5
-1003,user_1003,A.R. Rahman,Chaiyya Chaiyya,Bollywood,5
-1004,user_1004,The Weeknd,Starboy,Pop,4
-1005,user_1005,Pritam,Ae Dil Hai Mushkil,Bollywood,5
-1006,user_1006,Arctic Monkeys,Why'd You Only Call Me When You're High?,Rock,4
-1007,user_1007,Sidhu Moose Wala,Legend,Punjabi,5
-1008,user_1008,Drake,Hotline Bling,Hip Hop,3
-1009,user_1009,Arijit Singh,Kabira,Bollywood,5
-1010,user_1010,Queen,"Don't Stop Me Now",Rock,5
-1011,user_1011,Dua Lipa,New Rules,Pop,4
-1012,user_1012,Led Zeppelin,Whole Lotta Love,Rock,5
-1013,user_1013,AP Dhillon,Insane,Punjabi,4
-1014,user_1014,Ed Sheeran,Thinking Out Loud,Pop,5
-1015,user_1015,Shreya Ghoshal,Sunn Raha Hai,Bollywood,5
-1016,user_1016,Eminem,The Real Slim Shady,Hip Hop,4
-1017,user_1017,The Beatles,Let It Be,Rock,5
-1018,user_1018,Justin Bieber,Love Yourself,Pop,3
-1019,user_1019,Guru Randhawa,Suit Suit,Punjabi,3
-1020,user_1020,Coldplay,The Scientist,Alternative,5
-1021,user_1021,Pink Floyd,Another Brick in the Wall,Rock,5
-1022,user_1022,Diljit Dosanjh,G.O.A.T.,Punjabi,5
-1023,user_1023,Vishal-Shekhar,Balam Pichkari,Bollywood,4
-1024,user_1024,Imagine Dragons,Radioactive,Rock,4
-1025,user_1025,Harry Styles,Watermelon Sugar,Pop,4
-1026,user_1026,J. Cole,MIDDLE CHILD,Hip Hop,5
-1027,user_1027,Sunidhi Chauhan,Kamli,Bollywood,4
-1028,user_1028,Billie Eilish,ocean eyes,Pop,4
-1029,user_1029,Kendrick Lamar,Alright,Hip Hop,5
-1030,user_1030,Lata Mangeshkar,Ajeeb Dastan Hai Yeh,Bollywood,5
-1031,user_1031,Guns N' Roses,"November Rain",Rock,5
-1032,user_1032,Post Malone,Sunflower,Pop,4
-1033,user_1033,Kanye West,Gold Digger,Hip Hop,4
-1034,user_1034,Neha Kakkar,Dilbar,Bollywood,2
-1035,user_1035,AC/DC,Highway to Hell,Rock,5
-1036,user_1036,Tame Impala,Feels Like We Only Go Backwards,Alternative,5
-1037,user_1037,Harrdy Sandhu,Kya Baat Ay,Punjabi,4
-1038,user_1038,Adele,Someone Like You,Pop,5
-1039,user_1039,Badshah,Kar Gayi Chull,Bollywood,3
-1040,user_1040,The Strokes,Someday,Alternative,4
-1041,user_1041,Rihanna,Umbrella,Pop,4
-1042,user_1042,Metallica,Enter Sandman,Rock,5
-1043,user_1043,Sonu Nigam,Kal Ho Naa Ho,Bollywood,5
-1044,user_1044,Cardi B,Bodak Yellow,Hip Hop,4
-1045,user_1045,Bad Bunny,DÁKITI,Latin,4
-1046,user_1046,Florence + The Machine,Dog Days Are Over,Alternative,5
-1047,user_1047,Shankar-Ehsaan-Loy,Mitwa,Bollywood,5
-1049,user_1049,Ariana Grande,thank u, next,Pop,3
-1050,user_1050,Karan Aujla,Chitta Kurta,Punjabi,4
-1001,user_1001,The Weeknd,Blinding Lights,Pop,4
-1002,user_1002,Led Zeppelin,Stairway to Heaven,Rock,5
-1003,user_1003,AP Dhillon,"Brown Munde",Punjabi,4
-1004,user_1004,Taylor Swift,Blank Space,Pop,5
-1005,user_1005,Arijit Singh,Tum Hi Ho,Bollywood,5
-1006,user_1006,Arctic Monkeys,Do I Wanna Know?,Rock,5
-1007,user_1007,Dua Lipa,Don't Start Now,Pop,3
-1008,user_1008,Pritam,Kesariya,Bollywood,4
-1009,user_1009,Drake,God's Plan,Hip Hop,3
-1010,user_1010,Nirvana,Smells Like Teen Spirit,Rock,5
-1011,user_1011,Ed Sheeran,Shape of You,Pop,4
-1012,user_1012,Shreya Ghoshal,Ghoomar,Bollywood,5
-1013,user_1013,Sidhu Moose Wala,295,Punjabi,5
-1014,user_1014,Queen,Bohemian Rhapsody,Rock,5
-1015,user_1015,Coldplay,Yellow,Alternative,4
-1016,user_1016,A.R. Rahman,Jai Ho,Bollywood,4
-1017,user_1017,Eminem,Lose Yourself,Hip Hop,5
-1018,user_1018,Guru Randhawa,Lahore,Punjabi,3
-1019,user_1019,Justin Bieber,Sorry,Pop,2
-1020,user_1020,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
-1021,user_1021,Imagine Dragons,Believer,Rock,4
-1022,user_1022,Sunidhi Chauhan,Sheila Ki Jawani,Bollywood,3
-1023,user_1023,Diljit Dosanjh,Lover,Punjabi,5
-1024,user_1024,Pink Floyd,"Comfortably Numb",Rock,5
-1025,user_1025,Billie Eilish,bad guy,Pop,3
-1026,user_1026,Kendrick Lamar,HUMBLE.,Hip Hop,5
-1027,user_1027,Harry Styles,As It Was,Pop,4
-1028,user_1028,Lata Mangeshkar,Lag Ja Gale,Bollywood,5
-1029,user_1029,Vishal-Shekhar,Swag Se Swagat,Bollywood,3
-1030,user_1030,Kanye West,Stronger,Hip Hop,4
-1031,user_1031,Guns N' Roses,"Sweet Child O' Mine",Rock,5
-1032,user_1032,Neha Kakkar,Kala Chashma,Bollywood,2
-1033,user_1033,Post Malone,Circles,Pop,4
-1034,user_1034,Tame Impala,The Less I Know The Better,Alternative,5
-1035,user_1035,J. Cole,No Role Modelz,Hip Hop,5
-1036,user_1036,AC/DC,Back In Black,Rock,5
-1037,user_1037,Harrdy Sandhu,Bijlee Bijlee,Punjabi,4
-1038,user_1038,The Strokes,Last Nite,Alternative,4
-1039,user_1039,Badshah,DJ Waley Babu,Bollywood,2
-1040,user_1040,Adele,Rolling in the Deep,Pop,5
-1041,user_1041,Metallica,Enter Sandman,Rock,5
-1042,user_1042,Sonu Nigam,Kal Ho Naa Ho,Bollywood,5
-1043,user_1043,Rihanna,Umbrella,Pop,4
-1044,user_1044,Bad Bunny,DÁKITI,Latin,4
-1045,user_1045,Cardi B,Bodak Yellow,Hip Hop,4
-1046,user_1046,Shankar-Ehsaan-Loy,Mitwa,Bollywood,5
-1047,user_1047,Florence + The Machine,Dog Days Are Over,Alternative,5
-1048,user_1048,Ariana Grande,thank u, next,Pop,3
-1049,user_1049,Red Hot Chili Peppers,Californication,Rock,4
-1050,user_1050,Karan Aujla,Chitta Kurta,Punjabi,4
-1005,user_1005,Taylor Swift,Style,Pop,5
-1006,user_1006,Arijit Singh,Channa Mereya,Bollywood,5
-1007,user_1007,The Beatles,Hey Jude,Rock,4
-1008,user_1008,Dua Lipa,Levitating,Pop,4
-1009,user_1009,AP Dhillon,Excuses,Punjabi,5
-1010,user_1010,Nirvana,Come As You Are,Rock,4
-1011,user_1011,Pritam,Gerua,Bollywood,5
-1012,user_1012,The Weeknd,Save Your Tears,Pop,4
-1013,user_1013,Led Zeppelin,Black Dog,Rock,5
-1014,user_1014,Sidhu Moose Wala,So High,Punjabi,4
-1015,user_1015,A.R. Rahman,Maa Tujhe Salaam,Bollywood,5
-1016,user_1016,Queen,Another One Bites the Dust,Rock,4
-1017,user_1017,Taylor Swift,Love Story,Pop,4
-1018,user_1018,Shreya Ghoshal,Deewani Mastani,Bollywood,5
-1019,user_1019,Drake,In My Feelings,Hip Hop,2
-1020,user_1020,Arctic Monkeys,R U Mine?,Rock,5
-1021,user_1021,Guru Randhawa,High Rated Gabru,Punjabi,3
-1022,user_1022,Eminem,Not Afraid,Hip Hop,4
-1023,user_1023,Coldplay,Viva La Vida,Alternative,5
-1024,user_1024,Justin Bieber,Peaches,Pop,4
-1025,user_1025,Lata Mangeshkar,Ajeeb Dastan Hai Yeh,Bollywood,5
-1026,user_1026,Imagine Dragons,Radioactive,Rock,4
-1027,user_1027,Billie Eilish,ocean eyes,Pop,4
-1028,user_1028,Diljit Dosanjh,G.O.A.T.,Punjabi,5
-1029,user_1029,Kendrick Lamar,Alright,Hip Hop,5
-1030,user_1030,Sunidhi Chauhan,Kamli,Bollywood,4
-1031,user_1031,Pink Floyd,Another Brick in the Wall,Rock,5
-1032,user_1032,Harry Styles,Watermelon Sugar,Pop,4
-1033,user_1033,Kanye West,Gold Digger,Hip Hop,4
-1034,user_1034,Vishal-Shekhar,Balam Pichkari,Bollywood,4
-1035,user_1035,Post Malone,Sunflower,Pop,4
-1036,user_1036,J. Cole,MIDDLE CHILD,Hip Hop,5
-1037,user_1037,Guns N' Roses,"November Rain",Rock,5
-1038,user_1038,Neha Kakkar,Dilbar,Bollywood,2
-1039,user_1039,AC/DC,Highway to Hell,Rock,5
-1040,user_1040,Tame Impala,Feels Like We Only Go Backwards,Alternative,5
-1041,user_1041,Harrdy Sandhu,Kya Baat Ay,Punjabi,4
-1042,user_1042,Adele,Someone Like You,Pop,5
-1043,user_1043,Badshah,Kar Gayi Chull,Bollywood,3
-1044,user_1044,The Strokes,Someday,Alternative,4
-1045,user_1045,Rihanna,Disturbia,Pop,4
-1046,user_1046,Metallica,"Master of Puppets",Rock,5
-1047,user_1047,Sonu Nigam,Abhi Mujh Mein Kahin,Bollywood,5
-1048,user_1048,Cardi B,I Like It,Hip Hop,4
-1049,user_1049,Bad Bunny,Yo Perreo Sola,Latin,4
-1050,user_1050,Florence + The Machine,Shake It Out,Alternative,5
-1051,user_1051,Shankar-Ehsaan-Loy,Kajra Re,Bollywood,4
-1052,user_1052,Red Hot Chili Peppers,Under the Bridge,Rock,5
-1053,user_1053,Ariana Grande,7 rings,Pop,3
-1054,user_1054,Karan Aujla,Don't Look,Punjabi,4
-1055,user_1055,Linkin Park,In the End,Rock,5
-1056,user_1056,Udit Narayan,Pehla Nasha,Bollywood,5
-1057,user_1057,Olivia Rodrigo,good 4 u,Pop,4
-1058,user_1058,Travis Scott,SICKO MODE,Hip Hop,4
-1059,user_1059,Jubin Nautiyal,Raataan Lambiyan,Bollywood,4
-1060,user_1060,Foo Fighters,Everlong,Rock,5
-1001,user_1001,Arctic Monkeys,Why'd You Only Call Me When You're High?,Rock,4
-1002,user_1002,Dua Lipa,New Rules,Pop,4
-1003,user_1003,Pritam,Ae Dil Hai Mushkil,Bollywood,5
-1004,user_1004,Sidhu Moose Wala,Legend,Punjabi,5
-1005,user_1005,The Beatles,Let It Be,Rock,5
-1006,user_1006,A.R. Rahman,Chaiyya Chaiyya,Bollywood,5
-1007,user_1007,Ed Sheeran,Thinking Out Loud,Pop,5
-1008,user_1008,Nirvana,Lithium,Rock,4
-1009,user_1009,Taylor Swift,Style,Pop,5
-1010,user_1010,AP Dhillon,Insane,Punjabi,4
-1011,user_1011,Queen,"Don't Stop Me Now",Rock,5
-1012,user_1012,The Weeknd,Starboy,Pop,4
-1013,user_1013,Arijit Singh,Kabira,Bollywood,5
-1014,user_1014,Led Zeppelin,Whole Lotta Love,Rock,5
-1015,user_1015,Guru Randhawa,Suit Suit,Punjabi,3
-1016,user_1016,Justin Bieber,Love Yourself,Pop,3
-1017,user_1017,Drake,Hotline Bling,Hip Hop,3
-1018,user_1018,Shreya Ghoshal,Sunn Raha Hai,Bollywood,5
-1019,user_1019,Eminem,The Real Slim Shady,Hip Hop,4
-1020,user_1020,Coldplay,The Scientist,Alternative,5
-1021,user_1021,J. Cole,MIDDLE CHILD,Hip Hop,5
-1022,user_1022,Guns N' Roses,"November Rain",Rock,5
-1023,user_1023,Harry Styles,Watermelon Sugar,Pop,4
-1024,user_1024,Sunidhi Chauhan,Kamli,Bollywood,4
-1025,user_1025,Diljit Dosanjh,G.O.A.T.,Punjabi,5
-1026,user_1026,Vishal-Shekhar,Balam Pichkari,Bollywood,4
-1027,user_1027,Imagine Dragons,Radioactive,Rock,4
-1028,user_1028,Lata Mangeshkar,Ajeeb Dastan Hai Yeh,Bollywood,5
-1029,user_1029,Kendrick Lamar,Alright,Hip Hop,5
-1030,user_1030,Pink Floyd,Another Brick in the Wall,Rock,5
-1031,user_1031,Billie Eilish,ocean eyes,Pop,4
-1032,user_1032,Kanye West,Gold Digger,Hip Hop,4
-1033,user_1033,Post Malone,Sunflower,Pop,4
-1034,user_1034,Neha Kakkar,Dilbar,Bollywood,2
-1035,user_1035,AC/DC,Highway to Hell,Rock,5
-1036,user_1036,Harrdy Sandhu,Kya Baat Ay,Punjabi,4
-1037,user_1037,Tame Impala,Feels Like We Only Go Backwards,Alternative,5
-1038,user_1038,Badshah,Kar Gayi Chull,Bollywood,3
-1039,user_1039,Adele,Someone Like You,Pop,5
-1040,user_1040,The Strokes,Someday,Alternative,4
-1041,user_1041,Sonu Nigam,Abhi Mujh Mein Kahin,Bollywood,5
-1042,user_1042,Rihanna,Disturbia,Pop,4
-1043,user_1043,Bad Bunny,Yo Perreo Sola,Latin,4
-1044,user_1044,Metallica,"Master of Puppets",Rock,5
-1045,user_1045,Florence + The Machine,Shake It Out,Alternative,5
-1046,user_1046,Cardi B,I Like It,Hip Hop,4
-1047,user_1047,Karan Aujla,Don't Look,Punjabi,4
-1048,user_1048,Red Hot Chili Peppers,Under the Bridge,Rock,5
-1049,user_1049,Shankar-Ehsaan-Loy,Kajra Re,Bollywood,4
-1050,user_1050,Ariana Grande,7 rings,Pop,3
-1051,user_1051,Udit Narayan,Pehla Nasha,Bollywood,5
-1052,user_1052,Linkin Park,In the End,Rock,5
-1053,user_1053,Jubin Nautiyal,Raataan Lambiyan,Bollywood,4
-1054,user_1054,Travis Scott,SICKO MODE,Hip Hop,4
-1055,user_1055,Olivia Rodrigo,good 4 u,Pop,4
-1056,user_1056,Foo Fighters,Everlong,Rock,5
-1057,user_1057,Mohammed Rafi,Kya Hua Tera Wada,Bollywood,5
-1058,user_1058,The Killers,Mr. Brightside,Rock,5
-1059,user_1059,Beyoncé,Crazy in Love,R&B,4
-1060,user_1060,Honey Singh,Lungi Dance,Bollywood,2
-1061,user_1061,Michael Jackson,Billie Jean,Pop,5
-1062,user_1062,Radiohead,Creep,Alternative,5
-1063,user_1063,Kumar Sanu,Tujhe Dekha To,Bollywood,5
-1064,user_1064,Jay-Z,99 Problems,Hip Hop,4
-1065,user_1065,Britney Spears,Toxic,Pop,3
-1066,user_1066,Mohit Chauhan,Tum Se Hi,Bollywood,5
-1067,user_1067,Oasis,Wonderwall,Rock,5
-1068,user_1068,Shubh,We Rollin,Punjabi,4
-1069,user_1069,Frank Ocean,Thinkin Bout You,R&B,5
-1070,user_1070,KK,Pal,Bollywood,5
-1071,user_1071,Fleetwood Mac,Dreams,Rock,5
-1072,user_1072,Lady Gaga,Bad Romance,Pop,4
-1073,user_1073,Atif Aslam,Tera Hone Laga Hoon,Bollywood,4
-1074,user_1074,2Pac,Changes,Hip Hop,5
-1075,user_1075,Vampire Weekend,A-Punk,Indie,4
-1001,user_1001,Queen,Bohemian Rhapsody,Rock,5
-1002,user_1002,Pritam,Kesariya,Bollywood,4
-1003,user_1003,Dua Lipa,Don't Start Now,Pop,3
-1004,user_1004,Arijit Singh,Tum Hi Ho,Bollywood,5
-1005,user_1005,Nirvana,Smells Like Teen Spirit,Rock,5
-1006,user_1006,The Weeknd,Blinding Lights,Pop,4
-1007,user_1007,AP Dhillon,"Brown Munde",Punjabi,4
-1008,user_1008,Led Zeppelin,Stairway to Heaven,Rock,5
-1009,user_1009,Ed Sheeran,Shape of You,Pop,4
-1010,user_1010,Shreya Ghoshal,Ghoomar,Bollywood,5
-1011,user_1011,Arctic Monkeys,Do I Wanna Know?,Rock,5
-1012,user_1012,Sidhu Moose Wala,295,Punjabi,5
-1013,user_1013,Taylor Swift,Blank Space,Pop,5
-1014,user_1014,A.R. Rahman,Jai Ho,Bollywood,4
-1015,user_1015,Drake,God's Plan,Hip Hop,3
-1016,user_1016,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
-1017,user_1017,Coldplay,Yellow,Alternative,4
-1018,user_1018,Guru Randhawa,Lahore,Punjabi,3
-1019,user_1019,Eminem,Lose Yourself,Hip Hop,5
-1020,user_1020,Justin Bieber,Sorry,Pop,2
-1021,user_1021,Diljit Dosanjh,Lover,Punjabi,5
-1022,user_1022,Lata Mangeshkar,Lag Ja Gale,Bollywood,5
-1023,user_1023,Imagine Dragons,Believer,Rock,4
-1024,user_1024,Kendrick Lamar,HUMBLE.,Hip Hop,5
-1025,user_1025,Sunidhi Chauhan,Sheila Ki Jawani,Bollywood,3
-1026,user_1026,Pink Floyd,"Comfortably Numb",Rock,5
-1027,user_1027,Billie Eilish,bad guy,Pop,3
-1028,user_1028,Vishal-Shekhar,Swag Se Swagat,Bollywood,3
-1029,user_1029,Harry Styles,As It Was,Pop,4
-1030,user_1030,J. Cole,No Role Modelz,Hip Hop,5
-1031,user_1031,Neha Kakkar,Kala Chashma,Bollywood,2
-1032,user_1032,Guns N' Roses,"Sweet Child O' Mine",Rock,5
-1033,user_1033,Tame Impala,The Less I Know The Better,Alternative,5
-1034,user_1034,Post Malone,Circles,Pop,4
-1035,user_1035,Kanye West,Stronger,Hip Hop,4
-1036,user_1036,Badshah,DJ Waley Babu,Bollywood,2
-1037,user_1037,The Strokes,Last Nite,Alternative,4
-1038,user_1038,AC/DC,Back In Black,Rock,5
-1039,user_1039,Harrdy Sandhu,Bijlee Bijlee,Punjabi,4
-1040,user_1040,Adele,Rolling in the Deep,Pop,5
-1041,user_1041,Cardi B,Bodak Yellow,Hip Hop,4
-1042,user_1042,Florence + The Machine,Dog Days Are Over,Alternative,5
-1043,user_1043,Shankar-Ehsaan-Loy,Mitwa,Bollywood,5
-1044,user_1044,Red Hot Chili Peppers,Californication,Rock,4
-1045,user_1045,Ariana Grande,thank u, next,Pop,3
-1046,user_1046,Karan Aujla,Chitta Kurta,Punjabi,4
-1047,user_1047,Rihanna,Umbrella,Pop,4
-1048,user_1048,Metallica,Enter Sandman,Rock,5
-1049,user_1049,Sonu Nigam,Kal Ho Naa Ho,Bollywood,5
-1050,user_1050,Bad Bunny,DÁKITI,Latin,4
-1051,user_1051,Linkin Park,In the End,Rock,5
-1052,user_1052,Jubin Nautiyal,Raataan Lambiyan,Bollywood,4
-1053,user_1053,Olivia Rodrigo,good 4 u,Pop,4
-1054,user_1054,Foo Fighters,Everlong,Rock,5
-1055,user_1055,Udit Narayan,Pehla Nasha,Bollywood,5
-1056,user_1056,Travis Scott,SICKO MODE,Hip Hop,4
-1057,user_1057,The Killers,Mr. Brightside,Rock,5
-1058,user_1058,Honey Singh,Lungi Dance,Bollywood,2
-1059,user_1059,Mohammed Rafi,Kya Hua Tera Wada,Bollywood,5
-1060,user_1060,Beyoncé,Crazy in Love,R&B,4
-1061,user_1061,Radiohead,Creep,Alternative,5
-1062,user_1062,Jay-Z,99 Problems,Hip Hop,4
-1063,user_1063,Michael Jackson,Billie Jean,Pop,5
-1064,user_1064,Mohit Chauhan,Tum Se Hi,Bollywood,5
-1065,user_1065,Kumar Sanu,Tujhe Dekha To,Bollywood,5
-1066,user_1066,Oasis,Wonderwall,Rock,5
-1067,user_1067,Britney Spears,Toxic,Pop,3
-1068,user_1068,Frank Ocean,Thinkin Bout You,R&B,5
-1069,user_1069,Shubh,We Rollin,Punjabi,4
-1070,user_1070,Fleetwood Mac,Dreams,Rock,5
-1071,user_1071,KK,Pal,Bollywood,5
-1072,user_1072,Atif Aslam,Tera Hone Laga Hoon,Bollywood,4
-1073,user_1073,Lady Gaga,Bad Romance,Pop,4
-1074,user_1074,Vampire Weekend,A-Punk,Indie,4
-1075,user_1075,2Pac,Changes,Hip Hop,5
-1076,user_1076,Arijit Singh,Phir Le Aya Dil,Bollywood,5
-1077,user_1077,Ed Sheeran,Castle on the Hill,Pop,4
-1078,user_1078,The Doors,Light My Fire,Rock,5
-1079,user_1079,Diljit Dosanjh,Sauda Khara Khara,Punjabi,4
-1080,user_1080,The Weeknd,Can't Feel My Face,Pop,4
-1001,user_1001,Coldplay,The Scientist,Alternative,5
-1002,user_1002,Arctic Monkeys,R U Mine?,Rock,5
-1003,user_1003,Eminem,Not Afraid,Hip Hop,4
-1004,user_1004,Guru Randhawa,High Rated Gabru,Punjabi,3
-1005,user_1005,Justin Bieber,Peaches,Pop,4
-1006,user_1006,Lata Mangeshkar,Ajeeb Dastan Hai Yeh,Bollywood,5
-1007,user_1007,Imagine Dragons,Radioactive,Rock,4
-1008,user_1008,Billie Eilish,ocean eyes,Pop,4
-1009,user_1009,Diljit Dosanjh,G.O.A.T.,Punjabi,5
-1010,user_1010,Kendrick Lamar,Alright,Hip Hop,5
-1011,user_1011,Sunidhi Chauhan,Kamli,Bollywood,4
-1012,user_1012,Pink Floyd,Another Brick in the Wall,Rock,5
-1013,user_1013,Harry Styles,Watermelon Sugar,Pop,4
-1014,user_1014,Kanye West,Gold Digger,Hip Hop,4
-1015,user_1015,Vishal-Shekhar,Balam Pichkari,Bollywood,4
-1016,user_1016,Post Malone,Sunflower,Pop,4
-1017,user_1017,J. Cole,MIDDLE CHILD,Hip Hop,5
-1018,user_1018,Guns N' Roses,"November Rain",Rock,5
-1019,user_1019,Neha Kakkar,Dilbar,Bollywood,2
-1020,user_1020,AC/DC,Highway to Hell,Rock,5
-1021,user_1021,Tame Impala,Feels Like We Only Go Backwards,Alternative,5
-1022,user_1022,Harrdy Sandhu,Kya Baat Ay,Punjabi,4
-1023,user_1023,Adele,Someone Like You,Pop,5
-1024,user_1024,Badshah,Kar Gayi Chull,Bollywood,3
-1025,user_1025,The Strokes,Someday,Alternative,4
-1026,user_1026,Rihanna,Disturbia,Pop,4
-1027,user_1027,Metallica,"Master of Puppets",Rock,5
-1028,user_1028,Sonu Nigam,Abhi Mujh Mein Kahin,Bollywood,5
-1029,user_1029,Cardi B,I Like It,Hip Hop,4
-1030,user_1030,Bad Bunny,Yo Perreo Sola,Latin,4
-1031,user_1031,Florence + The Machine,Shake It Out,Alternative,5
-1032,user_1032,Shankar-Ehsaan-Loy,Kajra Re,Bollywood,4
-1033,user_1033,Red Hot Chili Peppers,Under the Bridge,Rock,5
-1034,user_1034,Ariana Grande,7 rings,Pop,3
-1035,user_1035,Karan Aujla,Don't Look,Punjabi,4
-1036,user_1036,Linkin Park,In the End,Rock,5
-1037,user_1037,Udit Narayan,Pehla Nasha,Bollywood,5
-1038,user_1038,Olivia Rodrigo,good 4 u,Pop,4
-1039,user_1039,Travis Scott,SICKO MODE,Hip Hop,4
-1040,user_1040,Jubin Nautiyal,Raataan Lambiyan,Bollywood,4
-1041,user_1041,Foo Fighters,Everlong,Rock,5
-1042,user_1042,Mohammed Rafi,Kya Hua Tera Wada,Bollywood,5
-1043,user_1043,The Killers,Mr. Brightside,Rock,5
-1044,user_1044,Beyoncé,Crazy in Love,R&B,4
-1045,user_1045,Honey Singh,Lungi Dance,Bollywood,2
-1046,user_1046,Michael Jackson,Billie Jean,Pop,5
-1047,user_1047,Radiohead,Creep,Alternative,5
-1048,user_1048,Kumar Sanu,Tujhe Dekha To,Bollywood,5
-1049,user_1049,Jay-Z,99 Problems,Hip Hop,4
-1050,user_1050,Britney Spears,Toxic,Pop,3
-1051,user_1051,Mohit Chauhan,Tum Se Hi,Bollywood,5
-1052,user_1052,Oasis,Wonderwall,Rock,5
-1053,user_1053,Shubh,We Rollin,Punjabi,4
-1054,user_1054,Frank Ocean,Thinkin Bout You,R&B,5
-1055,user_1055,KK,Pal,Bollywood,5
-1056,user_1056,Fleetwood Mac,Dreams,Rock,5
-1057,user_1057,Lady Gaga,Bad Romance,Pop,4
-1058,user_1058,Atif Aslam,Tera Hone Laga Hoon,Bollywood,4
-1059,user_1059,2Pac,Changes,Hip Hop,5
-1060,user_1060,Vampire Weekend,A-Punk,Indie,4
-1081,user_1081,Arijit Singh,Tum Hi Ho,Bollywood,4
-1082,user_1082,Ed Sheeran,Shape of You,Pop,5
-1083,user_1083,Queen,Bohemian Rhapsody,Rock,5
-1084,user_1084,Sidhu Moose Wala,295,Punjabi,4
-1085,user_1085,The Weeknd,Blinding Lights,Pop,5
-1086,user_1086,Led Zeppelin,Stairway to Heaven,Rock,5
-1087,user_1087,A.R. Rahman,Jai Ho,Bollywood,3
-1088,user_1088,Dua Lipa,Don't Start Now,Pop,4
-1089,user_1089,Nirvana,Smells Like Teen Spirit,Rock,5
-1090,user_1090,AP Dhillon,"Brown Munde",Punjabi,5
-1091,user_1091,Taylor Swift,Blank Space,Pop,4
-1092,user_1092,Pritam,Kesariya,Bollywood,5
-1093,user_1093,Arctic Monkeys,Do I Wanna Know?,Rock,5
-1094,user_1094,Drake,God's Plan,Hip Hop,2
-1095,user_1095,Shreya Ghoshal,Ghoomar,Bollywood,5
-1096,user_1096,Coldplay,Yellow,Alternative,5
-1097,user_1097,Justin Bieber,Sorry,Pop,3
-1098,user_1098,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
-1099,user_1099,Eminem,Lose Yourself,Hip Hop,5
-1100,user_1100,Guru Randhawa,Lahore,Punjabi,4
-1081,user_1081,Ed Sheeran,Perfect,Pop,5
-1082,user_1082,Arijit Singh,Channa Mereya,Bollywood,4
-1083,user_1083,The Beatles,Hey Jude,Rock,5
-1084,user_1084,Dua Lipa,Levitating,Pop,4
-1085,user_1085,AP Dhillon,Excuses,Punjabi,5
-1086,user_1086,Nirvana,Come As You Are,Rock,4
-1087,user_1087,Pritam,Gerua,Bollywood,5
-1088,user_1088,The Weeknd,Save Your Tears,Pop,5
-1089,user_1089,Led Zeppelin,Black Dog,Rock,5
-1090,user_1090,Sidhu Moose Wala,So High,Punjabi,4
-1091,user_1091,A.R. Rahman,Maa Tujhe Salaam,Bollywood,5
-1092,user_1092,Queen,Another One Bites the Dust,Rock,4
-1093,user_1093,Taylor Swift,Love Story,Pop,5
-1094,user_1094,Shreya Ghoshal,Deewani Mastani,Bollywood,5
-1095,user_1095,Drake,In My Feelings,Hip Hop,3
-1096,user_1096,Arctic Monkeys,R U Mine?,Rock,5
-1097,user_1097,Guru Randhawa,High Rated Gabru,Punjabi,4
-1098,user_1098,Eminem,Not Afraid,Hip Hop,5
-1099,user_1099,Coldplay,Viva La Vida,Alternative,5
-1100,user_1100,Justin Bieber,Peaches,Pop,4
-1021,user_1021,The Killers,Somebody Told Me,Rock,4
-1022,user_1022,KK,Tadap Tadap Ke,Bollywood,5
-1023,user_1023,Frank Ocean,Novacane,R&B,4
-1024,user_1024,Shubh,No Love,Punjabi,5
-1025,user_1025,Jay-Z,Empire State of Mind,Hip Hop,5
-1026,user_1026,Britney Spears,...Baby One More Time,Pop,3
-1027,user_1027,Oasis,Don't Look Back In Anger,Rock,5
-1028,user_1028,Mohit Chauhan,Sadda Haq,Bollywood,5
-1029,user_1029,2Pac,California Love,Hip Hop,5
-1030,user_1030,Lady Gaga,Poker Face,Pop,4
-1031,user_1031,Atif Aslam,Pehli Nazar Mein,Bollywood,4
-1032,user_1032,Fleetwood Mac,Go Your Own Way,Rock,5
-1033,user_1033,Vampire Weekend,Diane Young,Indie,4
-1034,user_1034,Kumar Sanu,Ek Ladki Ko Dekha Toh,Bollywood,5
-1035,user_1035,Radiohead,Karma Police,Alternative,5
-1036,user_1036,Michael Jackson,Thriller,Pop,5
-1037,user_1037,Honey Singh,Dope Shope,Punjabi,3
-1038,user_1038,Beyoncé,Single Ladies,R&B,4
-1039,user_1039,Mohammed Rafi,Chura Liya Hai Tumne Jo Dil Ko,Bollywood,5
-1040,user_1040,The Killers,When You Were Young,Rock,5
-1041,user_1041,Foo Fighters,The Pretender,Rock,5
-1042,user_1042,Travis Scott,goosebumps,Hip Hop,4
-1043,user_1043,Udit Narayan,Papa Kehte Hain,Bollywood,5
-1044,user_1044,Olivia Rodrigo,drivers license,Pop,4
-1045,user_1045,Jubin Nautiyal,Lut Gaye,Bollywood,3
-1046,user_1046,Linkin Park,Numb,Rock,5
-1047,user_1047,Bad Bunny,Safaera,Latin,4
-1048,user_1048,Sonu Nigam,Tanhayee,Bollywood,5
-1049,user_1049,Metallica,Nothing Else Matters,Rock,5
-1050,user_1050,Rihanna,Don't Stop The Music,Pop,4
-1051,user_1051,Karan Aujla,Mexico,Punjabi,4
-1052,user_1052,Ariana Grande,Into You,Pop,3
-1053,user_1053,Red Hot Chili Peppers,Scar Tissue,Rock,4
-1054,user_1054,Shankar-Ehsaan-Loy,Dil Chahta Hai,Bollywood,5
-1055,user_1055,Florence + The Machine,You've Got The Love,Alternative,5
-1056,user_1056,Cardi B,WAP,Hip Hop,2
-1057,user_1057,The Strokes,Reptilia,Alternative,5
-1058,user_1058,Badshah,Genda Phool,Bollywood,3
-1059,user_1059,Adele,Hello,Pop,5
-1060,user_1060,Harrdy Sandhu,Naah,Punjabi,4
-1061,user_1061,Tame Impala,Elephant,Alternative,4
-1062,user_1062,AC/DC,Thunderstruck,Rock,5
-1063,user_1063,Neha Kakkar,Garmi,Bollywood,2
-1064,user_1064,Kanye West,Heartless,Hip Hop,4
-1065,user_1065,Post Malone,rockstar,Pop,4
-1066,user_1066,Guns N' Roses,Welcome to the Jungle,Rock,5
-1067,user_1067,J. Cole,Wet Dreamz,Hip Hop,5
-1068,user_1068,Lata Mangeshkar,Tere Bina Zindagi Se,Bollywood,5
-1069,user_1069,Kendrick Lamar,DNA.,Hip Hop,5
-1070,user_1070,Billie Eilish,Happier Than Ever,Pop,4
-1071,user_1071,Sunidhi Chauhan,Dhoom Machale,Bollywood,4
-1072,user_1072,Imagine Dragons,Demons,Rock,4
-1073,user_1073,Harry Styles,Sign of the Times,Pop,5
-1074,user_1074,Pink Floyd,Wish You Were Here,Rock,5
-1075,user_1075,Diljit Dosanjh,Patiala Peg,Punjabi,4
-1076,user_1076,Vishal-Shekhar,Ghungroo,Bollywood,4
-1077,user_1077,The Doors,Riders on the Storm,Rock,5
-1078,user_1078,Ed Sheeran,Photograph,Pop,5
-1079,user_1079,Arijit Singh,Ae Dil Hai Mushkil,Bollywood,5
-1080,user_1080,The Weeknd,The Hills,Pop,4
-1101,user_1101,Arijit Singh,Tum Hi Ho,Bollywood,5
-1102,user_1102,Ed Sheeran,Shape of You,Pop,4
-1103,user_1103,Queen,Bohemian Rhapsody,Rock,5
-1104,user_1104,Sidhu Moose Wala,295,Punjabi,5
-1105,user_1105,The Weeknd,Blinding Lights,Pop,4
-1106,user_1106,Led Zeppelin,Stairway to Heaven,Rock,5
-1107,user_1107,A.R. Rahman,Jai Ho,Bollywood,4
-1108,user_1108,Dua Lipa,Don't Start Now,Pop,3
-1109,user_1109,Nirvana,Smells Like Teen Spirit,Rock,5
-1110,user_1110,AP Dhillon,"Brown Munde",Punjabi,4
-1111,user_1111,Taylor Swift,Blank Space,Pop,5
-1112,user_1112,Pritam,Kesariya,Bollywood,4
-1113,user_1113,Arctic Monkeys,Do I Wanna Know?,Rock,5
-1114,user_1114,Drake,God's Plan,Hip Hop,3
-1115,user_1115,Shreya Ghoshal,Ghoomar,Bollywood,5
-1116,user_1116,Coldplay,Yellow,Alternative,4
-1117,user_1117,Justin Bieber,Sorry,Pop,2
-1118,user_1118,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5
-1119,user_1119,Eminem,Lose Yourself,Hip Hop,5
-1120,user_1120,Guru Randhawa,Lahore,Punjabi,3
-1001,user_1001,The Doors,Break On Through,Rock,5
-1002,user_1002,Arijit Singh,Phir Mohabbat,Bollywood,5
-1003,user_1003,The Weeknd,Save Your Tears,Pop,4
-1004,user_1004,Diljit Dosanjh,Clash,Punjabi,4
-1005,user_1005,Ed Sheeran,Galway Girl,Pop,4
-1006,user_1006,Vishal-Shekhar,Jhoome Jo Pathaan,Bollywood,3
-1007,user_1007,Pink Floyd,Time,Rock,5
-1008,user_1008,Harry Styles,Adore You,Pop,4
-1009,user_1009,Imagine Dragons,Thunder,Rock,3
-1010,user_1010,Sunidhi Chauhan,Aaja Nachle,Bollywood,4
-1011,user_1011,J. Cole,ATM,Hip Hop,4
-1012,user_1012,Lata Mangeshkar,Tujhe Dekha To,Bollywood,5
-1013,user_1013,Kendrick Lamar,Money Trees,Hip Hop,5
-1014,user_1014,Billie Eilish,everything i wanted,Pop,4
-1015,user_1015,Guns N' Roses,Paradise City,Rock,5
-1016,user_1016,Kanye West,Flashing Lights,Hip Hop,5
-1017,user_1017,Neha Kakkar,O Saki Saki,Bollywood,2
-1018,user_1018,Post Malone,Congratulations,Pop,4
-1019,user_1019,AC/DC,You Shook Me All Night Long,Rock,5
-1020,user_1020,Tame Impala,Let It Happen,Alternative,5
-1021,user_1021,Harrdy Sandhu,Backbone,Punjabi,4
-1022,user_1022,Badshah,Paagal,Bollywood,2
-1023,user_1023,Adele,Set Fire to the Rain,Pop,5
-1024,user_1024,The Strokes,You Only Live Once,Alternative,4
-1025,user_1025,Metallica,One,Rock,5
-1026,user_1026,Rihanna,We Found Love,Pop,4
-1027,user_1027,Sonu Nigam,Main Agar Kahoon,Bollywood,5
-1028,user_1028,Bad Bunny,MIA,Latin,4
-1029,user_1029,Florence + The Machine,Cosmic Love,Alternative,5
-1030,user_1030,Cardi B,Money,Hip Hop,4
-1031,user_1031,Shankar-Ehsaan-Loy,Kal Ho Naa Ho,Bollywood,5
-1032,user_1032,Red Hot Chili Peppers,Otherside,Rock,4
-1033,user_1033,Ariana Grande,No Tears Left to Cry,Pop,4
-1034,user_1034,Karan Aujla,Hint,Punjabi,4
-1035,user_1035,Linkin Park,Crawling,Rock,5
-1036,user_1036,Udit Narayan,Dil To Pagal Hai,Bollywood,5
-1037,user_1037,Olivia Rodrigo,deja vu,Pop,4
-1038,user_1038,Travis Scott,BUTTERFLY EFFECT,Hip Hop,3
-1039,user_1039,Jubin Nautiyal,Tum Hi Aana,Bollywood,4
-1040,user_1040,Foo Fighters,Learn to Fly,Rock,5
-1041,user_1041,Mohammed Rafi,Gulabi Ankhen,Bollywood,5
-1042,user_1042,The Killers,Read My Mind,Rock,5
-1043,user_1043,Beyoncé,Formation,R&B,5
-1044,user_1044,Honey Singh,Blue Eyes,Bollywood,2
-1045,user_1045,Michael Jackson,Smooth Criminal,Pop,5
-1046,user_1046,Radiohead,No Surprises,Alternative,5
-1047,user_1047,Kumar Sanu,Chura Ke Dil Mera,Bollywood,4
-1048,user_1048,Jay-Z,Niggas in Paris,Hip Hop,5
-1049,user_1049,Britney Spears,Gimme More,Pop,3
-1050,user_1050,Mohit Chauhan,Pee Loon,Bollywood,5
-1051,user_1051,Oasis,Champagne Supernova,Rock,5
-1052,user_1052,Shubh,Elevated,Punjabi,4
-1053,user_1053,Frank Ocean,Pyramids,R&B,5
-1054,user_1054,KK,Aankhon Mein Teri,Bollywood,5
-1055,user_1055,Fleetwood Mac,The Chain,Rock,5
-1056,user_1056,Lady Gaga,Just Dance,Pop,4
-1057,user_1057,Atif Aslam,Tu Jaane Na,Bollywood,5
-1058,user_1058,2Pac,Dear Mama,Hip Hop,5
-1059,user_1059,Vampire Weekend,Cousins,Indie,4
-1060,user_1060,Arijit Singh,Bekhayali,Bollywood,5
-
-
+userID,userName,songID,artist,songName,genre,rating,timestamp
+1,Olivia,101,Arijit Singh,Channa Mereya,Bollywood,5,2025-01-15T10:00:00Z
+2,Liam,102,Ed Sheeran,Shape of You,Pop,4,2025-01-15T10:05:00Z
+3,Emma,103,Taylor Swift,Blank Space,Pop,5,2025-01-15T10:10:00Z
+4,Noah,104,Coldplay,Yellow,Alternative,4,2025-01-15T10:15:00Z
+5,Ava,105,Queen,Bohemian Rhapsody,Rock,5,2025-01-15T10:20:00Z
+6,William,106,Drake,God's Plan,Hip Hop,3,2025-01-15T10:25:00Z
+7,Sophia,107,Beyonce,Crazy in Love,R&B,5,2025-01-15T10:30:00Z
+8,James,108,Nirvana,Smells Like Teen Spirit,Grunge,4,2025-01-15T10:35:00Z
+9,Isabella,109,Adele,Someone Like You,Soul,5,2025-01-15T10:40:00Z
+10,Oliver,110,Michael Jackson,Billie Jean,Pop,5,2025-01-15T10:45:00Z
+11,Charlotte,111,The Beatles,Hey Jude,Rock,5,2025-01-15T10:50:00Z
+12,Benjamin,112,Eminem,Lose Yourself,Hip Hop,5,2025-01-15T10:55:00Z
+13,Amelia,113,Led Zeppelin,Stairway to Heaven,Rock,5,2025-01-15T11:00:00Z
+14,Elijah,114,Bob Marley,No Woman, No Cry,Reggae,4,2025-01-15T11:05:00Z
+15,Mia,115,Rihanna,Umbrella,R&B,4,2025-01-15T11:10:00Z
+16,Lucas,116,U2,With or Without You,Rock,4,2025-01-15T11:15:00Z
+17,Harper,117,Katy Perry,Firework,Pop,3,2025-01-15T11:20:00Z
+18,Henry,118,Red Hot Chili Peppers,Californication,Alternative,5,2025-01-15T11:25:00Z
+19,Evelyn,119,Justin Bieber,Sorry,Pop,2,2025-01-15T11:30:00Z
+20,Alexander,120,Kendrick Lamar,HUMBLE.,Hip Hop,5,2025-01-15T11:35:00Z
+1,Olivia,104,Coldplay,Yellow,Alternative,5,2025-01-16T12:00:00Z
+2,Liam,105,Queen,Bohemian Rhapsody,Rock,5,2025-01-16T12:05:00Z
+3,Emma,101,Arijit Singh,Channa Mereya,Bollywood,4,2025-01-16T12:10:00Z
+4,Noah,102,Ed Sheeran,Shape of You,Pop,3,2025-01-16T12:15:00Z
+5,Ava,112,Eminem,Lose Yourself,Hip Hop,5,2025-01-16T12:20:00Z
+6,William,110,Michael Jackson,Billie Jean,Pop,4,2025-01-16T12:25:00Z
+7,Sophia,118,Red Hot Chili Peppers,Californication,Alternative,5,2025-01-16T12:30:00Z
+8,James,103,Taylor Swift,Blank Space,Pop,3,2025-01-16T12:35:00Z
+9,Isabella,120,Kendrick Lamar,HUMBLE.,Hip Hop,5,2025-01-16T12:40:00Z
+10,Oliver,107,Beyonce,Crazy in Love,R&B,4,2025-01-16T12:45:00Z
+21,Abigail,121,Dua Lipa,Don't Start Now,Pop,5,2025-01-17T09:00:00Z
+22,Daniel,122,The Weeknd,Blinding Lights,Synth-pop,5,2025-01-17T09:05:00Z
+23,Emily,123,Post Malone,Circles,Pop Rock,4,2025-01-17T09:10:00Z
+24,Matthew,124,Billie Eilish,bad guy,Pop,4,2025-01-17T09:15:00Z
+25,Madison,125,Lizzo,Truth Hurts,Hip Hop,5,2025-01-17T09:20:00Z
+26,Aiden,126,Ariana Grande,7 rings,Pop,3,2025-01-17T09:25:00Z
+27,Chloe,127,Imagine Dragons,Believer,Alternative Rock,4,2025-01-17T09:30:00Z
+28,Joseph,128,Maroon 5,Memories,Pop,3,2025-01-17T09:35:00Z
+29,Grace,129,Shawn Mendes,Señorita,Pop,4,2025-01-17T09:40:00Z
+30,David,130,Halsey,Without Me,Pop,4,2025-01-17T09:45:00Z
+31,Victoria,131,Jonas Brothers,Sucker,Pop,3,2025-01-18T14:00:00Z
+32,Samuel,132,Cardi B,I Like It,Hip Hop,5,2025-01-18T14:05:00Z
+33,Riley,133,Travis Scott,SICKO MODE,Hip Hop,4,2025-01-18T14:10:00Z
+34,Zoey,134,Panic! At The Disco,High Hopes,Pop Rock,4,2025-01-18T14:15:00Z
+35,Andrew,135,Khalid,Talk,R&B,5,2025-01-18T14:20:00Z
+36,Penelope,136,Sam Smith,Dancing With A Stranger,Pop,4,2025-01-18T14:25:00Z
+37,Joshua,137,Camila Cabello,Havana,Pop,4,2025-01-18T14:30:00Z
+38,Lillian,138,5 Seconds of Summer,Youngblood,Pop Rock,3,2025-01-18T14:35:00Z
+39,Gabriel,139,Bad Bunny,MIA,Reggaeton,5,2025-01-18T14:40:00Z
+40,Nora,140,J Balvin,Mi Gente,Reggaeton,5,2025-01-18T14:45:00Z
+41,Christopher,141,Harry Styles,Watermelon Sugar,Pop,5,2025-01-19T11:00:00Z
+42,Hannah,142,Lewis Capaldi,Someone You Loved,Pop,4,2025-01-19T11:05:00Z
+43,Anthony,143,Lil Nas X,Old Town Road,Country Rap,5,2025-01-19T11:10:00Z
+44,Addison,144,DaBaby,Suge,Hip Hop,4,2025-01-19T11:15:00Z
+45,Isaac,145,Roddy Ricch,The Box,Hip Hop,5,2025-01-19T11:20:00Z
+46,Stella,146,Megan Thee Stallion,Savage,Hip Hop,5,2025-01-19T11:25:00Z
+47,Nathan,147,Doja Cat,Say So,Pop,4,2025-01-19T11:30:00Z
+48,Leah,148,Justin Timberlake,Can't Stop the Feeling!,Pop,3,2025-01-19T11:35:00Z
+49,Ryan,149,Pharrell Williams,Happy,Pop,4,2025-01-19T11:40:00Z
+50,Audrey,150,Bruno Mars,Uptown Funk,Funk,5,2025-01-19T11:45:00Z
+1,Olivia,122,The Weeknd,Blinding Lights,Synth-pop,4,2025-01-20T18:00:00Z
+2,Liam,135,Khalid,Talk,R&B,5,2025-01-20T18:05:00Z
+3,Emma,141,Harry Styles,Watermelon Sugar,Pop,5,2025-01-20T18:10:00Z
+4,Noah,150,Bruno Mars,Uptown Funk,Funk,5,2025-01-20T18:15:00Z
+5,Ava,124,Billie Eilish,bad guy,Pop,3,2025-01-20T18:20:00Z
+6,William,129,Shawn Mendes,Señorita,Pop,4,2025-01-20T18:25:00Z
+7,Sophia,101,Arijit Singh,Channa Mereya,Bollywood,5,2025-01-20T18:30:00Z
+8,James,143,Lil Nas X,Old Town Road,Country Rap,4,2025-01-20T18:35:00Z
+9,Isabella,102,Ed Sheeran,Shape of You,Pop,4,2025-01-20T18:40:00Z
+10,Oliver,149,Pharrell Williams,Happy,Pop,3,2025-01-20T18:45:00Z
+51,Brooklyn,151,AC/DC,Back in Black,Hard Rock,5,2025-01-21T10:00:00Z
+52,Christian,152,Guns N' Roses,Sweet Child O' Mine,Hard Rock,5,2025-01-21T10:05:00Z
+53,Claire,153,Metallica,Enter Sandman,Heavy Metal,4,2025-01-21T10:10:00Z
+54,Caleb,154,Black Sabbath,Paranoid,Heavy Metal,4,2025-01-21T10:15:00Z
+55,Eleanor,155,The Rolling Stones,Paint It, Black,Rock,5,2025-01-21T10:20:00Z
+56,Dylan,156,Aerosmith,Dream On,Rock,4,2025-01-21T10:25:00Z
+57,Bella,157,Pink Floyd,Another Brick in the Wall, Pt. 2,Progressive Rock,5,2025-01-21T10:30:00Z
+58,Connor,158,The Who,Baba O'Riley,Rock,4,2025-01-21T10:35:00Z
+59,Samantha,159,Eagles,Hotel California,Rock,5,2025-01-21T10:40:00Z
+60,Isaiah,160,Journey,Don't Stop Believin',Rock,5,2025-01-21T10:45:00Z
+61,Scarlett,161,Bon Jovi,Livin' on a Prayer,Glam Metal,5,2025-01-22T13:00:00Z
+62,Jeremiah,162,Def Leppard,Pour Some Sugar on Me,Glam Metal,4,2025-01-22T13:05:00Z
+63,Lily,163,Van Halen,Jump,Hard Rock,4,2025-01-22T13:10:00Z
+64,Hunter,164,ZZ Top,La Grange,Blues Rock,4,2025-01-22T13:15:00Z
+65,Paisley,165,Lynyrd Skynyrd,Sweet Home Alabama,Southern Rock,5,2025-01-22T13:20:00Z
+66,Jordan,166,Creedence Clearwater Revival,Fortunate Son,Roots Rock,5,2025-01-22T13:25:00Z
+67,Camila,167,Jimi Hendrix,All Along the Watchtower,Psychedelic Rock,5,2025-01-22T13:30:00Z
+68,Levi,168,The Doors,Light My Fire,Psychedelic Rock,4,2025-01-22T13:35:00Z
+69,Ariana,169,Janis Joplin,Piece of My Heart,Blues Rock,4,2025-01-22T13:40:00Z
+70,Julian,170,Stevie Ray Vaughan,Pride and Joy,Blues,5,2025-01-22T13:45:00Z
+71,Gianna,171,B.B. King,The Thrill Is Gone,Blues,5,2025-01-23T16:00:00Z
+72,Aaron,172,Muddy Waters,Mannish Boy,Blues,4,2025-01-23T16:05:00Z
+73,Skylar,173,John Lee Hooker,Boom Boom,Blues,4,2025-01-23T16:10:00Z
+74,Eli,174,Howlin' Wolf,Smokestack Lightnin',Blues,4,2025-01-23T16:15:00Z
+75,Violet,175,Robert Johnson,Cross Road Blues,Delta Blues,5,2025-01-23T16:20:00Z
+76,Landon,176,Frank Sinatra,My Way,Traditional Pop,5,2025-01-23T16:25:00Z
+77,Aurora,177,Elvis Presley,Jailhouse Rock,Rock and Roll,5,2025-01-23T16:30:00Z
+78,Wyatt,178,Johnny Cash,Hurt,Country,5,2025-01-23T16:35:00Z
+79,Hazel,179,Dolly Parton,Jolene,Country,5,2025-01-23T16:40:00Z
+80,Charles,180,Willie Nelson,On the Road Again,Country,4,2025-01-23T16:45:00Z
+81,Natalie,181,Patsy Cline,Crazy,Country,5,2025-01-24T09:00:00Z
+82,Thomas,182,Hank Williams,I'm So Lonesome I Could Cry,Country,5,2025-01-24T09:05:00Z
+83,Penelope,183,George Strait,Amarillo by Morning,Country,4,2025-01-24T09:10:00Z
+84,Adrian,184,Garth Brooks,The Dance,Country,5,2025-01-24T09:15:00Z
+85,Ellie,185,Shania Twain,Man! I Feel Like a Woman!,Country Pop,4,2025-01-24T09:20:00Z
+86,Robert,186,Alan Jackson,Chattahoochee,Country,4,2025-01-24T09:25:00Z
+87,Hailey,187,Tim McGraw,Live Like You Were Dying,Country,5,2025-01-24T09:30:00Z
+88,Jaxon,188,Kenny Chesney,The Good Stuff,Country,4,2025-01-24T09:35:00Z
+89,Madelyn,189,Carrie Underwood,Before He Cheats,Country Pop,5,2025-01-24T09:40:00Z
+90,Cameron,190,Luke Bryan,Country Girl (Shake It for Me),Country,3,2025-01-24T09:45:00Z
+91,Aubrey,191,Florida Georgia Line,Cruise,Country Pop,3,2025-01-25T11:00:00Z
+92,Kevin,192,Jason Aldean,Dirt Road Anthem,Country Rap,4,2025-01-25T11:05:00Z
+93,Kaylee,193,Blake Shelton,God's Country,Country,4,2025-01-25T11:10:00Z
+94,Leo,194,Darius Rucker,Wagon Wheel,Country,5,2025-01-25T11:15:00Z
+95,Aaliyah,195,Chris Stapleton,Tennessee Whiskey,Country,5,2025-01-25T11:20:00Z
+96,Ivan,196,Luke Combs,Beautiful Crazy,Country,5,2025-01-25T11:25:00Z
+97,Gabriella,197,Morgan Wallen,Whiskey Glasses,Country,4,2025-01-25T11:30:00Z
+98,Miles,198,Sam Hunt,Body Like a Back Road,Country Pop,3,2025-01-25T11:35:00Z
+99,Genesis,199,Dan + Shay,Tequila,Country Pop,4,2025-01-25T11:40:00Z
+100,Alex,200,Maren Morris,The Bones,Country Pop,5,2025-01-25T11:45:00Z
+1,Olivia,200,Maren Morris,The Bones,Country Pop,4,2025-02-01T10:00:00Z
+2,Liam,195,Chris Stapleton,Tennessee Whiskey,Country,5,2025-02-01T10:05:00Z
+3,Emma,194,Darius Rucker,Wagon Wheel,Country,5,2025-02-01T10:10:00Z
+4,Noah,189,Carrie Underwood,Before He Cheats,Country Pop,4,2025-02-01T10:15:00Z
+5,Ava,178,Johnny Cash,Hurt,Country,5,2025-02-01T10:20:00Z
+6,William,185,Shania Twain,Man! I Feel Like a Woman!,Country Pop,3,2025-02-01T10:25:00Z
+7,Sophia,177,Elvis Presley,Jailhouse Rock,Rock and Roll,5,2025-02-01T10:30:00Z
+8,James,170,Stevie Ray Vaughan,Pride and Joy,Blues,4,2025-02-01T10:35:00Z
+9,Isabella,165,Lynyrd Skynyrd,Sweet Home Alabama,Southern Rock,5,2025-02-01T10:40:00Z
+10,Oliver,160,Journey,Don't Stop Believin',Rock,5,2025-02-01T10:45:00Z
+11,Charlotte,157,Pink Floyd,Another Brick in the Wall, Pt. 2,Progressive Rock,4,2025-02-02T12:00:00Z
+12,Benjamin,152,Guns N' Roses,Sweet Child O' Mine,Hard Rock,5,2025-02-02T12:05:00Z
+13,Amelia,151,AC/DC,Back in Black,Hard Rock,5,2025-02-02T12:10:00Z
+14,Elijah,141,Harry Styles,Watermelon Sugar,Pop,4,2025-02-02T12:15:00Z
+15,Mia,132,Cardi B,I Like It,Hip Hop,4,2025-02-02T12:20:00Z
+16,Lucas,127,Imagine Dragons,Believer,Alternative Rock,3,2025-02-02T12:25:00Z
+17,Harper,122,The Weeknd,Blinding Lights,Synth-pop,5,2025-02-02T12:30:00Z
+18,Henry,111,The Beatles,Hey Jude,Rock,5,2025-02-02T12:35:00Z
+19,Evelyn,106,Drake,God's Plan,Hip Hop,2,2025-02-02T12:40:00Z
+20,Alexander,101,Arijit Singh,Channa Mereya,Bollywood,4,2025-02-02T12:45:00Z
+101,Alice,201,Daft Punk,Get Lucky,Funk,5,2025-02-10T11:00:00Z
+102,Bob,202,Tame Impala,The Less I Know The Better,Psychedelic Pop,5,2025-02-10T11:05:00Z
+103,Charlie,203,Arctic Monkeys,Do I Wanna Know?,Indie Rock,4,2025-02-10T11:10:00Z
+104,Diana,204,Florence + The Machine,Dog Days Are Over,Indie Pop,5,2025-02-10T11:15:00Z
+105,Eve,205,The Killers,Mr. Brightside,Alternative Rock,5,2025-02-10T11:20:00Z
+106,Frank,206,Foo Fighters,Everlong,Alternative Rock,5,2025-02-10T11:25:00Z
+107,Grace,207,Radiohead,Creep,Alternative Rock,4,2025-02-10T11:30:00Z
+108,Heidi,208,Oasis,Wonderwall,Britpop,4,2025-02-10T11:35:00Z
+109,Ivan,209,Blur,Song 2,Alternative Rock,4,2025-02-10T11:40:00Z
+110,Judy,210,The Smashing Pumpkins,1979,Alternative Rock,5,2025-02-10T11:45:00Z
+111,Mallory,211,Weezer,Buddy Holly,Alternative Rock,4,2025-02-11T14:00:00Z
+112,Trent,212,Green Day,Basket Case,Punk Rock,4,2025-02-11T14:05:00Z
+113,Walter,213,The Offspring,Self Esteem,Punk Rock,4,2025-02-11T14:10:00Z
+114,Peggy,214,Blink-182,All the Small Things,Pop Punk,5,2025-02-11T14:15:00Z
+115,Victor,215,Sum 41,In Too Deep,Pop Punk,4,2025-02-11T14:20:00Z
+116,Wendy,216,My Chemical Romance,Welcome to the Black Parade,Emo,5,2025-02-11T14:25:00Z
+117,Xavier,217,Fall Out Boy,Sugar, We're Goin Down,Emo,5,2025-02-11T14:30:00Z
+118,Yvonne,218,Paramore,Misery Business,Emo,5,2025-02-11T14:35:00Z
+119,Zelda,219,Jimmy Eat World,The Middle,Alternative Rock,4,2025-02-11T14:40:00Z
+120,Aaron,220,Linkin Park,In the End,Nu Metal,5,2025-02-11T14:45:00Z
+121,Beth,221,System Of A Down,Chop Suey!,Nu Metal,5,2025-02-12T09:00:00Z
+122,Carl,222,Korn,Freak on a Leash,Nu Metal,4,2025-02-12T09:05:00Z
+123,Debra,223,Limp Bizkit,Break Stuff,Nu Metal,3,2025-02-12T09:10:00Z
+124,Edward,224,Rage Against The Machine,Killing in the Name,Rap Metal,5,2025-02-12T09:15:00Z
+125,Fiona,225,Audioslave,Like a Stone,Alternative Rock,5,2025-02-12T09:20:00Z
+126,George,226,Soundgarden,Black Hole Sun,Grunge,5,2025-02-12T09:25:00Z
+127,Helen,227,Pearl Jam,Jeremy,Grunge,4,2025-02-12T09:30:00Z
+128,Ian,228,Alice in Chains,Man in the Box,Grunge,4,2025-02-12T09:35:00Z
+129,Jane,229,Stone Temple Pilots,Plush,Grunge,4,2025-02-12T09:40:00Z
+130,Kyle,230,Temple of the Dog,Hunger Strike,Grunge,5,2025-02-12T09:45:00Z
+131,Laura,231,The Cranberries,Zombie,Alternative Rock,5,2025-02-13T16:00:00Z
+132,Mike,232,No Doubt,Don't Speak,Ska Punk,4,2025-02-13T16:05:00Z
+133,Nancy,233,Sublime,Santeria,Ska Punk,5,2025-02-13T16:10:00Z
+134,Oscar,234,Reel Big Fish,Sell Out,Ska Punk,4,2025-02-13T16:15:00Z
+135,Pam,235,Goldfinger,Superman,Ska Punk,4,2025-02-13T16:20:00Z
+136,Quentin,236,The Mighty Mighty Bosstones,The Impression That I Get,Ska Punk,4,2025-02-13T16:25:00Z
+137,Rita,237,Streetlight Manifesto,A Better Place, a Better Time,Ska Punk,5,2025-02-13T16:30:00Z
+138,Steve,238,Less Than Jake,All My Best Friends Are Metalheads,Ska Punk,4,2025-02-13T16:35:00Z
+139,Tina,239,Madness,Our House,Ska,4,2025-02-13T16:40:00Z
+140,Ulysses,240,The Specials,A Message to You Rudy,Ska,5,2025-02-13T16:45:00Z
+141,Vera,241,Bob Dylan,Like a Rolling Stone,Folk Rock,5,2025-02-14T18:00:00Z
+142,Will,242,Simon & Garfunkel,The Sound of Silence,Folk Rock,5,2025-02-14T18:05:00Z
+143,Xena,243,The Byrds,Mr. Tambourine Man,Folk Rock,4,2025-02-14T18:10:00Z
+144,Yosef,244,Crosby, Stills, Nash & Young,Ohio,Folk Rock,5,2025-02-14T18:15:00Z
+145,Zara,245,Joni Mitchell,Big Yellow Taxi,Folk,4,2025-02-14T18:20:00Z
+146,Adam,246,Neil Young,Heart of Gold,Folk Rock,5,2025-02-14T18:25:00Z
+147,Brenda,247,James Taylor,Fire and Rain,Folk,4,2025-02-14T18:30:00Z
+148,Charles,248,Carole King,You've Got a Friend,Singer-Songwriter,5,2025-02-14T18:35:00Z
+149,Denise,249,Cat Stevens,Wild World,Folk,4,2025-02-14T18:40:00Z
+150,Eric,250,Don McLean,American Pie,Folk Rock,5,2025-02-14T18:45:00Z
+101,Alice,101,Arijit Singh,Channa Mereya,Bollywood,3,2025-02-15T10:00:00Z
+102,Bob,102,Ed Sheeran,Shape of You,Pop,5,2025-02-15T10:05:00Z
+103,Charlie,103,Taylor Swift,Blank Space,Pop,5,2025-02-15T10:10:00Z
+104,Diana,104,Coldplay,Yellow,Alternative,2,2025-02-15T10:15:00Z
+105,Eve,105,Queen,Bohemian Rhapsody,Rock,5,2025-02-15T10:20:00Z
+106,Frank,112,Eminem,Lose Yourself,Hip Hop,5,2025-02-15T10:25:00Z
+107,Grace,118,Red Hot Chili Peppers,Californication,Alternative,5,2025-02-15T10:30:00Z
+108,Heidi,120,Kendrick Lamar,HUMBLE.,Hip Hop,3,2025-02-15T10:35:00Z
+109,Ivan,122,The Weeknd,Blinding Lights,Synth-pop,4,2025-02-15T10:40:00Z
+110,Judy,135,Khalid,Talk,R&B,5,2025-02-15T10:45:00Z
+151,Fred,251,Tupac Shakur,Changes,Hip Hop,5,2025-03-01T09:00:00Z
+152,Gina,252,The Notorious B.I.G.,Juicy,Hip Hop,5,2025-03-01T09:05:00Z
+153,Harry,253,Nas,N.Y. State of Mind,Hip Hop,5,2025-03-01T09:10:00Z
+154,Irene,254,Jay-Z,99 Problems,Hip Hop,4,2025-03-01T09:15:00Z
+155,Jack,255,Kanye West,Stronger,Hip Hop,4,2025-03-01T09:20:00Z
+156,Karen,256,OutKast,Hey Ya!,Hip Hop,5,2025-03-01T09:25:00Z
+157,Larry,257,A Tribe Called Quest,Can I Kick It?,Hip Hop,5,2025-03-01T09:30:00Z
+158,Mona,258,Wu-Tang Clan,C.R.E.A.M.,Hip Hop,5,2025-03-01T09:35:00Z
+159,Ned,259,Dr. Dre,Nuthin' But A 'G' Thang,G-Funk,5,2025-03-01T09:40:00Z
+160,Olga,260,Snoop Dogg,Gin And Juice,G-Funk,5,2025-03-01T09:45:00Z
+161,Paul,261,N.W.A,Straight Outta Compton,Gangsta Rap,5,2025-03-02T11:00:00Z
+162,Rachel,262,Ice Cube,It Was A Good Day,G-Funk,5,2025-03-02T11:05:00Z
+163,Sam,263,Public Enemy,Fight The Power,Hip Hop,5,2025-03-02T11:10:00Z
+164,Tracy,264,Run-DMC,It's Tricky,Hip Hop,4,2025-03-02T11:15:00Z
+165,Ursula,265,Beastie Boys,Sabotage,Rap Rock,5,2025-03-02T11:20:00Z
+166,Vince,266,LL Cool J,Mama Said Knock You Out,Hip Hop,4,2025-03-02T11:25:00Z
+167,Wanda,267,Missy Elliott,Work It,Hip Hop,5,2025-03-02T11:30:00Z
+168,Xander,268,Lauryn Hill,Doo Wop (That Thing),Neo Soul,5,2025-03-02T11:35:00Z
+169,Yara,269,Fugees,Killing Me Softly With His Song,Hip Hop,5,2025-03-02T11:40:00Z
+170,Zack,270,Cypress Hill,Insane in the Brain,Hip Hop,4,2025-03-02T11:45:00Z
+171,Amy,271,Salt-N-Pepa,Push It,Hip Hop,4,2025-03-03T14:00:00Z
+172,Brian,272,Grandmaster Flash & The Furious Five,The Message,Hip Hop,5,2025-03-03T14:05:00Z
+173,Cindy,273,The Sugarhill Gang,Rapper's Delight,Hip Hop,5,2025-03-03T14:10:00Z
+174,Derek,274,Eric B. & Rakim,Paid in Full,Hip Hop,5,2025-03-03T14:15:00Z
+175,Elaine,275,Slick Rick,Children's Story,Hip Hop,4,2025-03-03T14:20:00Z
+176,Felix,276,De La Soul,Me Myself and I,Hip Hop,4,2025-03-03T14:25:00Z
+177,Gloria,277,Mary J. Blige,Family Affair,R&B,5,2025-03-03T14:30:00Z
+178,Henry,278,Usher,Yeah!,R&B,5,2025-03-03T14:35:00Z
+179,Iris,279,TLC,No Scrubs,R&B,5,2025-03-03T14:40:00Z
+180,Jerry,280,Destiny's Child,Say My Name,R&B,5,2025-03-03T14:45:00Z
+181,Kate,281,Aaliyah,Are You That Somebody?,R&B,5,2025-03-04T16:00:00Z
+182,Leo,282,Ginuwine,Pony,R&B,4,2025-03-04T16:05:00Z
+183,Megan,283,Brandy & Monica,The Boy Is Mine,R&B,5,2025-03-04T16:10:00Z
+184,Nathan,284,Boyz II Men,End of the Road,R&B,5,2025-03-04T16:15:00Z
+185,Ophelia,285,Mariah Carey,Fantasy,R&B,4,2025-03-04T16:20:00Z
+186,Peter,286,Whitney Houston,I Will Always Love You,Soul,5,2025-03-04T16:25:00Z
+187,Queenie,287,Janet Jackson,That's the Way Love Goes,R&B,4,2025-03-04T16:30:00Z
+188,Roger,288,Sade,Smooth Operator,Smooth Jazz,5,2025-03-04T16:35:00Z
+189,Susan,289,Luther Vandross,Never Too Much,Soul,5,2025-03-04T16:40:00Z
+190,Tom,290,Stevie Wonder,Superstition,Funk,5,2025-03-04T16:45:00Z
+191,Uma,291,Marvin Gaye,What's Going On,Soul,5,2025-03-05T09:00:00Z
+192,Victor,292,Aretha Franklin,Respect,Soul,5,2025-03-05T09:05:00Z
+193,Wendy,293,James Brown,I Got You (I Feel Good),Funk,5,2025-03-05T09:10:00Z
+194,Xavier,294,Otis Redding,(Sittin' On) The Dock of the Bay,Soul,5,2025-03-05T09:15:00Z
+195,Yvonne,295,Sam Cooke,A Change Is Gonna Come,Soul,5,2025-03-05T09:20:00Z
+196,Zane,296,Ray Charles,Georgia on My Mind,Soul,5,2025-03-05T09:25:00Z
+197,Anna,297,Nina Simone,Feeling Good,Jazz,5,2025-03-05T09:30:00Z
+198,Bill,298,Etta James,At Last,Blues,5,2025-03-05T09:35:00Z
+199,Cathy,299,Billie Holiday,Strange Fruit,Jazz,5,2025-03-05T09:40:00Z
+200,Dave,300,Louis Armstrong,What a Wonderful World,Jazz,5,2025-03-05T09:45:00Z
+201,Zoe,301,Kishore Kumar,Mere Sapno Ki Rani,Bollywood,5,2025-04-01T10:00:00Z
+202,Yara,302,Lata Mangeshkar,Lag Jaa Gale,Bollywood,5,2025-04-01T10:05:00Z
+203,Xavier,303,Asha Bhosle,Piya Tu Ab To Aaja,Bollywood,4,2025-04-01T10:10:00Z
+204,Walter,304,Mohammed Rafi,Chura Liya Hai Tumne Jo Dil Ko,Bollywood,5,2025-04-01T10:15:00Z
+205,Violet,305,Mukesh,Kabhi Kabhie Mere Dil Mein,Bollywood,5,2025-04-01T10:20:00Z
+206,Ursula,306,R. D. Burman,Dum Maro Dum,Bollywood,4,2025-04-01T10:25:00Z
+207,Tom,307,A. R. Rahman,Jai Ho,Bollywood,5,2025-04-01T10:30:00Z
+208,Tina,308,Shreya Ghoshal,Teri Ore,Bollywood,4,2025-04-01T10:35:00Z
+209,Steve,309,Sunidhi Chauhan,Sheila Ki Jawani,Bollywood,3,2025-04-01T10:40:00Z
+210,Sara,310,Sonu Nigam,Kal Ho Naa Ho,Bollywood,5,2025-04-01T10:45:00Z
+211,Rick,311,Udit Narayan,Papa Kehte Hain,Bollywood,4,2025-04-02T12:00:00Z
+212,Quinn,312,Alka Yagnik,Tip Tip Barsa Paani,Bollywood,4,2025-04-02T12:05:00Z
+213,Peter,313,Kumar Sanu,Tujhe Dekha To,Bollywood,5,2025-04-02T12:10:00Z
+214,Pam,314,Lucky Ali,O Sanam,Indipop,5,2025-04-02T12:15:00Z
+215,Oscar,315,KK,Tadap Tadap Ke,Bollywood,5,2025-04-02T12:20:00Z
+216,Nancy,316,Mohit Chauhan,Tum Se Hi,Bollywood,5,2025-04-02T12:25:00Z
+217,Mike,317,Atif Aslam,Pehli Nazar Mein,Bollywood,4,2025-04-02T12:30:00Z
+218,Laura,318,Jagjit Singh,Hothon Se Chhu Lo Tum,Ghazal,5,2025-04-02T12:35:00Z
+219,Kyle,319,Pankaj Udhas,Chitthi Aayi Hai,Ghazal,5,2025-04-02T12:40:00Z
+220,Jane,320,Ghulam Ali,Chupke Chupke Raat Din,Ghazal,5,2025-04-02T12:45:00Z
+221,Ian,321,Mehdi Hassan,Ranjish Hi Sahi,Ghazal,5,2025-04-03T14:00:00Z
+222,Helen,322,Nusrat Fateh Ali Khan,Afreen Afreen,Sufi,5,2025-04-03T14:05:00Z
+223,George,323,Rahat Fateh Ali Khan,O Re Piya,Sufi,5,2025-04-03T14:10:00Z
+224,Fiona,324,Abida Parveen,Tere Ishq Nachaya,Sufi,5,2025-04-03T14:15:00Z
+225,Edward,325,Wadali Brothers,Tu Maane Ya Na Maane,Sufi,5,2025-04-03T14:20:00Z
+226,Debra,326,Diljit Dosanjh,Lover,Punjabi,4,2025-04-03T14:25:00Z
+227,Carl,327,AP Dhillon,Brown Munde,Punjabi,5,2025-04-03T14:30:00Z
+228,Beth,328,Sidhu Moose Wala,295,Punjabi,5,2025-04-03T14:35:00Z
+229,Aaron,329,Gurdas Maan,Challa,Punjabi Folk,5,2025-04-03T14:40:00Z
+230,Zelda,330,Harbhajan Mann,Gallan Goriyan,Punjabi,4,2025-04-03T14:45:00Z
+231,Yvonne,331,Babbu Maan,Mitran Di Chhatri,Punjabi,4,2025-04-04T16:00:00Z
+232,Xavier,332,Amrinder Gill,Dildarian,Punjabi,5,2025-04-04T16:05:00Z
+233,Wendy,333,Gippy Grewal,Angreji Beat,Punjabi,3,2025-04-04T16:10:00Z
+234,Victor,334,Yo Yo Honey Singh,Blue Eyes,Punjabi,3,2025-04-04T16:15:00Z
+235,Uma,335,Badshah,DJ Waley Babu,Punjabi,3,2025-04-04T16:20:00Z
+236,Tom,336,Guru Randhawa,Lahore,Punjabi,4,2025-04-04T16:25:00Z
+237,Susan,337,Jassie Gill,Nikle Currant,Punjabi,4,2025-04-04T16:30:00Z
+238,Roger,338,Hardy Sandhu,Soch,Punjabi,5,2025-04-04T16:35:00Z
+239,Queenie,339,Ammy Virk,Qismat,Punjabi,5,2025-04-04T16:40:00Z
+240,Peter,340,Parmish Verma,Gaal Ni Kadni,Punjabi,4,2025-04-04T16:45:00Z
+241,Ophelia,341,Sharry Maan,3 Peg,Punjabi,4,2025-04-05T09:00:00Z
+242,Nathan,342,Mankirt Aulakh,Badnam,Punjabi,4,2025-04-05T09:05:00Z
+243,Megan,343,Garry Sandhu,Yeah Baby,Punjabi,4,2025-04-05T09:10:00Z
+244,Leo,344,Akhil,Khaab,Punjabi,5,2025-04-05T09:15:00Z
+245,Kate,345,Prabh Gill,Tareyan De Des,Punjabi,5,2025-04-05T09:20:00Z
+246,Jerry,346,Ninja,Aadat,Punjabi,5,2025-04-05T09:25:00Z
+247,Iris,347,Ranjit Bawa,Jatt Di Akal,Punjabi,4,2025-04-05T09:30:00Z
+248,Henry,348,Kulwinder Billa,Time Table,Punjabi,4,2025-04-05T09:35:00Z
+249,Gloria,349,Anirudh Ravichander,Why This Kolaveri Di,Tamil,5,2025-04-05T09:40:00Z
+250,Felix,350,Dhanush,Rowdy Baby,Tamil,5,2025-04-05T09:45:00Z
+201,Zoe,101,Arijit Singh,Channa Mereya,Bollywood,5,2025-04-10T11:00:00Z
+202,Yara,110,Michael Jackson,Billie Jean,Pop,4,2025-04-10T11:05:00Z
+203,Xavier,122,The Weeknd,Blinding Lights,Synth-pop,5,2025-04-10T11:10:00Z
+204,Walter,159,Eagles,Hotel California,Rock,5,2025-04-10T11:15:00Z
+205,Violet,202,Tame Impala,The Less I Know The Better,Psychedelic Pop,4,2025-04-10T11:20:00Z
+206,Ursula,216,My Chemical Romance,Welcome to the Black Parade,Emo,5,2025-04-10T11:25:00Z
+207,Tom,224,Rage Against The Machine,Killing in the Name,Rap Metal,5,2025-04-10T11:30:00Z
+208,Tina,251,Tupac Shakur,Changes,Hip Hop,5,2025-04-10T11:35:00Z
+209,Steve,277,Mary J. Blige,Family Affair,R&B,4,2025-04-10T11:40:00Z
+210,Sara,307,A. R. Rahman,Jai Ho,Bollywood,5,2025-04-10T11:45:00Z
+251,Eve,351,Sid Sriram,Maruvarthai Pesathey,Tamil,5,2025-05-01T14:00:00Z
+252,Diana,352,Shweta Mohan,Enna Solla,Tamil,4,2025-05-01T14:05:00Z
+253,Charlie,353,Harris Jayaraj,Vaseegara,Tamil,5,2025-05-01T14:10:00Z
+254,Bob,354,Yuvan Shankar Raja,Oru Kal,Tamil,5,2025-05-01T14:15:00Z
+255,Alice,355,G. V. Prakash Kumar,Pookkal Pookkum,Tamil,4,2025-05-01T14:20:00Z
+256,Zack,356,S. P. Balasubrahmanyam,Ilamai Idho Idho,Tamil,5,2025-05-01T14:25:00Z
+257,Yara,357,K. J. Yesudas,Raja Raja Chozhan,Tamil,5,2025-05-01T14:30:00Z
+258,Xander,358,Ilaiyaraaja,Thenpandi Cheemayile,Tamil,5,2025-05-01T14:35:00Z
+259,Wanda,359,S. Janaki,Singara Velane Deva,Tamil,5,2025-05-01T14:40:00Z
+260,Vince,360,P. Susheela,Paattum Naane,Tamil,5,2025-05-01T14:45:00Z
+261,Ursula,361,S. S. Thaman,ButtaBomma,Telugu,5,2025-05-02T16:00:00Z
+262,Tracy,362,Devi Sri Prasad,Ringa Ringa,Telugu,4,2025-05-02T16:05:00Z
+263,Sam,363,M. M. Keeravani,Naatu Naatu,Telugu,5,2025-05-02T16:10:00Z
+264,Rachel,364,Anup Rubens,Pilla Nuvvu Leni Jeevitham,Telugu,4,2025-05-02T16:15:00Z
+265,Paul,365,Ghibran,Saaho,Telugu,4,2025-05-02T16:20:00Z
+266,Olga,366,Vidyasagar,Appadi Podu,Tamil,5,2025-05-02T16:25:00Z
+267,Ned,367,Vijay Antony,Nakka Mukka,Tamil,4,2025-05-02T16:30:00Z
+268,Mona,368,D. Imman,Kannamma,Tamil,5,2025-05-02T16:35:00Z
+269,Larry,369,Santhosh Narayanan,Enjoy Enjaami,Tamil,5,2025-05-02T16:40:00Z
+270,Karen,370,Hiphop Tamizha,Takkaru Takkaru,Tamil,4,2025-05-02T16:45:00Z
+271,Jack,371,Gopi Sundar,Inkem Inkem Inkem Kaavaale,Telugu,5,2025-05-03T09:00:00Z
+272,Irene,372,Thaman S,Samajavaragamana,Telugu,5,2025-05-03T09:05:00Z
+273,Harry,373,Koti,Hello Guru Prema Kosame,Telugu,4,2025-05-03T09:10:00Z
+274,Gina,374,Ramana Gogula,Thammudu,Telugu,4,2025-05-03T09:15:00Z
+275,Fred,375,Chakri,Idiot,Telugu,4,2025-05-03T09:20:00Z
+276,Elaine,376,Mani Sharma,Bommali,Telugu,5,2025-05-03T09:25:00Z
+277,Derek,377,S. A. Rajkumar,Raja,Telugu,4,2025-05-03T09:30:00Z
+278,Cindy,378,Raj-Koti,Yamaho Ni,Telugu,4,2025-05-03T09:35:00Z
+279,Brian,379,S. V. Krishna Reddy,Ghatothkachudu,Telugu,4,2025-05-03T09:40:00Z
+280,Amy,380,Saluri Koteswara Rao,Mayabazar,Telugu,5,2025-05-03T09:45:00Z
+281,Zack,381,G. Devarajan,Sanyasini,Malayalam,5,2025-05-04T11:00:00Z
+282,Yvonne,382,M. S. Baburaj,Oru Pushpam,Malayalam,5,2025-05-04T11:05:00Z
+283,Xavier,383,V. Dakshinamoorthy,Kaattile,Malayalam,5,2025-05-04T11:10:00Z
+284,Wendy,384,Johnson,Enthinu Veroru,Malayalam,5,2025-05-04T11:15:00Z
+285,Victor,385,M. G. Radhakrishnan,Poomukha Padiyil,Malayalam,5,2025-05-04T11:20:00Z
+286,Uma,386,Raveendran,Pramadhavanam,Malayalam,5,2025-05-04T11:25:00Z
+287,Tom,387,Ouseppachan,Unarumee Gaanam,Malayalam,5,2025-05-04T11:30:00Z
+288,Susan,388,Sharreth,Mazha,Malayalam,5,2025-05-04T11:35:00Z
+289,Roger,389,Bijibal,Oru Makara Nilavayi,Malayalam,5,2025-05-04T11:40:00Z
+290,Queenie,390,Shaan Rahman,Jimikki Kammal,Malayalam,4,2025-05-04T11:45:00Z
+291,Peter,391,Hamsalekha,Huttidare Kannada,Kannada,5,2025-05-05T14:00:00Z
+292,Ophelia,392,Upendra Kumar,Jeeva Veene,Kannada,5,2025-05-05T14:05:00Z
+293,Nathan,393,Rajan-Nagendra,Naa Ninna Mareyalare,Kannada,5,2025-05-05T14:10:00Z
+294,Megan,394,G. K. Venkatesh,Adisi Nodu,Kannada,5,2025-05-05T14:15:00Z
+295,Leo,395,V. Harikrishna,Gaja,Kannada,4,2025-05-05T14:20:00Z
+296,Kate,396,Arjun Janya,Ayogya,Kannada,4,2025-05-05T14:25:00Z
+297,Jerry,397,Gurukiran,Jogi,Kannada,4,2025-05-05T14:30:00Z
+298,Iris,398,Sadhu Kokila,Huchcha,Kannada,4,2025-05-05T14:35:00Z
+299,Henry,399,Raghu Dixit,Ninna Poojege,Kannada Folk,5,2025-05-05T14:40:00Z
+300,Gloria,400,All Ok,Don't Worry,Kannada Rap,4,2025-05-05T14:45:00Z
+301,Frank,101,Arijit Singh,Channa Mereya,Bollywood,4,2025-06-01T09:00:00Z
+302,Eve,102,Ed Sheeran,Shape of You,Pop,4,2025-06-01T09:05:00Z
+303,Diana,103,Taylor Swift,Blank Space,Pop,3,2025-06-01T09:10:00Z
+304,Charlie,104,Coldplay,Yellow,Alternative,5,2025-06-01T09:15:00Z
+305,Bob,105,Queen,Bohemian Rhapsody,Rock,5,2025-06-01T09:20:00Z
+306,Alice,106,Drake,God's Plan,Hip Hop,2,2025-06-01T09:25:00Z
+307,Zoe,107,Beyonce,Crazy in Love,R&B,5,2025-06-01T09:30:00Z
+308,Yara,108,Nirvana,Smells Like Teen Spirit,Grunge,4,2025-06-01T09:35:00Z
+309,Xavier,109,Adele,Someone Like You,Soul,5,2025-06-01T09:40:00Z
+310,Walter,110,Michael Jackson,Billie Jean,Pop,4,2025-06-01T09:45:00Z
+311,Violet,111,The Beatles,Hey Jude,Rock,5,2025-06-02T11:00:00Z
+312,Ursula,112,Eminem,Lose Yourself,Hip Hop,5,2025-06-02T11:05:00Z
+313,Tom,113,Led Zeppelin,Stairway to Heaven,Rock,5,2025-06-02T11:10:00Z
+314,Tina,114,Bob Marley,No Woman, No Cry,Reggae,4,2025-06-02T11:15:00Z
+315,Steve,115,Rihanna,Umbrella,R&B,3,2025-06-02T11:20:00Z
+316,Sara,116,U2,With or Without You,Rock,4,2025-06-02T11:25:00Z
+317,Rick,117,Katy Perry,Firework,Pop,3,2025-06-02T11:30:00Z
+318,Quinn,118,Red Hot Chili Peppers,Californication,Alternative,5,2025-06-02T11:35:00Z
+319,Peter,119,Justin Bieber,Sorry,Pop,1,2025-06-02T11:40:00Z
+320,Pam,120,Kendrick Lamar,HUMBLE.,Hip Hop,5,2025-06-02T11:45:00Z
+321,Oscar,121,Dua Lipa,Don't Start Now,Pop,4,2025-06-03T14:00:00Z
+322,Nancy,122,The Weeknd,Blinding Lights,Synth-pop,5,2025-06-03T14:05:00Z
+323,Mike,123,Post Malone,Circles,Pop Rock,4,2025-06-03T14:10:00Z
+324,Laura,124,Billie Eilish,bad guy,Pop,4,2025-06-03T14:15:00Z
+325,Kyle,125,Lizzo,Truth Hurts,Hip Hop,5,2025-06-03T14:20:00Z
+326,Jane,126,Ariana Grande,7 rings,Pop,3,2025-06-03T14:25:00Z
+327,Ian,127,Imagine Dragons,Believer,Alternative Rock,4,2025-06-03T14:30:00Z
+328,Helen,128,Maroon 5,Memories,Pop,3,2025-06-03T14:35:00Z
+329,George,129,Shawn Mendes,Señorita,Pop,4,2025-06-03T14:40:00Z
+330,Fiona,130,Halsey,Without Me,Pop,4,2025-06-03T14:45:00Z
+331,Edward,131,Jonas Brothers,Sucker,Pop,3,2025-06-04T16:00:00Z
+332,Debra,132,Cardi B,I Like It,Hip Hop,5,2025-06-04T16:05:00Z
+333,Carl,133,Travis Scott,SICKO MODE,Hip Hop,4,2025-06-04T16:10:00Z
+334,Beth,134,Panic! At The Disco,High Hopes,Pop Rock,4,2025-06-04T16:15:00Z
+335,Aaron,135,Khalid,Talk,R&B,5,2025-06-04T16:20:00Z
+336,Zelda,136,Sam Smith,Dancing With A Stranger,Pop,4,2025-06-04T16:25:00Z
+337,Yvonne,137,Camila Cabello,Havana,Pop,4,2025-06-04T16:30:00Z
+338,Xavier,138,5 Seconds of Summer,Youngblood,Pop Rock,3,2025-06-04T16:35:00Z
+339,Wendy,139,Bad Bunny,MIA,Reggaeton,5,2025-06-04T16:40:00Z
+340,Victor,140,J Balvin,Mi Gente,Reggaeton,5,2025-06-04T16:45:00Z
+341,Uma,141,Harry Styles,Watermelon Sugar,Pop,5,2025-06-05T09:00:00Z
+342,Tom,142,Lewis Capaldi,Someone You Loved,Pop,4,2025-06-05T09:05:00Z
+343,Susan,143,Lil Nas X,Old Town Road,Country Rap,5,2025-06-05T09:10:00Z
+344,Roger,144,DaBaby,Suge,Hip Hop,4,2025-06-05T09:15:00Z
+345,Queenie,145,Roddy Ricch,The Box,Hip Hop,5,2025-06-05T09:20:00Z
+346,Peter,146,Megan Thee Stallion,Savage,Hip Hop,5,2025-06-05T09:25:00Z
+347,Ophelia,147,Doja Cat,Say So,Pop,4,2025-06-05T09:30:00Z
+348,Nathan,148,Justin Timberlake,Can't Stop the Feeling!,Pop,3,2025-06-05T09:35:00Z
+349,Megan,149,Pharrell Williams,Happy,Pop,4,2025-06-05T09:40:00Z
+350,Leo,150,Bruno Mars,Uptown Funk,Funk,5,2025-06-05T09:45:00Z
+351,Kate,151,AC/DC,Back in Black,Hard Rock,5,2025-06-06T11:00:00Z
+352,Jerry,152,Guns N' Roses,Sweet Child O' Mine,Hard Rock,5,2025-06-06T11:05:00Z
+353,Iris,153,Metallica,Enter Sandman,Heavy Metal,4,2025-06-06T11:10:00Z
+354,Henry,154,Black Sabbath,Paranoid,Heavy Metal,4,2025-06-06T11:15:00Z
+355,Gloria,155,The Rolling Stones,Paint It, Black,Rock,5,2025-06-06T11:20:00Z
+356,Felix,156,Aerosmith,Dream On,Rock,4,2025-06-06T11:25:00Z
+357,Elaine,157,Pink Floyd,Another Brick in the Wall, Pt. 2,Progressive Rock,5,2025-06-06T11:30:00Z
+358,Derek,158,The Who,Baba O'Riley,Rock,4,2025-06-06T11:35:00Z
+359,Cindy,159,Eagles,Hotel California,Rock,5,2025-06-06T11:40:00Z
+360,Brian,160,Journey,Don't Stop Believin',Rock,5,2025-06-06T11:45:00Z
+361,Amy,161,Bon Jovi,Livin' on a Prayer,Glam Metal,5,2025-06-07T14:00:00Z
+362,Zack,162,Def Leppard,Pour Some Sugar on Me,Glam Metal,4,2025-06-07T14:05:00Z
+363,Yara,163,Van Halen,Jump,Hard Rock,4,2025-06-07T14:10:00Z
+364,Xander,164,ZZ Top,La Grange,Blues Rock,4,2025-06-07T14:15:00Z
+365,Wanda,165,Lynyrd Skynyrd,Sweet Home Alabama,Southern Rock,5,2025-06-07T14:20:00Z
+366,Vince,166,Creedence Clearwater Revival,Fortunate Son,Roots Rock,5,2025-06-07T14:25:00Z
+367,Ursula,167,Jimi Hendrix,All Along the Watchtower,Psychedelic Rock,5,2025-06-07T14:30:00Z
+368,Tracy,168,The Doors,Light My Fire,Psychedelic Rock,4,2025-06-07T14:35:00Z
+369,Sam,169,Janis Joplin,Piece of My Heart,Blues Rock,4,2025-06-07T14:40:00Z
+370,Rachel,170,Stevie Ray Vaughan,Pride and Joy,Blues,5,2025-06-07T14:45:00Z
+371,Paul,171,B.B. King,The Thrill Is Gone,Blues,5,2025-06-08T16:00:00Z
+372,Olga,172,Muddy Waters,Mannish Boy,Blues,4,2025-06-08T16:05:00Z
+373,Ned,173,John Lee Hooker,Boom Boom,Blues,4,2025-06-08T16:10:00Z
+374,Mona,174,Howlin' Wolf,Smokestack Lightnin',Blues,4,2025-06-08T16:15:00Z
+375,Larry,175,Robert Johnson,Cross Road Blues,Delta Blues,5,2025-06-08T16:20:00Z
+376,Karen,176,Frank Sinatra,My Way,Traditional Pop,5,2025-06-08T16:25:00Z
+377,Jack,177,Elvis Presley,Jailhouse Rock,Rock and Roll,5,2025-06-08T16:30:00Z
+378,Irene,178,Johnny Cash,Hurt,Country,5,2025-06-08T16:35:00Z
+379,Harry,179,Dolly Parton,Jolene,Country,5,2025-06-08T16:40:00Z
+380,Gina,180,Willie Nelson,On the Road Again,Country,4,2025-06-08T16:45:00Z
+381,Fred,181,Patsy Cline,Crazy,Country,5,2025-06-09T09:00:00Z
+382,Elaine,182,Hank Williams,I'm So Lonesome I Could Cry,Country,5,2025-06-09T09:05:00Z
+383,Derek,183,George Strait,Amarillo by Morning,Country,4,2025-06-09T09:10:00Z
+384,Cindy,184,Garth Brooks,The Dance,Country,5,2025-06-09T09:15:00Z
+385,Brian,185,Shania Twain,Man! I Feel Like a Woman!,Country Pop,4,2025-06-09T09:20:00Z
+386,Amy,186,Alan Jackson,Chattahoochee,Country,4,2025-06-09T09:25:00Z
+387,Zelda,187,Tim McGraw,Live Like You Were Dying,Country,5,2025-06-09T09:30:00Z
+388,Yvonne,188,Kenny Chesney,The Good Stuff,Country,4,2025-06-09T09:35:00Z
+389,Xavier,189,Carrie Underwood,Before He Cheats,Country Pop,5,2025-06-09T09:40:00Z
+390,Wendy,190,Luke Bryan,Country Girl (Shake It for Me),Country,3,2025-06-09T09:45:00Z
+391,Victor,191,Florida Georgia Line,Cruise,Country Pop,3,2025-06-10T11:00:00Z
+392,Uma,192,Jason Aldean,Dirt Road Anthem,Country Rap,4,2025-06-10T11:05:00Z
+393,Tom,193,Blake Shelton,God's Country,Country,4,2025-06-10T11:10:00Z
+394,Susan,194,Darius Rucker,Wagon Wheel,Country,5,2025-06-10T11:15:00Z
+395,Roger,195,Chris Stapleton,Tennessee Whiskey,Country,5,2025-06-10T11:20:00Z
+396,Queenie,196,Luke Combs,Beautiful Crazy,Country,5,2025-06-10T11:25:00Z
+397,Peter,197,Morgan Wallen,Whiskey Glasses,Country,4,2025-06-10T11:30:00Z
+398,Ophelia,198,Sam Hunt,Body Like a Back Road,Country Pop,3,2025-06-10T11:35:00Z
+399,Nathan,199,Dan + Shay,Tequila,Country Pop,4,2025-06-10T11:40:00Z
+400,Megan,200,Maren Morris,The Bones,Country Pop,5,2025-06-10T11:45:00Z
+401,Laura,201,Daft Punk,Get Lucky,Funk,5,2025-07-01T10:00:00Z
+402,Kyle,202,Tame Impala,The Less I Know The Better,Psychedelic Pop,4,2025-07-01T10:05:00Z
+403,Jane,203,Arctic Monkeys,Do I Wanna Know?,Indie Rock,4,2025-07-01T10:10:00Z
+404,Ian,204,Florence + The Machine,Dog Days Are Over,Indie Pop,5,2025-07-01T10:15:00Z
+405,Helen,205,The Killers,Mr. Brightside,Alternative Rock,5,2025-07-01T10:20:00Z
+406,George,206,Foo Fighters,Everlong,Alternative Rock,5,2025-07-01T10:25:00Z
+407,Fiona,207,Radiohead,Creep,Alternative Rock,4,2025-07-01T10:30:00Z
+408,Edward,208,Oasis,Wonderwall,Britpop,3,2025-07-01T10:35:00Z
+409,Debra,209,Blur,Song 2,Alternative Rock,4,2025-07-01T10:40:00Z
+410,Carl,210,The Smashing Pumpkins,1979,Alternative Rock,5,2025-07-01T10:45:00Z
+411,Beth,211,Weezer,Buddy Holly,Alternative Rock,4,2025-07-02T12:00:00Z
+412,Aaron,212,Green Day,Basket Case,Punk Rock,4,2025-07-02T12:05:00Z
+413,Zelda,213,The Offspring,Self Esteem,Punk Rock,4,2025-07-02T12:10:00Z
+414,Yvonne,214,Blink-182,All the Small Things,Pop Punk,5,2025-07-02T12:15:00Z
+415,Xavier,215,Sum 41,In Too Deep,Pop Punk,4,2025-07-02T12:20:00Z
+416,Wendy,216,My Chemical Romance,Welcome to the Black Parade,Emo,5,2025-07-02T12:25:00Z
+417,Victor,217,Fall Out Boy,Sugar, We're Goin Down,Emo,5,2025-07-02T12:30:00Z
+418,Uma,218,Paramore,Misery Business,Emo,5,2025-07-02T12:35:00Z
+419,Tom,219,Jimmy Eat World,The Middle,Alternative Rock,4,2025-07-02T12:40:00Z
+420,Susan,220,Linkin Park,In the End,Nu Metal,5,2025-07-02T12:45:00Z
+421,Roger,221,System Of A Down,Chop Suey!,Nu Metal,5,2025-07-03T14:00:00Z
+422,Queenie,222,Korn,Freak on a Leash,Nu Metal,4,2025-07-03T14:05:00Z
+423,Peter,223,Limp Bizkit,Break Stuff,Nu Metal,2,2025-07-03T14:10:00Z
+424,Ophelia,224,Rage Against The Machine,Killing in the Name,Rap Metal,5,2025-07-03T14:15:00Z
+425,Nathan,225,Audioslave,Like a Stone,Alternative Rock,5,2025-07-03T14:20:00Z
+426,Megan,226,Soundgarden,Black Hole Sun,Grunge,5,2025-07-03T14:25:00Z
+427,Leo,227,Pearl Jam,Jeremy,Grunge,4,2025-07-03T14:30:00Z
+428,Kate,228,Alice in Chains,Man in the Box,Grunge,4,2025-07-03T14:35:00Z
+429,Jerry,229,Stone Temple Pilots,Plush,Grunge,4,2025-07-03T14:40:00Z
+430,Iris,230,Temple of the Dog,Hunger Strike,Grunge,5,2025-07-03T14:45:00Z
+431,Henry,231,The Cranberries,Zombie,Alternative Rock,5,2025-07-04T16:00:00Z
+432,Gloria,232,No Doubt,Don't Speak,Ska Punk,4,2025-07-04T16:05:00Z
+433,Felix,233,Sublime,Santeria,Ska Punk,5,2025-07-04T16:10:00Z
+434,Elaine,234,Reel Big Fish,Sell Out,Ska Punk,4,2025-07-04T16:15:00Z
+435,Derek,235,Goldfinger,Superman,Ska Punk,4,2025-07-04T16:20:00Z
+436,Cindy,236,The Mighty Mighty Bosstones,The Impression That I Get,Ska Punk,4,2025-07-04T16:25:00Z
+437,Brian,237,Streetlight Manifesto,A Better Place, a Better Time,Ska Punk,5,2025-07-04T16:30:00Z
+438,Amy,238,Less Than Jake,All My Best Friends Are Metalheads,Ska Punk,3,2025-07-04T16:35:00Z
+439,Zack,239,Madness,Our House,Ska,4,2025-07-04T16:40:00Z
+440,Yara,240,The Specials,A Message to You Rudy,Ska,5,2025-07-04T16:45:00Z
+441,Xander,241,Bob Dylan,Like a Rolling Stone,Folk Rock,5,2025-07-05T09:00:00Z
+442,Wanda,242,Simon & Garfunkel,The Sound of Silence,Folk Rock,5,2025-07-05T09:05:00Z
+443,Vince,243,The Byrds,Mr. Tambourine Man,Folk Rock,4,2025-07-05T09:10:00Z
+444,Ursula,244,Crosby, Stills, Nash & Young,Ohio,Folk Rock,5,2025-07-05T09:15:00Z
+445,Tracy,245,Joni Mitchell,Big Yellow Taxi,Folk,4,2025-07-05T09:20:00Z
+446,Sam,246,Neil Young,Heart of Gold,Folk Rock,5,2025-07-05T09:25:00Z
+447,Rachel,247,James Taylor,Fire and Rain,Folk,4,2025-07-05T09:30:00Z
+448,Paul,248,Carole King,You've Got a Friend,Singer-Songwriter,5,2025-07-05T09:35:00Z
+449,Olga,249,Cat Stevens,Wild World,Folk,4,2025-07-05T09:40:00Z
+450,Ned,250,Don McLean,American Pie,Folk Rock,5,2025-07-05T09:45:00Z
+451,Mona,251,Tupac Shakur,Changes,Hip Hop,5,2025-08-01T10:00:00Z
+452,Larry,252,The Notorious B.I.G.,Juicy,Hip Hop,5,2025-08-01T10:05:00Z
+453,Karen,253,Nas,N.Y. State of Mind,Hip Hop,5,2025-08-01T10:10:00Z
+454,Jack,254,Jay-Z,99 Problems,Hip Hop,4,2025-08-01T10:15:00Z
+455,Irene,255,Kanye West,Stronger,Hip Hop,4,2025-08-01T10:20:00Z
+456,Harry,256,OutKast,Hey Ya!,Hip Hop,5,2025-08-01T10:25:00Z
+457,Gina,257,A Tribe Called Quest,Can I Kick It?,Hip Hop,5,2025-08-01T10:30:00Z
+458,Fred,258,Wu-Tang Clan,C.R.E.A.M.,Hip Hop,5,2025-08-01T10:35:00Z
+459,Elaine,259,Dr. Dre,Nuthin' But A 'G' Thang,G-Funk,5,2025-08-01T10:40:00Z
+460,Derek,260,Snoop Dogg,Gin And Juice,G-Funk,5,2025-08-01T10:45:00Z
+461,Cindy,261,N.W.A,Straight Outta Compton,Gangsta Rap,5,2025-08-02T12:00:00Z
+462,Brian,262,Ice Cube,It Was A Good Day,G-Funk,5,2025-08-02T12:05:00Z
+463,Amy,263,Public Enemy,Fight The Power,Hip Hop,5,2025-08-02T12:10:00Z
+464,Zack,264,Run-DMC,It's Tricky,Hip Hop,4,2025-08-02T12:15:00Z
+465,Yara,265,Beastie Boys,Sabotage,Rap Rock,5,2025-08-02T12:20:00Z
+466,Xander,266,LL Cool J,Mama Said Knock You Out,Hip Hop,4,2025-08-02T12:25:00Z
+467,Wanda,267,Missy Elliott,Work It,Hip Hop,5,2025-08-02T12:30:00Z
+468,Vince,268,Lauryn Hill,Doo Wop (That Thing),Neo Soul,5,2025-08-02T12:35:00Z
+469,Ursula,269,Fugees,Killing Me Softly With His Song,Hip Hop,5,2025-08-02T12:40:00Z
+470,Tracy,270,Cypress Hill,Insane in the Brain,Hip Hop,4,2025-08-02T12:45:00Z
+471,Sam,271,Salt-N-Pepa,Push It,Hip Hop,4,2025-08-03T14:00:00Z
+472,Rachel,272,Grandmaster Flash & The Furious Five,The Message,Hip Hop,5,2025-08-03T14:05:00Z
+473,Paul,273,The Sugarhill Gang,Rapper's Delight,Hip Hop,5,2025-08-03T14:10:00Z
+474,Olga,274,Eric B. & Rakim,Paid in Full,Hip Hop,5,2025-08-03T14:15:00Z
+475,Ned,275,Slick Rick,Children's Story,Hip Hop,4,2025-08-03T14:20:00Z
+476,Mona,276,De La Soul,Me Myself and I,Hip Hop,4,2025-08-03T14:25:00Z
+477,Larry,277,Mary J. Blige,Family Affair,R&B,5,2025-08-03T14:30:00Z
+478,Karen,278,Usher,Yeah!,R&B,5,2025-08-03T14:35:00Z
+479,Jack,279,TLC,No Scrubs,R&B,5,2025-08-03T14:40:00Z
+480,Irene,280,Destiny's Child,Say My Name,R&B,5,2025-08-03T14:45:00Z
+481,Harry,281,Aaliyah,Are You That Somebody?,R&B,5,2025-08-04T16:00:00Z
+482,Gina,282,Ginuwine,Pony,R&B,4,2025-08-04T16:05:00Z
+483,Fred,283,Brandy & Monica,The Boy Is Mine,R&B,5,2025-08-04T16:10:00Z
+484,Elaine,284,Boyz II Men,End of the Road,R&B,5,2025-08-04T16:15:00Z
+485,Derek,285,Mariah Carey,Fantasy,R&B,4,2025-08-04T16:20:00Z
+486,Cindy,286,Whitney Houston,I Will Always Love You,Soul,5,2025-08-04T16:25:00Z
+487,Brian,287,Janet Jackson,That's the Way Love Goes,R&B,4,2025-08-04T16:30:00Z
+488,Amy,288,Sade,Smooth Operator,Smooth Jazz,5,2025-08-04T16:35:00Z
+489,Zack,289,Luther Vandross,Never Too Much,Soul,5,2025-08-04T16:40:00Z
+490,Yara,290,Stevie Wonder,Superstition,Funk,5,2025-08-04T16:45:00Z
+491,Xander,291,Marvin Gaye,What's Going On,Soul,5,2025-08-05T09:00:00Z
+492,Wanda,292,Aretha Franklin,Respect,Soul,5,2025-08-05T09:05:00Z
+493,Vince,293,James Brown,I Got You (I Feel Good),Funk,5,2025-08-05T09:10:00Z
+494,Ursula,294,Otis Redding,(Sittin' On) The Dock of the Bay,Soul,5,2025-08-05T09:15:00Z
+495,Tracy,295,Sam Cooke,A Change Is Gonna Come,Soul,5,2025-08-05T09:20:00Z
+496,Sam,296,Ray Charles,Georgia on My Mind,Soul,5,2025-08-05T09:25:00Z
+497,Rachel,297,Nina Simone,Feeling Good,Jazz,5,2025-08-05T09:30:00Z
+498,Paul,298,Etta James,At Last,Blues,5,2025-08-05T09:35:00Z
+499,Olga,299,Billie Holiday,Strange Fruit,Jazz,5,2025-08-05T09:40:00Z
+500,Ned,300,Louis Armstrong,What a Wonderful World,Jazz,5,2025-08-05T09:45:00Z
